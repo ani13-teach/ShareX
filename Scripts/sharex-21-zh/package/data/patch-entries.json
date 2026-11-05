@@ -1,0 +1,9202 @@
+[
+  {
+    "key": "100663386:64",
+    "source": "ShareX - Background Remover",
+    "translation": "ShareX - 背景移除"
+  },
+  {
+    "key": "100663386:2558",
+    "source": "Image",
+    "translation": "图片"
+  },
+  {
+    "key": "100663386:2688",
+    "source": "No image selected",
+    "translation": "未选择图片"
+  },
+  {
+    "key": "100663386:2810",
+    "source": "Browse...",
+    "translation": "浏览..."
+  },
+  {
+    "key": "100663386:3113",
+    "source": "Models",
+    "translation": "模型"
+  },
+  {
+    "key": "100663386:3664",
+    "source": "Background removal model",
+    "translation": "背景移除模型"
+  },
+  {
+    "key": "100663386:3990",
+    "source": "Refresh models",
+    "translation": "刷新模型"
+  },
+  {
+    "key": "100663386:4462",
+    "source": "Open models folder",
+    "translation": "打开模型文件夹"
+  },
+  {
+    "key": "100663386:5014",
+    "source": "Open guide page...",
+    "translation": "打开使用指南..."
+  },
+  {
+    "key": "100663386:5219",
+    "source": "Device",
+    "translation": "设备"
+  },
+  {
+    "key": "100663386:5586",
+    "source": "Processing device",
+    "translation": "处理设备"
+  },
+  {
+    "key": "100663386:5683",
+    "source": "Remove Background",
+    "translation": "移除背景"
+  },
+  {
+    "key": "100663386:6010",
+    "source": "Select an image to preview it here.",
+    "translation": "选择图片后在此预览。"
+  },
+  {
+    "key": "100663386:7002",
+    "source": "Save",
+    "translation": "保存"
+  },
+  {
+    "key": "100663386:7394",
+    "source": "Save as...",
+    "translation": "另存为..."
+  },
+  {
+    "key": "100663388:77",
+    "source": "Save image as",
+    "translation": "图片另存为"
+  },
+  {
+    "key": "100663396:1914",
+    "source": "Yes",
+    "translation": "是"
+  },
+  {
+    "key": "100663396:2122",
+    "source": "No",
+    "translation": "否"
+  },
+  {
+    "key": "100663396:2329",
+    "source": "Cancel",
+    "translation": "取消"
+  },
+  {
+    "key": "100663540:16",
+    "source": "Achievement unlocked!",
+    "translation": "解锁成就！"
+  },
+  {
+    "key": "100663557:54",
+    "source": "Applied ",
+    "translation": "已应用"
+  },
+  {
+    "key": "100663638:3090",
+    "source": "Background",
+    "translation": "背景"
+  },
+  {
+    "key": "100663638:3328",
+    "source": "Margin",
+    "translation": "外边距"
+  },
+  {
+    "key": "100663638:4012",
+    "source": "Padding",
+    "translation": "内边距"
+  },
+  {
+    "key": "100663638:4522",
+    "source": "Smart padding",
+    "translation": "智能留白"
+  },
+  {
+    "key": "100663638:5004",
+    "source": "Rounded Corner",
+    "translation": "圆角"
+  },
+  {
+    "key": "100663638:5688",
+    "source": "Shadow Radius",
+    "translation": "阴影半径"
+  },
+  {
+    "key": "100663638:6254",
+    "source": "Ratio",
+    "translation": "比例"
+  },
+  {
+    "key": "100663638:6605",
+    "source": "Auto",
+    "translation": "自动"
+  },
+  {
+    "key": "100663638:9923",
+    "source": "Background",
+    "translation": "背景"
+  },
+  {
+    "key": "100663638:11222",
+    "source": "Edit gradient color 1",
+    "translation": "编辑渐变颜色 1"
+  },
+  {
+    "key": "100663638:11350",
+    "source": "Edit gradient color 2",
+    "translation": "编辑渐变颜色 2"
+  },
+  {
+    "key": "100663638:14107",
+    "source": "Edit background color",
+    "translation": "编辑背景颜色"
+  },
+  {
+    "key": "100663638:15196",
+    "source": "Browse background image...",
+    "translation": "浏览背景图片..."
+  },
+  {
+    "key": "100663638:15423",
+    "source": "Background image",
+    "translation": "背景图片"
+  },
+  {
+    "key": "100663638:21947",
+    "source": "Zoom (Ctrl + Wheel)",
+    "translation": "缩放（Ctrl + 滚轮）"
+  },
+  {
+    "key": "100663638:22831",
+    "source": "Cancel (Esc)",
+    "translation": "取消（Esc）"
+  },
+  {
+    "key": "100663638:23936",
+    "source": "Copy image to clipboard (Ctrl+C)",
+    "translation": "复制图片到剪贴板（Ctrl+C）"
+  },
+  {
+    "key": "100663638:24381",
+    "source": "Save image (Ctrl+S)",
+    "translation": "保存图片（Ctrl+S）"
+  },
+  {
+    "key": "100663638:24826",
+    "source": "Save image as... (Ctrl+Shift+S)",
+    "translation": "图片另存为...（Ctrl+Shift+S）"
+  },
+  {
+    "key": "100663638:25346",
+    "source": "Pin image to screen (Ctrl+P)",
+    "translation": "将图片固定到屏幕（Ctrl+P）"
+  },
+  {
+    "key": "100663638:25866",
+    "source": "Print image... (Ctrl+Shift+P)",
+    "translation": "打印图片...（Ctrl+Shift+P）"
+  },
+  {
+    "key": "100663638:26385",
+    "source": "Upload image (Ctrl+U)",
+    "translation": "上传图片（Ctrl+U）"
+  },
+  {
+    "key": "100663696:92",
+    "source": "Select background image",
+    "translation": "选择背景图片"
+  },
+  {
+    "key": "100663706:43",
+    "source": "Select image",
+    "translation": "选择图片"
+  },
+  {
+    "key": "100663708:78",
+    "source": "Failed to load image from clipboard.",
+    "translation": "无法从剪贴板加载图片。"
+  },
+  {
+    "key": "100663708:967",
+    "source": "Failed to load image from clipboard.\nClipboard does not contain an image.",
+    "translation": "无法从剪贴板加载图片。\n剪贴板中没有图片。"
+  },
+  {
+    "key": "100663708:993",
+    "source": "Failed to load image from clipboard.",
+    "translation": "无法从剪贴板加载图片。"
+  },
+  {
+    "key": "100663708:1012",
+    "source": "Failed to load image from clipboard.",
+    "translation": "无法从剪贴板加载图片。"
+  },
+  {
+    "key": "100663710:591",
+    "source": "The URL does not point to a valid image.",
+    "translation": "该网址未指向有效图片。"
+  },
+  {
+    "key": "100663710:770",
+    "source": "Failed to download image: ",
+    "translation": "下载图片失败："
+  },
+  {
+    "key": "100663712:104",
+    "source": "Open image",
+    "translation": "打开图片"
+  },
+  {
+    "key": "100663724:21",
+    "source": "Select image",
+    "translation": "选择图片"
+  },
+  {
+    "key": "100663726:99",
+    "source": "Save image as",
+    "translation": "图片另存为"
+  },
+  {
+    "key": "100663737:276",
+    "source": "Undo",
+    "translation": "撤销"
+  },
+  {
+    "key": "100663737:547",
+    "source": "Redo",
+    "translation": "重做"
+  },
+  {
+    "key": "100663737:855",
+    "source": "Delete",
+    "translation": "删除"
+  },
+  {
+    "key": "100663737:1126",
+    "source": "Delete all",
+    "translation": "全部删除"
+  },
+  {
+    "key": "100663737:1397",
+    "source": "Flatten",
+    "translation": "合并标注"
+  },
+  {
+    "key": "100663737:1705",
+    "source": "Cut",
+    "translation": "剪切"
+  },
+  {
+    "key": "100663737:1976",
+    "source": "Copy",
+    "translation": "复制"
+  },
+  {
+    "key": "100663737:2247",
+    "source": "Paste",
+    "translation": "粘贴"
+  },
+  {
+    "key": "100663737:2518",
+    "source": "Duplicate",
+    "translation": "创建副本"
+  },
+  {
+    "key": "100663737:2826",
+    "source": "Bring to front",
+    "translation": "置于顶层"
+  },
+  {
+    "key": "100663737:3097",
+    "source": "Bring forward",
+    "translation": "上移一层"
+  },
+  {
+    "key": "100663737:3368",
+    "source": "Send backward",
+    "translation": "下移一层"
+  },
+  {
+    "key": "100663737:3639",
+    "source": "Send to back",
+    "translation": "置于底层"
+  },
+  {
+    "key": "100663754:8",
+    "source": "ShareX - Image Editor - ",
+    "translation": "ShareX - 图片编辑器 - "
+  },
+  {
+    "key": "100663754:20",
+    "source": "ShareX - Image Editor",
+    "translation": "ShareX - 图片编辑器"
+  },
+  {
+    "key": "100663773:2525",
+    "source": "No emojis match this search.",
+    "translation": "没有匹配的表情。"
+  },
+  {
+    "key": "100663773:2589",
+    "source": "Try a different keyword.",
+    "translation": "请尝试其他关键词。"
+  },
+  {
+    "key": "100663773:2737",
+    "source": "Cancel",
+    "translation": "取消"
+  },
+  {
+    "key": "100663773:3173",
+    "source": "Loading emojis...",
+    "translation": "正在加载表情..."
+  },
+  {
+    "key": "100663773:3236",
+    "source": "The picker is ready. Emoji previews are loading in the background.",
+    "translation": "表情选择器已就绪，正在后台加载预览。"
+  },
+  {
+    "key": "100663787:64",
+    "source": "ShareX - Image Comparer",
+    "translation": "ShareX - 图片对比"
+  },
+  {
+    "key": "100663787:1627",
+    "source": "Image 1",
+    "translation": "图片 1"
+  },
+  {
+    "key": "100663787:1832",
+    "source": "No image selected",
+    "translation": "未选择图片"
+  },
+  {
+    "key": "100663787:1948",
+    "source": "Choose...",
+    "translation": "选择..."
+  },
+  {
+    "key": "100663787:2373",
+    "source": "Image 2",
+    "translation": "图片 2"
+  },
+  {
+    "key": "100663787:2578",
+    "source": "No image selected",
+    "translation": "未选择图片"
+  },
+  {
+    "key": "100663787:2694",
+    "source": "Choose...",
+    "translation": "选择..."
+  },
+  {
+    "key": "100663787:3435",
+    "source": "Slider",
+    "translation": "滑动对比"
+  },
+  {
+    "key": "100663787:3591",
+    "source": "Diff View",
+    "translation": "差异视图"
+  },
+  {
+    "key": "100663787:4106",
+    "source": "Select Image 1 and Image 2 to show the comparison preview.",
+    "translation": "选择两张图片后显示对比预览。"
+  },
+  {
+    "key": "100663796:2120",
+    "source": "Insert image in the center",
+    "translation": "居中插入图片"
+  },
+  {
+    "key": "100663796:2187",
+    "source": "Keeps the current canvas size.",
+    "translation": "保持当前画布尺寸。"
+  },
+  {
+    "key": "100663796:2819",
+    "source": "Insert image below",
+    "translation": "在下方插入图片"
+  },
+  {
+    "key": "100663796:2886",
+    "source": "Expands the canvas downward before adding the image.",
+    "translation": "向下扩展画布后插入图片。"
+  },
+  {
+    "key": "100663796:3517",
+    "source": "Insert image on right side",
+    "translation": "在右侧插入图片"
+  },
+  {
+    "key": "100663796:3584",
+    "source": "Expands the canvas to the right before adding the image.",
+    "translation": "向右扩展画布后插入图片。"
+  },
+  {
+    "key": "100663801:803",
+    "source": "New Image",
+    "translation": "新建图片"
+  },
+  {
+    "key": "100663801:1244",
+    "source": "Width:",
+    "translation": "宽度："
+  },
+  {
+    "key": "100663801:1555",
+    "source": "pixels",
+    "translation": "像素"
+  },
+  {
+    "key": "100663801:1686",
+    "source": "Height:",
+    "translation": "高度："
+  },
+  {
+    "key": "100663801:1996",
+    "source": "pixels",
+    "translation": "像素"
+  },
+  {
+    "key": "100663801:2180",
+    "source": "Background:",
+    "translation": "背景："
+  },
+  {
+    "key": "100663801:2426",
+    "source": "Transparent",
+    "translation": "透明"
+  },
+  {
+    "key": "100663801:2683",
+    "source": "Solid color",
+    "translation": "纯色"
+  },
+  {
+    "key": "100663801:3444",
+    "source": "OK",
+    "translation": "确定"
+  },
+  {
+    "key": "100663801:3651",
+    "source": "Cancel",
+    "translation": "取消"
+  },
+  {
+    "key": "100663831:3090",
+    "source": "Create new image...",
+    "translation": "新建图片..."
+  },
+  {
+    "key": "100663831:3585",
+    "source": "Open image file...",
+    "translation": "打开图片文件..."
+  },
+  {
+    "key": "100663831:4080",
+    "source": "Load image from clipboard",
+    "translation": "从剪贴板加载图片"
+  },
+  {
+    "key": "100663831:4575",
+    "source": "Load image from URL...",
+    "translation": "从网址加载图片..."
+  },
+  {
+    "key": "100663831:5396",
+    "source": "Load",
+    "translation": "加载"
+  },
+  {
+    "key": "100663831:5596",
+    "source": "Cancel",
+    "translation": "取消"
+  },
+  {
+    "key": "100663831:6211",
+    "source": "Exit",
+    "translation": "退出"
+  },
+  {
+    "key": "100663831:6978",
+    "source": "Recent files",
+    "translation": "最近使用的文件"
+  },
+  {
+    "key": "100663831:7647",
+    "source": "No recent image files yet.",
+    "translation": "暂无最近使用的图片。"
+  },
+  {
+    "key": "100663842:981",
+    "source": "Customize Toolbar",
+    "translation": "自定义工具栏"
+  },
+  {
+    "key": "100663842:1281",
+    "source": "Reset toolbar to default",
+    "translation": "恢复默认工具栏"
+  },
+  {
+    "key": "100663842:2768",
+    "source": "OK",
+    "translation": "确定"
+  },
+  {
+    "key": "100663842:2975",
+    "source": "Cancel",
+    "translation": "取消"
+  },
+  {
+    "key": "100663844:475",
+    "source": "Click and press a shortcut. Backspace or Delete clears it.",
+    "translation": "点击后按下快捷键，按 Backspace 或 Delete 清除。"
+  },
+  {
+    "key": "100663844:864",
+    "source": "Move up",
+    "translation": "上移"
+  },
+  {
+    "key": "100663844:1258",
+    "source": "Move down",
+    "translation": "下移"
+  },
+  {
+    "key": "100663844:1719",
+    "source": "Begin group",
+    "translation": "开始新分组"
+  },
+  {
+    "key": "100663844:2117",
+    "source": "Show / Hide",
+    "translation": "显示／隐藏"
+  },
+  {
+    "key": "100663882:1339",
+    "source": "Cancel",
+    "translation": "取消"
+  },
+  {
+    "key": "100663882:1540",
+    "source": "Apply",
+    "translation": "应用"
+  },
+  {
+    "key": "100663890:125",
+    "source": "Select ",
+    "translation": "选择"
+  },
+  {
+    "key": "100663899:510",
+    "source": "Browse...",
+    "translation": "浏览..."
+  },
+  {
+    "key": "100663982:36",
+    "source": "Select image",
+    "translation": "选择图片"
+  },
+  {
+    "key": "100663984:310",
+    "source": "Background removed in ",
+    "translation": "背景已移除，用时"
+  },
+  {
+    "key": "100663984:340",
+    "source": " ms.",
+    "translation": "毫秒。"
+  },
+  {
+    "key": "100663984:390",
+    "source": "Background removal failed.",
+    "translation": "背景移除失败。"
+  },
+  {
+    "key": "100663990:196",
+    "source": "Image saved.\nFile path: ",
+    "translation": "图片已保存。\n文件路径："
+  },
+  {
+    "key": "100664146:56",
+    "source": "Loading emojis...",
+    "translation": "正在加载表情..."
+  },
+  {
+    "key": "100664150:124",
+    "source": " emojis",
+    "translation": "个表情"
+  },
+  {
+    "key": "100664150:143",
+    "source": "Browse emojis",
+    "translation": "浏览表情"
+  },
+  {
+    "key": "100664150:302",
+    "source": "Search results • ",
+    "translation": "搜索结果 • "
+  },
+  {
+    "key": "100664150:325",
+    "source": " matches",
+    "translation": "个匹配项"
+  },
+  {
+    "key": "100664193:57",
+    "source": "Loading emojis...",
+    "translation": "正在加载表情..."
+  },
+  {
+    "key": "100664193:68",
+    "source": "Loading emojis...",
+    "translation": "正在加载表情..."
+  },
+  {
+    "key": "100664195:217",
+    "source": "Search emojis... (",
+    "translation": "搜索表情...（"
+  },
+  {
+    "key": "100664212:72",
+    "source": "Select two images to compare.",
+    "translation": "选择两张图片进行对比。"
+  },
+  {
+    "key": "100664212:83",
+    "source": "Similarity: -",
+    "translation": "相似度：-"
+  },
+  {
+    "key": "100664212:195",
+    "source": "Similarity: ",
+    "translation": "相似度："
+  },
+  {
+    "key": "100664212:353",
+    "source": " of ",
+    "translation": "／"
+  },
+  {
+    "key": "100664212:388",
+    "source": " pixels match.",
+    "translation": "个像素匹配。"
+  },
+  {
+    "key": "100664241:12",
+    "source": "Select two images to compare.",
+    "translation": "选择两张图片进行对比。"
+  },
+  {
+    "key": "100664241:23",
+    "source": "Similarity: -",
+    "translation": "相似度：-"
+  },
+  {
+    "key": "100664246:26",
+    "source": "Image picker is unavailable.",
+    "translation": "图片选择器不可用。"
+  },
+  {
+    "key": "100664246:59",
+    "source": "Select Image ",
+    "translation": "选择图片"
+  },
+  {
+    "key": "100664246:204",
+    "source": "The selected file could not be loaded as an image.",
+    "translation": "所选文件无法作为图片加载。"
+  },
+  {
+    "key": "100664246:242",
+    "source": "Failed to load image: ",
+    "translation": "加载图片失败："
+  },
+  {
+    "key": "100664248:0",
+    "source": "Insert image",
+    "translation": "插入图片"
+  },
+  {
+    "key": "100664249:0",
+    "source": "Choose how to place the incoming image on the current canvas.",
+    "translation": "选择新图片在当前画布中的放置方式。"
+  },
+  {
+    "key": "100664255:32",
+    "source": "Incoming image: ",
+    "translation": "待插入图片："
+  },
+  {
+    "key": "100664281:195",
+    "source": "Wallpaper background applied.",
+    "translation": "已应用桌面壁纸背景。"
+  },
+  {
+    "key": "100664287:19",
+    "source": "Gradient",
+    "translation": "渐变"
+  },
+  {
+    "key": "100664287:48",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100664287:77",
+    "source": "Transparent",
+    "translation": "透明"
+  },
+  {
+    "key": "100664287:106",
+    "source": "Image",
+    "translation": "图片"
+  },
+  {
+    "key": "100664287:155",
+    "source": "Wallpaper",
+    "translation": "桌面壁纸"
+  },
+  {
+    "key": "100664306:8",
+    "source": "Show toolbars",
+    "translation": "显示工具栏"
+  },
+  {
+    "key": "100664306:14",
+    "source": "Hide toolbars",
+    "translation": "隐藏工具栏"
+  },
+  {
+    "key": "100664357:45",
+    "source": "Exit Confirmation",
+    "translation": "退出确认"
+  },
+  {
+    "key": "100664357:50",
+    "source": "There are unsaved changes.\n\nWould you like to save the changes before closing the image editor?",
+    "translation": "有尚未保存的修改。\n\n关闭图片编辑器前是否保存？"
+  },
+  {
+    "key": "100664433:34",
+    "source": "ShareX - Image Editor",
+    "translation": "ShareX - 图片编辑器"
+  },
+  {
+    "key": "100664433:177",
+    "source": "No image",
+    "translation": "无图片"
+  },
+  {
+    "key": "100664437:0",
+    "source": "ShareX - Image Editor",
+    "translation": "ShareX - 图片编辑器"
+  },
+  {
+    "key": "100664460:56",
+    "source": "No image",
+    "translation": "无图片"
+  },
+  {
+    "key": "100664466:18",
+    "source": "Image printed.",
+    "translation": "图片已打印。"
+  },
+  {
+    "key": "100664467:18",
+    "source": "Image pinned to screen.",
+    "translation": "图片已固定到屏幕。"
+  },
+  {
+    "key": "100664519:32",
+    "source": "Inverted colors",
+    "translation": "已反转颜色"
+  },
+  {
+    "key": "100664520:32",
+    "source": "Applied Black & White filter",
+    "translation": "已应用黑白滤镜"
+  },
+  {
+    "key": "100664521:32",
+    "source": "Applied Sepia filter",
+    "translation": "已应用怀旧滤镜"
+  },
+  {
+    "key": "100664522:32",
+    "source": "Applied Polaroid filter",
+    "translation": "已应用拍立得滤镜"
+  },
+  {
+    "key": "100664523:32",
+    "source": "Applied Edge detect filter",
+    "translation": "已应用边缘检测滤镜"
+  },
+  {
+    "key": "100664524:32",
+    "source": "Applied Emboss filter",
+    "translation": "已应用浮雕滤镜"
+  },
+  {
+    "key": "100664525:32",
+    "source": "Applied Mean removal filter",
+    "translation": "已应用去均值滤镜"
+  },
+  {
+    "key": "100664526:32",
+    "source": "Applied Smooth filter",
+    "translation": "已应用平滑滤镜"
+  },
+  {
+    "key": "100664556:10",
+    "source": "Image opened.",
+    "translation": "图片已打开。"
+  },
+  {
+    "key": "100664557:1",
+    "source": "New image created.",
+    "translation": "新图片已创建。"
+  },
+  {
+    "key": "100664558:1",
+    "source": "Image cropped.",
+    "translation": "图片已裁剪。"
+  },
+  {
+    "key": "100664559:1",
+    "source": "Image cut out.",
+    "translation": "图片区域已切除。"
+  },
+  {
+    "key": "100664560:1",
+    "source": "Image inserted.",
+    "translation": "图片已插入。"
+  },
+  {
+    "key": "100664561:1",
+    "source": "Image auto-cropped.",
+    "translation": "图片已自动裁剪。"
+  },
+  {
+    "key": "100664562:1",
+    "source": "Image resized.",
+    "translation": "图片尺寸已调整。"
+  },
+  {
+    "key": "100664563:1",
+    "source": "Canvas resized.",
+    "translation": "画布尺寸已调整。"
+  },
+  {
+    "key": "100664564:1",
+    "source": "Image rotated 90 degrees clockwise.",
+    "translation": "图片已顺时针旋转 90 度。"
+  },
+  {
+    "key": "100664565:1",
+    "source": "Image rotated 90 degrees counterclockwise.",
+    "translation": "图片已逆时针旋转 90 度。"
+  },
+  {
+    "key": "100664566:1",
+    "source": "Image rotated 180 degrees.",
+    "translation": "图片已旋转 180 度。"
+  },
+  {
+    "key": "100664567:28",
+    "source": "Image rotated by ",
+    "translation": "图片已旋转"
+  },
+  {
+    "key": "100664567:34",
+    "source": " degrees.",
+    "translation": "度。"
+  },
+  {
+    "key": "100664568:1",
+    "source": "Image flipped horizontally.",
+    "translation": "图片已水平翻转。"
+  },
+  {
+    "key": "100664569:1",
+    "source": "Image flipped vertically.",
+    "translation": "图片已垂直翻转。"
+  },
+  {
+    "key": "100664570:9",
+    "source": "Image effect applied.",
+    "translation": "图片效果已应用。"
+  },
+  {
+    "key": "100664571:10",
+    "source": "Image saved to file.",
+    "translation": "图片已保存到文件。"
+  },
+  {
+    "key": "100664572:1",
+    "source": "\nFile path: ",
+    "translation": "\n文件路径："
+  },
+  {
+    "key": "100664573:29",
+    "source": "\nSize: ",
+    "translation": "\n大小："
+  },
+  {
+    "key": "100664646:121",
+    "source": "Select",
+    "translation": "选择"
+  },
+  {
+    "key": "100664646:132",
+    "source": "Rectangle",
+    "translation": "矩形"
+  },
+  {
+    "key": "100664646:143",
+    "source": "Ellipse",
+    "translation": "椭圆"
+  },
+  {
+    "key": "100664646:154",
+    "source": "Line",
+    "translation": "直线"
+  },
+  {
+    "key": "100664646:165",
+    "source": "Arrow",
+    "translation": "箭头"
+  },
+  {
+    "key": "100664646:173",
+    "source": "Freehand",
+    "translation": "自由绘制"
+  },
+  {
+    "key": "100664646:181",
+    "source": "Text",
+    "translation": "文字"
+  },
+  {
+    "key": "100664646:189",
+    "source": "Cursor",
+    "translation": "鼠标指针"
+  },
+  {
+    "key": "100664646:197",
+    "source": "Emoji",
+    "translation": "表情"
+  },
+  {
+    "key": "100664646:205",
+    "source": "Speech Balloon",
+    "translation": "对话气泡"
+  },
+  {
+    "key": "100664646:213",
+    "source": "Step",
+    "translation": "步骤编号"
+  },
+  {
+    "key": "100664646:221",
+    "source": "Blur",
+    "translation": "模糊"
+  },
+  {
+    "key": "100664646:229",
+    "source": "Pixelate",
+    "translation": "马赛克"
+  },
+  {
+    "key": "100664646:237",
+    "source": "Magnify",
+    "translation": "放大镜"
+  },
+  {
+    "key": "100664646:245",
+    "source": "Spotlight",
+    "translation": "聚光灯"
+  },
+  {
+    "key": "100664646:253",
+    "source": "Smart Eraser",
+    "translation": "智能橡皮擦"
+  },
+  {
+    "key": "100664646:261",
+    "source": "Highlight",
+    "translation": "高亮"
+  },
+  {
+    "key": "100664646:269",
+    "source": "Crop",
+    "translation": "裁剪"
+  },
+  {
+    "key": "100664646:277",
+    "source": "Cut Out",
+    "translation": "切除区域"
+  },
+  {
+    "key": "100664646:285",
+    "source": "Image",
+    "translation": "图片"
+  },
+  {
+    "key": "100664646:293",
+    "source": "Select",
+    "translation": "选择"
+  },
+  {
+    "key": "100664986:106",
+    "source": "Image copied to clipboard.",
+    "translation": "图片已复制到剪贴板。"
+  },
+  {
+    "key": "100665000:25",
+    "source": "Image is uploading.",
+    "translation": "正在上传图片。"
+  },
+  {
+    "key": "100665020:0",
+    "source": "Start Screen",
+    "translation": "开始界面"
+  },
+  {
+    "key": "100665040:66",
+    "source": "Please enter a valid HTTP or HTTPS URL.",
+    "translation": "请输入有效的 HTTP 或 HTTPS 网址。"
+  },
+  {
+    "key": "100665080:107",
+    "source": "Invalid hotkey for ",
+    "translation": "快捷键无效："
+  },
+  {
+    "key": "100665080:118",
+    "source": ". Use formats like R, Ctrl+R, or Ctrl+Shift+R.",
+    "translation": "。请使用 R、Ctrl+R 或 Ctrl+Shift+R 等格式。"
+  },
+  {
+    "key": "100665080:184",
+    "source": " and ",
+    "translation": "和"
+  },
+  {
+    "key": "100665080:210",
+    "source": " use the same hotkey (",
+    "translation": "使用了相同的快捷键（"
+  },
+  {
+    "key": "100665120:9",
+    "source": "File",
+    "translation": "文件"
+  },
+  {
+    "key": "100665120:23",
+    "source": "File",
+    "translation": "文件"
+  },
+  {
+    "key": "100665120:50",
+    "source": "Select",
+    "translation": "选择"
+  },
+  {
+    "key": "100665120:75",
+    "source": "Rectangle",
+    "translation": "矩形"
+  },
+  {
+    "key": "100665120:100",
+    "source": "Ellipse",
+    "translation": "椭圆"
+  },
+  {
+    "key": "100665120:125",
+    "source": "Line",
+    "translation": "直线"
+  },
+  {
+    "key": "100665120:150",
+    "source": "Arrow",
+    "translation": "箭头"
+  },
+  {
+    "key": "100665120:175",
+    "source": "Freehand",
+    "translation": "自由绘制"
+  },
+  {
+    "key": "100665120:200",
+    "source": "Text",
+    "translation": "文字"
+  },
+  {
+    "key": "100665120:225",
+    "source": "Speech Balloon",
+    "translation": "对话气泡"
+  },
+  {
+    "key": "100665120:251",
+    "source": "Step",
+    "translation": "步骤编号"
+  },
+  {
+    "key": "100665120:278",
+    "source": "Image",
+    "translation": "图片"
+  },
+  {
+    "key": "100665120:305",
+    "source": "Emoji",
+    "translation": "表情"
+  },
+  {
+    "key": "100665120:332",
+    "source": "Cursor",
+    "translation": "鼠标指针"
+  },
+  {
+    "key": "100665120:359",
+    "source": "Highlight",
+    "translation": "高亮"
+  },
+  {
+    "key": "100665120:386",
+    "source": "Smart Eraser",
+    "translation": "智能橡皮擦"
+  },
+  {
+    "key": "100665120:413",
+    "source": "Blur",
+    "translation": "模糊"
+  },
+  {
+    "key": "100665120:440",
+    "source": "Pixelate",
+    "translation": "马赛克"
+  },
+  {
+    "key": "100665120:467",
+    "source": "Magnify",
+    "translation": "放大镜"
+  },
+  {
+    "key": "100665120:494",
+    "source": "Spotlight",
+    "translation": "聚光灯"
+  },
+  {
+    "key": "100665120:521",
+    "source": "Crop",
+    "translation": "裁剪"
+  },
+  {
+    "key": "100665120:548",
+    "source": "Cut Out",
+    "translation": "切除区域"
+  },
+  {
+    "key": "100665120:573",
+    "source": "Background",
+    "translation": "背景"
+  },
+  {
+    "key": "100665120:587",
+    "source": "Background",
+    "translation": "背景"
+  },
+  {
+    "key": "100665120:628",
+    "source": "Image Effects",
+    "translation": "图片效果"
+  },
+  {
+    "key": "100665595:32",
+    "source": "Dash Dot",
+    "translation": "点划线"
+  },
+  {
+    "key": "100665595:40",
+    "source": "Dash Dot Dot",
+    "translation": "双点划线"
+  },
+  {
+    "key": "100665606:145",
+    "source": "App starting",
+    "translation": "正在启动"
+  },
+  {
+    "key": "100665606:156",
+    "source": "Arrow",
+    "translation": "箭头"
+  },
+  {
+    "key": "100665606:167",
+    "source": "Cross",
+    "translation": "十字"
+  },
+  {
+    "key": "100665606:178",
+    "source": "Default",
+    "translation": "默认"
+  },
+  {
+    "key": "100665606:189",
+    "source": "Hand",
+    "translation": "手形"
+  },
+  {
+    "key": "100665606:200",
+    "source": "Help",
+    "translation": "帮助"
+  },
+  {
+    "key": "100665606:211",
+    "source": "H split",
+    "translation": "水平拆分"
+  },
+  {
+    "key": "100665606:222",
+    "source": "I-beam",
+    "translation": "文本选择"
+  },
+  {
+    "key": "100665606:233",
+    "source": "No",
+    "translation": "否"
+  },
+  {
+    "key": "100665606:244",
+    "source": "No move 2D",
+    "translation": "禁止双向移动"
+  },
+  {
+    "key": "100665606:255",
+    "source": "No move horiz",
+    "translation": "禁止水平移动"
+  },
+  {
+    "key": "100665606:266",
+    "source": "No move vert",
+    "translation": "禁止垂直移动"
+  },
+  {
+    "key": "100665606:277",
+    "source": "Pan east",
+    "translation": "向右平移"
+  },
+  {
+    "key": "100665606:288",
+    "source": "Pan NE",
+    "translation": "向右上平移"
+  },
+  {
+    "key": "100665606:296",
+    "source": "Pan north",
+    "translation": "向上平移"
+  },
+  {
+    "key": "100665606:304",
+    "source": "Pan NW",
+    "translation": "向左上平移"
+  },
+  {
+    "key": "100665606:312",
+    "source": "Pan SE",
+    "translation": "向右下平移"
+  },
+  {
+    "key": "100665606:320",
+    "source": "Pan south",
+    "translation": "向下平移"
+  },
+  {
+    "key": "100665606:328",
+    "source": "Pan SW",
+    "translation": "向左下平移"
+  },
+  {
+    "key": "100665606:336",
+    "source": "Pan west",
+    "translation": "向左平移"
+  },
+  {
+    "key": "100665606:344",
+    "source": "Size all",
+    "translation": "四向调整"
+  },
+  {
+    "key": "100665606:352",
+    "source": "Size NESW",
+    "translation": "右上／左下调整"
+  },
+  {
+    "key": "100665606:360",
+    "source": "Size NS",
+    "translation": "上下调整"
+  },
+  {
+    "key": "100665606:368",
+    "source": "Size NWSE",
+    "translation": "左上／右下调整"
+  },
+  {
+    "key": "100665606:376",
+    "source": "Size WE",
+    "translation": "左右调整"
+  },
+  {
+    "key": "100665606:384",
+    "source": "Up arrow",
+    "translation": "向上箭头"
+  },
+  {
+    "key": "100665606:392",
+    "source": "V split",
+    "translation": "垂直拆分"
+  },
+  {
+    "key": "100665606:400",
+    "source": "Wait cursor",
+    "translation": "等待指针"
+  },
+  {
+    "key": "100665628:32",
+    "source": "Label",
+    "translation": "标签"
+  },
+  {
+    "key": "100665742:1269",
+    "source": "Undo (Ctrl+Z)",
+    "translation": "撤销（Ctrl+Z）"
+  },
+  {
+    "key": "100665742:1482",
+    "source": "Redo (Ctrl+Y)",
+    "translation": "重做（Ctrl+Y）"
+  },
+  {
+    "key": "100665742:1695",
+    "source": "Delete (Delete)",
+    "translation": "删除（Delete）"
+  },
+  {
+    "key": "100665742:1907",
+    "source": "Delete all (Shift+Delete)",
+    "translation": "全部删除（Shift+Delete）"
+  },
+  {
+    "key": "100665742:3207",
+    "source": "Border color",
+    "translation": "边框颜色"
+  },
+  {
+    "key": "100665742:3470",
+    "source": "Fill color",
+    "translation": "填充颜色"
+  },
+  {
+    "key": "100665742:3740",
+    "source": "Text color",
+    "translation": "文字颜色"
+  },
+  {
+    "key": "100665742:4003",
+    "source": "Thickness",
+    "translation": "粗细"
+  },
+  {
+    "key": "100665742:4371",
+    "source": "Border style",
+    "translation": "边框样式"
+  },
+  {
+    "key": "100665742:4634",
+    "source": "Corner radius",
+    "translation": "圆角半径"
+  },
+  {
+    "key": "100665742:5002",
+    "source": "Font family",
+    "translation": "字体"
+  },
+  {
+    "key": "100665742:5340",
+    "source": "Horizontal alignment",
+    "translation": "水平对齐"
+  },
+  {
+    "key": "100665742:5708",
+    "source": "Arrow style",
+    "translation": "箭头样式"
+  },
+  {
+    "key": "100665742:6076",
+    "source": "Cursor type",
+    "translation": "指针类型"
+  },
+  {
+    "key": "100665742:6339",
+    "source": "Font size",
+    "translation": "字号"
+  },
+  {
+    "key": "100665742:6622",
+    "source": "Toggle bold",
+    "translation": "切换粗体"
+  },
+  {
+    "key": "100665742:6915",
+    "source": "Toggle italic",
+    "translation": "切换斜体"
+  },
+  {
+    "key": "100665742:7263",
+    "source": "Step type",
+    "translation": "编号类型"
+  },
+  {
+    "key": "100665742:7601",
+    "source": "Starting number",
+    "translation": "起始编号"
+  },
+  {
+    "key": "100665742:7924",
+    "source": "Effect strength",
+    "translation": "效果强度"
+  },
+  {
+    "key": "100665742:8123",
+    "source": "Blur amount",
+    "translation": "模糊程度"
+  },
+  {
+    "key": "100665742:8672",
+    "source": "Blur amount",
+    "translation": "模糊程度"
+  },
+  {
+    "key": "100665742:8955",
+    "source": "Toggle ellipse shape",
+    "translation": "切换椭圆形状"
+  },
+  {
+    "key": "100665742:9248",
+    "source": "Toggle tail",
+    "translation": "切换气泡尾部"
+  },
+  {
+    "key": "100665742:9644",
+    "source": "Toggle shadow\nShadow options (Right click)",
+    "translation": "切换阴影\n阴影选项（右键）"
+  },
+  {
+    "key": "100665742:10354",
+    "source": "Shadow",
+    "translation": "阴影"
+  },
+  {
+    "key": "100665742:10726",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100665742:10889",
+    "source": "Shadow color",
+    "translation": "阴影颜色"
+  },
+  {
+    "key": "100665742:11127",
+    "source": "Blur",
+    "translation": "模糊"
+  },
+  {
+    "key": "100665742:11784",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100665742:12456",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100665742:13112",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100665752:653",
+    "source": "New...",
+    "translation": "新建..."
+  },
+  {
+    "key": "100665752:965",
+    "source": "Open...",
+    "translation": "打开..."
+  },
+  {
+    "key": "100665752:1277",
+    "source": "Open recent",
+    "translation": "最近打开"
+  },
+  {
+    "key": "100665752:1723",
+    "source": "Save",
+    "translation": "保存"
+  },
+  {
+    "key": "100665752:2035",
+    "source": "Save as...",
+    "translation": "另存为..."
+  },
+  {
+    "key": "100665752:2384",
+    "source": "Options",
+    "translation": "选项"
+  },
+  {
+    "key": "100665752:2877",
+    "source": "Exit",
+    "translation": "退出"
+  },
+  {
+    "key": "100665834:819",
+    "source": "Pick color from screen",
+    "translation": "从屏幕取色"
+  },
+  {
+    "key": "100665882:625",
+    "source": "Options",
+    "translation": "选项"
+  },
+  {
+    "key": "100665882:954",
+    "source": "Close",
+    "translation": "关闭"
+  },
+  {
+    "key": "100665882:1159",
+    "source": "Follow system theme",
+    "translation": "跟随系统主题"
+  },
+  {
+    "key": "100665882:1586",
+    "source": "Theme",
+    "translation": "主题"
+  },
+  {
+    "key": "100665882:1875",
+    "source": "Follow system accent color",
+    "translation": "跟随系统强调色"
+  },
+  {
+    "key": "100665882:2302",
+    "source": "Accent color",
+    "translation": "强调色"
+  },
+  {
+    "key": "100665882:2522",
+    "source": "Remember window state",
+    "translation": "记住窗口状态"
+  },
+  {
+    "key": "100665882:2712",
+    "source": "Show exit confirmation",
+    "translation": "退出时确认"
+  },
+  {
+    "key": "100665882:2902",
+    "source": "Zoom to fit on open",
+    "translation": "打开时适应窗口"
+  },
+  {
+    "key": "100665882:3092",
+    "source": "Quick crop",
+    "translation": "快速裁剪"
+  },
+  {
+    "key": "100665882:3282",
+    "source": "Auto close editor on task",
+    "translation": "任务完成后关闭编辑器"
+  },
+  {
+    "key": "100665882:3472",
+    "source": "Auto copy image to clipboard",
+    "translation": "自动复制图片到剪贴板"
+  },
+  {
+    "key": "100665882:3662",
+    "source": "Show insert image dialog",
+    "translation": "显示插入图片对话框"
+  },
+  {
+    "key": "100665882:3852",
+    "source": "Show notifications",
+    "translation": "显示通知"
+  },
+  {
+    "key": "100665882:4192",
+    "source": "Customize toolbar...",
+    "translation": "自定义工具栏..."
+  },
+  {
+    "key": "100665923:12",
+    "source": "Recent",
+    "translation": "最近使用"
+  },
+  {
+    "key": "100665923:19",
+    "source": "Right-click an effect item to remove it from Recent.",
+    "translation": "右键单击效果可从最近使用中移除。"
+  },
+  {
+    "key": "100665923:35",
+    "source": "Favorites",
+    "translation": "收藏"
+  },
+  {
+    "key": "100665923:42",
+    "source": "Right-click an effect item to add or remove it from Favorites.",
+    "translation": "右键单击效果可添加或取消收藏。"
+  },
+  {
+    "key": "100665943:77",
+    "source": "Search image effects... ({0})",
+    "translation": "搜索图片效果...（{0}）"
+  },
+  {
+    "key": "100665952:250",
+    "source": "Search image effects...",
+    "translation": "搜索图片效果..."
+  },
+  {
+    "key": "100666201:788",
+    "source": "Label",
+    "translation": "标签"
+  },
+  {
+    "key": "100666236:2293",
+    "source": "Zoom to Fit",
+    "translation": "适应窗口"
+  },
+  {
+    "key": "100666302:71",
+    "source": "Select Image",
+    "translation": "选择图片"
+  },
+  {
+    "key": "100666915:0",
+    "source": "Auto crop image",
+    "translation": "自动裁剪图片"
+  },
+  {
+    "key": "100666918:0",
+    "source": "Automatically crops the image using tolerance on edge pixels.",
+    "translation": "根据边缘像素的容差自动裁剪图片。"
+  },
+  {
+    "key": "100666919:5",
+    "source": "Tolerance",
+    "translation": "容差"
+  },
+  {
+    "key": "100666931:0",
+    "source": "Crop image",
+    "translation": "裁剪图片"
+  },
+  {
+    "key": "100666934:0",
+    "source": "Crops the image.",
+    "translation": "裁剪图片。"
+  },
+  {
+    "key": "100666935:139",
+    "source": "Width",
+    "translation": "宽度"
+  },
+  {
+    "key": "100666935:203",
+    "source": "Height",
+    "translation": "高度"
+  },
+  {
+    "key": "100666953:0",
+    "source": "Cylinder wrap",
+    "translation": "圆柱包裹"
+  },
+  {
+    "key": "100666956:0",
+    "source": "Wraps the image around a cylindrical surface.",
+    "translation": "将图片包裹到圆柱表面。"
+  },
+  {
+    "key": "100666957:13",
+    "source": "Orientation",
+    "translation": "方向"
+  },
+  {
+    "key": "100666957:58",
+    "source": "Vertical",
+    "translation": "垂直"
+  },
+  {
+    "key": "100666957:76",
+    "source": "Horizontal",
+    "translation": "水平"
+  },
+  {
+    "key": "100666957:106",
+    "source": "Curvature",
+    "translation": "曲率"
+  },
+  {
+    "key": "100666957:198",
+    "source": "Edge shading",
+    "translation": "边缘明暗"
+  },
+  {
+    "key": "100666974:0",
+    "source": "Displacement map",
+    "translation": "置换贴图"
+  },
+  {
+    "key": "100666977:0",
+    "source": "Displaces pixels using a map image.",
+    "translation": "根据贴图移动像素。"
+  },
+  {
+    "key": "100666978:13",
+    "source": "Map file path",
+    "translation": "贴图文件路径"
+  },
+  {
+    "key": "100666978:69",
+    "source": "Amount X",
+    "translation": "水平幅度"
+  },
+  {
+    "key": "100666978:161",
+    "source": "Amount Y",
+    "translation": "垂直幅度"
+  },
+  {
+    "key": "100666997:0",
+    "source": "Fisheye lens",
+    "translation": "鱼眼镜头"
+  },
+  {
+    "key": "100667000:0",
+    "source": "Applies a fisheye lens distortion effect.",
+    "translation": "应用鱼眼镜头畸变效果。"
+  },
+  {
+    "key": "100667001:13",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100667001:105",
+    "source": "Radius percentage",
+    "translation": "半径百分比"
+  },
+  {
+    "key": "100667001:197",
+    "source": "Center X percentage",
+    "translation": "中心水平位置百分比"
+  },
+  {
+    "key": "100667001:289",
+    "source": "Center Y percentage",
+    "translation": "中心垂直位置百分比"
+  },
+  {
+    "key": "100667021:0",
+    "source": "Flip horizontal",
+    "translation": "水平翻转"
+  },
+  {
+    "key": "100667024:0",
+    "source": "Flips the image horizontally.",
+    "translation": "水平翻转图片。"
+  },
+  {
+    "key": "100667036:0",
+    "source": "Flips the image horizontally or vertically.",
+    "translation": "水平或垂直翻转图片。"
+  },
+  {
+    "key": "100667037:13",
+    "source": "Horizontally",
+    "translation": "水平"
+  },
+  {
+    "key": "100667037:64",
+    "source": "Vertically",
+    "translation": "垂直"
+  },
+  {
+    "key": "100667048:0",
+    "source": "Flip vertical",
+    "translation": "垂直翻转"
+  },
+  {
+    "key": "100667051:0",
+    "source": "Flips the image vertically.",
+    "translation": "垂直翻转图片。"
+  },
+  {
+    "key": "100667056:0",
+    "source": "Fold crease warp",
+    "translation": "折痕变形"
+  },
+  {
+    "key": "100667059:0",
+    "source": "Simulates a folded paper crease distortion.",
+    "translation": "模拟纸张折痕变形。"
+  },
+  {
+    "key": "100667060:13",
+    "source": "Orientation",
+    "translation": "方向"
+  },
+  {
+    "key": "100667060:58",
+    "source": "Vertical",
+    "translation": "垂直"
+  },
+  {
+    "key": "100667060:76",
+    "source": "Horizontal",
+    "translation": "水平"
+  },
+  {
+    "key": "100667060:106",
+    "source": "Fold count",
+    "translation": "折痕数量"
+  },
+  {
+    "key": "100667060:167",
+    "source": "Fold depth",
+    "translation": "折痕深度"
+  },
+  {
+    "key": "100667060:259",
+    "source": "Shadow strength",
+    "translation": "阴影强度"
+  },
+  {
+    "key": "100667080:0",
+    "source": "Glass sphere",
+    "translation": "玻璃球"
+  },
+  {
+    "key": "100667083:0",
+    "source": "Applies a spherical glass lens distortion at the center.",
+    "translation": "在中心应用球形玻璃透镜畸变。"
+  },
+  {
+    "key": "100667084:13",
+    "source": "Radius %",
+    "translation": "半径 %"
+  },
+  {
+    "key": "100667084:105",
+    "source": "Refraction",
+    "translation": "折射"
+  },
+  {
+    "key": "100667096:0",
+    "source": "Kaleidoscope",
+    "translation": "万花筒"
+  },
+  {
+    "key": "100667099:0",
+    "source": "Creates a kaleidoscope mirror pattern.",
+    "translation": "生成万花筒镜像图案。"
+  },
+  {
+    "key": "100667100:13",
+    "source": "Segments",
+    "translation": "分段数"
+  },
+  {
+    "key": "100667100:74",
+    "source": "Rotation",
+    "translation": "旋转"
+  },
+  {
+    "key": "100667100:166",
+    "source": "Zoom",
+    "translation": "缩放"
+  },
+  {
+    "key": "100667100:258",
+    "source": "Center X percentage",
+    "translation": "中心水平位置百分比"
+  },
+  {
+    "key": "100667100:350",
+    "source": "Center Y percentage",
+    "translation": "中心垂直位置百分比"
+  },
+  {
+    "key": "100667123:0",
+    "source": "Liquify push / smudge",
+    "translation": "液化推移／涂抹"
+  },
+  {
+    "key": "100667126:0",
+    "source": "Pushes and smudges pixels in a direction.",
+    "translation": "沿指定方向推移并涂抹像素。"
+  },
+  {
+    "key": "100667127:13",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100667127:105",
+    "source": "Distance",
+    "translation": "距离"
+  },
+  {
+    "key": "100667127:197",
+    "source": "Radius percentage",
+    "translation": "半径百分比"
+  },
+  {
+    "key": "100667127:289",
+    "source": "Smudge",
+    "translation": "涂抹"
+  },
+  {
+    "key": "100667127:381",
+    "source": "Center X percentage",
+    "translation": "中心水平位置百分比"
+  },
+  {
+    "key": "100667127:473",
+    "source": "Center Y percentage",
+    "translation": "中心垂直位置百分比"
+  },
+  {
+    "key": "100667153:0",
+    "source": "Mirror tiles",
+    "translation": "镜像平铺"
+  },
+  {
+    "key": "100667156:0",
+    "source": "Tiles the image with alternating mirrored reflections.",
+    "translation": "将图片交替镜像后平铺。"
+  },
+  {
+    "key": "100667157:13",
+    "source": "Columns",
+    "translation": "列数"
+  },
+  {
+    "key": "100667157:74",
+    "source": "Rows",
+    "translation": "行数"
+  },
+  {
+    "key": "100667157:135",
+    "source": "Mirror alternate columns",
+    "translation": "交替镜像列"
+  },
+  {
+    "key": "100667157:186",
+    "source": "Mirror alternate rows",
+    "translation": "交替镜像行"
+  },
+  {
+    "key": "100667177:0",
+    "source": "Page curl",
+    "translation": "卷页"
+  },
+  {
+    "key": "100667180:0",
+    "source": "Simulates a page curl at a corner of the image.",
+    "translation": "模拟图片角落的卷页效果。"
+  },
+  {
+    "key": "100667181:13",
+    "source": "Corner",
+    "translation": "角落"
+  },
+  {
+    "key": "100667181:58",
+    "source": "Top left",
+    "translation": "左上"
+  },
+  {
+    "key": "100667181:76",
+    "source": "Top right",
+    "translation": "右上"
+  },
+  {
+    "key": "100667181:94",
+    "source": "Bottom right",
+    "translation": "右下"
+  },
+  {
+    "key": "100667181:112",
+    "source": "Bottom left",
+    "translation": "左下"
+  },
+  {
+    "key": "100667181:142",
+    "source": "Curl size",
+    "translation": "卷曲大小"
+  },
+  {
+    "key": "100667181:234",
+    "source": "Curl depth",
+    "translation": "卷曲深度"
+  },
+  {
+    "key": "100667181:326",
+    "source": "Shadow strength",
+    "translation": "阴影强度"
+  },
+  {
+    "key": "100667181:418",
+    "source": "Back color",
+    "translation": "背面颜色"
+  },
+  {
+    "key": "100667206:0",
+    "source": "Perspective warp",
+    "translation": "透视变形"
+  },
+  {
+    "key": "100667209:0",
+    "source": "Applies a perspective warp transformation.",
+    "translation": "应用透视变形。"
+  },
+  {
+    "key": "100667210:13",
+    "source": "Top left X",
+    "translation": "左上 X"
+  },
+  {
+    "key": "100667210:80",
+    "source": "Top left Y",
+    "translation": "左上 Y"
+  },
+  {
+    "key": "100667210:147",
+    "source": "Top right X",
+    "translation": "右上 X"
+  },
+  {
+    "key": "100667210:214",
+    "source": "Top right Y",
+    "translation": "右上 Y"
+  },
+  {
+    "key": "100667210:281",
+    "source": "Bottom right X",
+    "translation": "右下 X"
+  },
+  {
+    "key": "100667210:348",
+    "source": "Bottom right Y",
+    "translation": "右下 Y"
+  },
+  {
+    "key": "100667210:415",
+    "source": "Bottom left X",
+    "translation": "左下 X"
+  },
+  {
+    "key": "100667210:482",
+    "source": "Bottom left Y",
+    "translation": "左下 Y"
+  },
+  {
+    "key": "100667243:0",
+    "source": "Pinch / bulge",
+    "translation": "收缩／膨胀"
+  },
+  {
+    "key": "100667246:0",
+    "source": "Applies a pinch or bulge distortion to the image.",
+    "translation": "对图片应用收缩或膨胀变形。"
+  },
+  {
+    "key": "100667247:13",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100667247:105",
+    "source": "Radius %",
+    "translation": "半径 %"
+  },
+  {
+    "key": "100667247:197",
+    "source": "Center X %",
+    "translation": "中心 X %"
+  },
+  {
+    "key": "100667247:289",
+    "source": "Center Y %",
+    "translation": "中心 Y %"
+  },
+  {
+    "key": "100667266:0",
+    "source": "Polar warp",
+    "translation": "极坐标变换"
+  },
+  {
+    "key": "100667269:0",
+    "source": "Converts between Cartesian and polar coordinate systems.",
+    "translation": "在直角坐标与极坐标之间转换。"
+  },
+  {
+    "key": "100667270:13",
+    "source": "Mode",
+    "translation": "模式"
+  },
+  {
+    "key": "100667270:58",
+    "source": "Cartesian to polar",
+    "translation": "直角坐标转极坐标"
+  },
+  {
+    "key": "100667270:76",
+    "source": "Polar to Cartesian",
+    "translation": "极坐标转直角坐标"
+  },
+  {
+    "key": "100667270:106",
+    "source": "Rotation",
+    "translation": "旋转"
+  },
+  {
+    "key": "100667270:198",
+    "source": "Radius scale",
+    "translation": "半径缩放"
+  },
+  {
+    "key": "100667270:290",
+    "source": "Center X %",
+    "translation": "中心 X %"
+  },
+  {
+    "key": "100667270:382",
+    "source": "Center Y %",
+    "translation": "中心 Y %"
+  },
+  {
+    "key": "100667293:0",
+    "source": "Resize canvas",
+    "translation": "调整画布尺寸"
+  },
+  {
+    "key": "100667296:0",
+    "source": "Resizes the canvas.",
+    "translation": "调整画布尺寸。"
+  },
+  {
+    "key": "100667297:13",
+    "source": "Top",
+    "translation": "顶部"
+  },
+  {
+    "key": "100667297:80",
+    "source": "Right",
+    "translation": "右侧"
+  },
+  {
+    "key": "100667297:147",
+    "source": "Bottom",
+    "translation": "底部"
+  },
+  {
+    "key": "100667297:214",
+    "source": "Left",
+    "translation": "左侧"
+  },
+  {
+    "key": "100667297:281",
+    "source": "Background color",
+    "translation": "背景颜色"
+  },
+  {
+    "key": "100667318:0",
+    "source": "Resize image",
+    "translation": "调整图片尺寸"
+  },
+  {
+    "key": "100667321:0",
+    "source": "Resizes the image.",
+    "translation": "调整图片尺寸。"
+  },
+  {
+    "key": "100667322:13",
+    "source": "Width",
+    "translation": "宽度"
+  },
+  {
+    "key": "100667322:76",
+    "source": "Height",
+    "translation": "高度"
+  },
+  {
+    "key": "100667322:139",
+    "source": "Maintain aspect ratio",
+    "translation": "保持宽高比"
+  },
+  {
+    "key": "100667341:0",
+    "source": "Ripple refraction",
+    "translation": "涟漪折射"
+  },
+  {
+    "key": "100667344:0",
+    "source": "Applies a ripple refraction distortion effect.",
+    "translation": "应用涟漪折射变形。"
+  },
+  {
+    "key": "100667345:13",
+    "source": "Amplitude",
+    "translation": "振幅"
+  },
+  {
+    "key": "100667345:105",
+    "source": "Wavelength",
+    "translation": "波长"
+  },
+  {
+    "key": "100667345:197",
+    "source": "Phase",
+    "translation": "相位"
+  },
+  {
+    "key": "100667345:289",
+    "source": "Refraction",
+    "translation": "折射"
+  },
+  {
+    "key": "100667345:381",
+    "source": "Center X %",
+    "translation": "中心 X %"
+  },
+  {
+    "key": "100667345:473",
+    "source": "Center Y %",
+    "translation": "中心 Y %"
+  },
+  {
+    "key": "100667371:0",
+    "source": "Rotate 180°",
+    "translation": "旋转 180°"
+  },
+  {
+    "key": "100667374:0",
+    "source": "Rotates the image by 180 degrees.",
+    "translation": "将图片旋转 180 度。"
+  },
+  {
+    "key": "100667379:0",
+    "source": "Rotate 90° counter clockwise",
+    "translation": "逆时针旋转 90°"
+  },
+  {
+    "key": "100667382:0",
+    "source": "Rotates the image 90 degrees counter-clockwise.",
+    "translation": "将图片逆时针旋转 90 度。"
+  },
+  {
+    "key": "100667387:0",
+    "source": "Rotate 90° clockwise",
+    "translation": "顺时针旋转 90°"
+  },
+  {
+    "key": "100667390:0",
+    "source": "Rotates the image 90 degrees clockwise.",
+    "translation": "将图片顺时针旋转 90 度。"
+  },
+  {
+    "key": "100667395:0",
+    "source": "Rotate",
+    "translation": "旋转"
+  },
+  {
+    "key": "100667398:0",
+    "source": "Rotates the image by a custom angle.",
+    "translation": "按自定义角度旋转图片。"
+  },
+  {
+    "key": "100667399:13",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100667399:105",
+    "source": "Auto resize",
+    "translation": "自动调整尺寸"
+  },
+  {
+    "key": "100667418:0",
+    "source": "Rounded Corners",
+    "translation": "圆角"
+  },
+  {
+    "key": "100667421:0",
+    "source": "Rounds the corners of the image.",
+    "translation": "将图片边角处理为圆角。"
+  },
+  {
+    "key": "100667422:5",
+    "source": "Corner radius",
+    "translation": "圆角半径"
+  },
+  {
+    "key": "100667431:0",
+    "source": "Scale",
+    "translation": "缩放"
+  },
+  {
+    "key": "100667434:0",
+    "source": "Scales the image by width and height percentages.",
+    "translation": "按宽度和高度百分比缩放图片。"
+  },
+  {
+    "key": "100667435:13",
+    "source": "Width %",
+    "translation": "宽度 %"
+  },
+  {
+    "key": "100667435:105",
+    "source": "Height %",
+    "translation": "高度 %"
+  },
+  {
+    "key": "100667447:0",
+    "source": "Skew",
+    "translation": "倾斜"
+  },
+  {
+    "key": "100667450:0",
+    "source": "Skews the image horizontally and vertically.",
+    "translation": "沿水平和垂直方向倾斜图片。"
+  },
+  {
+    "key": "100667451:13",
+    "source": "Horizontally",
+    "translation": "水平"
+  },
+  {
+    "key": "100667451:105",
+    "source": "Vertically",
+    "translation": "垂直"
+  },
+  {
+    "key": "100667451:197",
+    "source": "Auto resize",
+    "translation": "自动调整尺寸"
+  },
+  {
+    "key": "100667466:0",
+    "source": "Symmetry",
+    "translation": "对称"
+  },
+  {
+    "key": "100667469:0",
+    "source": "Creates bilateral symmetry by mirroring one half of the image.",
+    "translation": "镜像图片的一半，生成对称图像。"
+  },
+  {
+    "key": "100667470:5",
+    "source": "Direction",
+    "translation": "方向"
+  },
+  {
+    "key": "100667470:50",
+    "source": "Left → Right",
+    "translation": "左 → 右"
+  },
+  {
+    "key": "100667470:68",
+    "source": "Right → Left",
+    "translation": "右 → 左"
+  },
+  {
+    "key": "100667470:86",
+    "source": "Top → Bottom",
+    "translation": "上 → 下"
+  },
+  {
+    "key": "100667470:104",
+    "source": "Bottom → Top",
+    "translation": "下 → 上"
+  },
+  {
+    "key": "100667479:0",
+    "source": "Tile repeat",
+    "translation": "重复平铺"
+  },
+  {
+    "key": "100667482:0",
+    "source": "Tiles the image into a grid of smaller copies.",
+    "translation": "将缩小后的图片按网格重复平铺。"
+  },
+  {
+    "key": "100667483:13",
+    "source": "Columns",
+    "translation": "列数"
+  },
+  {
+    "key": "100667483:74",
+    "source": "Rows",
+    "translation": "行数"
+  },
+  {
+    "key": "100667495:0",
+    "source": "Tile Shuffle",
+    "translation": "打乱拼块"
+  },
+  {
+    "key": "100667498:0",
+    "source": "Divides the image into a grid and randomly rearranges the tiles.",
+    "translation": "将图片分割成网格后随机重排。"
+  },
+  {
+    "key": "100667499:13",
+    "source": "Columns",
+    "translation": "列数"
+  },
+  {
+    "key": "100667499:74",
+    "source": "Rows",
+    "translation": "行数"
+  },
+  {
+    "key": "100667499:135",
+    "source": "Gap",
+    "translation": "间隙"
+  },
+  {
+    "key": "100667499:227",
+    "source": "Gap Color",
+    "translation": "间隙颜色"
+  },
+  {
+    "key": "100667519:0",
+    "source": "Twirl",
+    "translation": "旋涡"
+  },
+  {
+    "key": "100667522:0",
+    "source": "Applies a twirl distortion to the image.",
+    "translation": "对图片应用旋涡变形。"
+  },
+  {
+    "key": "100667523:13",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100667523:105",
+    "source": "Radius %",
+    "translation": "半径 %"
+  },
+  {
+    "key": "100667523:197",
+    "source": "Center X %",
+    "translation": "中心 X %"
+  },
+  {
+    "key": "100667523:289",
+    "source": "Center Y %",
+    "translation": "中心 Y %"
+  },
+  {
+    "key": "100667542:0",
+    "source": "Wave distortion",
+    "translation": "波浪变形"
+  },
+  {
+    "key": "100667545:0",
+    "source": "Applies a sine wave distortion to the image.",
+    "translation": "对图片应用正弦波变形。"
+  },
+  {
+    "key": "100667546:13",
+    "source": "Amplitude",
+    "translation": "振幅"
+  },
+  {
+    "key": "100667546:75",
+    "source": "Wavelength",
+    "translation": "波长"
+  },
+  {
+    "key": "100667546:141",
+    "source": "Direction",
+    "translation": "方向"
+  },
+  {
+    "key": "100667546:186",
+    "source": "Horizontal",
+    "translation": "水平"
+  },
+  {
+    "key": "100667546:204",
+    "source": "Vertical",
+    "translation": "垂直"
+  },
+  {
+    "key": "100667546:222",
+    "source": "Both",
+    "translation": "双向"
+  },
+  {
+    "key": "100667622:0",
+    "source": "Add noise",
+    "translation": "添加噪点"
+  },
+  {
+    "key": "100667625:0",
+    "source": "Adds random noise to the image.",
+    "translation": "向图片添加随机噪点。"
+  },
+  {
+    "key": "100667626:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100667639:0",
+    "source": "Anaglyph 3D",
+    "translation": "红蓝 3D"
+  },
+  {
+    "key": "100667642:0",
+    "source": "Simulates a retro anaglyph 3D stereoscopic effect.",
+    "translation": "模拟复古双色 3D 立体效果。"
+  },
+  {
+    "key": "100667643:13",
+    "source": "Mode",
+    "translation": "模式"
+  },
+  {
+    "key": "100667643:58",
+    "source": "Red / Cyan",
+    "translation": "红／青"
+  },
+  {
+    "key": "100667643:76",
+    "source": "Amber / Blue",
+    "translation": "琥珀／蓝"
+  },
+  {
+    "key": "100667643:94",
+    "source": "Green / Magenta",
+    "translation": "绿／品红"
+  },
+  {
+    "key": "100667643:124",
+    "source": "Separation X",
+    "translation": "水平分离"
+  },
+  {
+    "key": "100667643:187",
+    "source": "Separation Y",
+    "translation": "垂直分离"
+  },
+  {
+    "key": "100667643:249",
+    "source": "Ghost reduction",
+    "translation": "减少重影"
+  },
+  {
+    "key": "100667663:0",
+    "source": "Anamorphic lens flare",
+    "translation": "宽银幕镜头光晕"
+  },
+  {
+    "key": "100667666:0",
+    "source": "Adds cinematic horizontal lens flare streaks to bright areas.",
+    "translation": "在明亮区域添加电影风格的水平光晕。"
+  },
+  {
+    "key": "100667667:13",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100667667:105",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100667667:197",
+    "source": "Streak length",
+    "translation": "光条长度"
+  },
+  {
+    "key": "100667667:289",
+    "source": "Warmth",
+    "translation": "暖色程度"
+  },
+  {
+    "key": "100667667:381",
+    "source": "Ghosting",
+    "translation": "重影"
+  },
+  {
+    "key": "100667692:0",
+    "source": "Anime speed lines",
+    "translation": "漫画速度线"
+  },
+  {
+    "key": "100667695:0",
+    "source": "Overlays radial speed lines in a manga/anime style.",
+    "translation": "叠加漫画风格的放射状速度线。"
+  },
+  {
+    "key": "100667696:13",
+    "source": "Density",
+    "translation": "密度"
+  },
+  {
+    "key": "100667696:105",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100667696:197",
+    "source": "Focus radius",
+    "translation": "焦点半径"
+  },
+  {
+    "key": "100667696:289",
+    "source": "Center X",
+    "translation": "中心 X"
+  },
+  {
+    "key": "100667696:381",
+    "source": "Center Y",
+    "translation": "中心 Y"
+  },
+  {
+    "key": "100667696:473",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100667724:0",
+    "source": "Art deco border",
+    "translation": "装饰艺术边框"
+  },
+  {
+    "key": "100667727:0",
+    "source": "Adds a bold Art Deco border with geometric fan motifs, stepped lines, and metallic gold accents.",
+    "translation": "添加带几何扇形、阶梯线条和金属金点缀的装饰艺术边框。"
+  },
+  {
+    "key": "100667728:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100667728:78",
+    "source": "Background color",
+    "translation": "背景颜色"
+  },
+  {
+    "key": "100667728:139",
+    "source": "Accent color",
+    "translation": "强调色"
+  },
+  {
+    "key": "100667728:206",
+    "source": "Fan spacing",
+    "translation": "扇形间距"
+  },
+  {
+    "key": "100667728:298",
+    "source": "Fan rays",
+    "translation": "扇形射线数"
+  },
+  {
+    "key": "100667728:359",
+    "source": "Inner stepped lines",
+    "translation": "内部阶梯线"
+  },
+  {
+    "key": "100667755:0",
+    "source": "ASCII art",
+    "translation": "字符画"
+  },
+  {
+    "key": "100667758:0",
+    "source": "Converts the image into ASCII character art.",
+    "translation": "将图片转换为 ASCII 字符画。"
+  },
+  {
+    "key": "100667759:13",
+    "source": "Cell size",
+    "translation": "单元格大小"
+  },
+  {
+    "key": "100667759:74",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100667759:166",
+    "source": "Character set",
+    "translation": "字符集"
+  },
+  {
+    "key": "100667759:221",
+    "source": "Invert",
+    "translation": "反转"
+  },
+  {
+    "key": "100667759:272",
+    "source": "Dark background",
+    "translation": "深色背景"
+  },
+  {
+    "key": "100667759:323",
+    "source": "Use source color",
+    "translation": "使用原图颜色"
+  },
+  {
+    "key": "100667786:0",
+    "source": "Bevel",
+    "translation": "斜面"
+  },
+  {
+    "key": "100667789:0",
+    "source": "Adds a beveled edge effect with highlights and shadows.",
+    "translation": "添加带高光和阴影的斜面效果。"
+  },
+  {
+    "key": "100667790:13",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100667790:75",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100667790:167",
+    "source": "Light angle",
+    "translation": "光照角度"
+  },
+  {
+    "key": "100667790:259",
+    "source": "Highlight color",
+    "translation": "高光颜色"
+  },
+  {
+    "key": "100667790:334",
+    "source": "Shadow color",
+    "translation": "阴影颜色"
+  },
+  {
+    "key": "100667816:0",
+    "source": "Block glitch / Databending",
+    "translation": "色块故障艺术"
+  },
+  {
+    "key": "100667819:0",
+    "source": "Simulates digital glitch artifacts with displaced color blocks.",
+    "translation": "通过错位色块模拟数字故障效果。"
+  },
+  {
+    "key": "100667820:13",
+    "source": "Block count",
+    "translation": "色块数量"
+  },
+  {
+    "key": "100667820:78",
+    "source": "Min block width",
+    "translation": "最小块宽"
+  },
+  {
+    "key": "100667820:143",
+    "source": "Max block width",
+    "translation": "最大块宽"
+  },
+  {
+    "key": "100667820:211",
+    "source": "Min block height",
+    "translation": "最小块高"
+  },
+  {
+    "key": "100667820:275",
+    "source": "Max block height",
+    "translation": "最大块高"
+  },
+  {
+    "key": "100667820:340",
+    "source": "Max displacement",
+    "translation": "最大位移"
+  },
+  {
+    "key": "100667820:405",
+    "source": "Channel shift",
+    "translation": "通道偏移"
+  },
+  {
+    "key": "100667820:466",
+    "source": "Noise amount",
+    "translation": "噪点程度"
+  },
+  {
+    "key": "100667853:0",
+    "source": "Blood splash",
+    "translation": "血液飞溅"
+  },
+  {
+    "key": "100667856:0",
+    "source": "Overlays procedural blood splash and drip effects.",
+    "translation": "叠加生成的血液飞溅与滴落效果。"
+  },
+  {
+    "key": "100667857:13",
+    "source": "Splash amount",
+    "translation": "飞溅程度"
+  },
+  {
+    "key": "100667857:105",
+    "source": "Drip length",
+    "translation": "滴落长度"
+  },
+  {
+    "key": "100667857:197",
+    "source": "Spread",
+    "translation": "扩散"
+  },
+  {
+    "key": "100667857:289",
+    "source": "Darkness",
+    "translation": "暗度"
+  },
+  {
+    "key": "100667857:381",
+    "source": "Wet shine",
+    "translation": "湿润光泽"
+  },
+  {
+    "key": "100667884:0",
+    "source": "Bloom",
+    "translation": "泛光"
+  },
+  {
+    "key": "100667887:0",
+    "source": "Adds a soft glow bloom effect to bright areas.",
+    "translation": "向明亮区域添加柔和泛光。"
+  },
+  {
+    "key": "100667888:13",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100667888:105",
+    "source": "Soft knee",
+    "translation": "柔和过渡"
+  },
+  {
+    "key": "100667888:197",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100667888:289",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100667910:0",
+    "source": "Blueprint drawing",
+    "translation": "蓝图"
+  },
+  {
+    "key": "100667913:0",
+    "source": "Transforms the image into a blueprint-style drawing.",
+    "translation": "将图片转换为蓝图风格。"
+  },
+  {
+    "key": "100667914:13",
+    "source": "Line strength",
+    "translation": "线条强度"
+  },
+  {
+    "key": "100667914:105",
+    "source": "Detail",
+    "translation": "细节"
+  },
+  {
+    "key": "100667914:197",
+    "source": "Grid intensity",
+    "translation": "网格强度"
+  },
+  {
+    "key": "100667914:289",
+    "source": "Texture",
+    "translation": "纹理"
+  },
+  {
+    "key": "100667914:381",
+    "source": "Glow",
+    "translation": "发光"
+  },
+  {
+    "key": "100667938:0",
+    "source": "Blur",
+    "translation": "模糊"
+  },
+  {
+    "key": "100667941:0",
+    "source": "Applies a blur effect.",
+    "translation": "应用模糊效果。"
+  },
+  {
+    "key": "100667942:5",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100667951:0",
+    "source": "Border",
+    "translation": "边框"
+  },
+  {
+    "key": "100667954:0",
+    "source": "Adds a border to the image.",
+    "translation": "为图片添加边框。"
+  },
+  {
+    "key": "100667955:13",
+    "source": "Type",
+    "translation": "类型"
+  },
+  {
+    "key": "100667955:58",
+    "source": "Outside",
+    "translation": "外侧"
+  },
+  {
+    "key": "100667955:76",
+    "source": "Inside",
+    "translation": "内侧"
+  },
+  {
+    "key": "100667955:106",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100667955:167",
+    "source": "Dash style",
+    "translation": "虚线样式"
+  },
+  {
+    "key": "100667955:212",
+    "source": "Solid",
+    "translation": "实线"
+  },
+  {
+    "key": "100667955:230",
+    "source": "Dash",
+    "translation": "虚线"
+  },
+  {
+    "key": "100667955:248",
+    "source": "Dot",
+    "translation": "点线"
+  },
+  {
+    "key": "100667955:266",
+    "source": "Dash Dot",
+    "translation": "点划线"
+  },
+  {
+    "key": "100667955:296",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100667974:0",
+    "source": "Brick wall border",
+    "translation": "砖墙边框"
+  },
+  {
+    "key": "100667977:0",
+    "source": "Adds a procedural brick wall texture border with mortar lines, shading, and color variation.",
+    "translation": "添加带灰缝、明暗和色差的砖墙纹理边框。"
+  },
+  {
+    "key": "100667978:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100667978:78",
+    "source": "Brick color",
+    "translation": "砖块颜色"
+  },
+  {
+    "key": "100667978:142",
+    "source": "Mortar color",
+    "translation": "灰缝颜色"
+  },
+  {
+    "key": "100667978:212",
+    "source": "Mortar thickness",
+    "translation": "灰缝粗细"
+  },
+  {
+    "key": "100667978:304",
+    "source": "Color variation",
+    "translation": "颜色变化"
+  },
+  {
+    "key": "100667978:396",
+    "source": "Bevel strength",
+    "translation": "斜面强度"
+  },
+  {
+    "key": "100668002:0",
+    "source": "Candy Cane Border",
+    "translation": "拐杖糖边框"
+  },
+  {
+    "key": "100668005:0",
+    "source": "Adds a candy cane striped border around the image.",
+    "translation": "为图片添加拐杖糖条纹边框。"
+  },
+  {
+    "key": "100668006:13",
+    "source": "Border Width",
+    "translation": "边框宽度"
+  },
+  {
+    "key": "100668006:78",
+    "source": "Stripe Width",
+    "translation": "条纹宽度"
+  },
+  {
+    "key": "100668006:170",
+    "source": "Color A",
+    "translation": "颜色 A"
+  },
+  {
+    "key": "100668006:239",
+    "source": "Color B",
+    "translation": "颜色 B"
+  },
+  {
+    "key": "100668006:314",
+    "source": "Gloss",
+    "translation": "光泽"
+  },
+  {
+    "key": "100668006:406",
+    "source": "Rounded Corners",
+    "translation": "圆角"
+  },
+  {
+    "key": "100668030:0",
+    "source": "Cartoon sticker cutout",
+    "translation": "卡通贴纸剪影"
+  },
+  {
+    "key": "100668033:0",
+    "source": "Applies a cartoon sticker cutout effect with quantized colors and ink edges.",
+    "translation": "通过减少色阶和墨线边缘生成卡通贴纸效果。"
+  },
+  {
+    "key": "100668034:13",
+    "source": "Color levels",
+    "translation": "色阶数"
+  },
+  {
+    "key": "100668034:74",
+    "source": "Edge threshold",
+    "translation": "边缘阈值"
+  },
+  {
+    "key": "100668034:136",
+    "source": "Ink strength",
+    "translation": "墨线强度"
+  },
+  {
+    "key": "100668034:228",
+    "source": "Sticker border",
+    "translation": "贴纸边框"
+  },
+  {
+    "key": "100668034:289",
+    "source": "Border strength",
+    "translation": "边框强度"
+  },
+  {
+    "key": "100668062:0",
+    "source": "Celtic knot border",
+    "translation": "凯尔特结边框"
+  },
+  {
+    "key": "100668065:0",
+    "source": "Adds an interweaving Celtic knot pattern border inspired by Insular art manuscripts.",
+    "translation": "添加源自岛屿艺术手稿的交织凯尔特结边框。"
+  },
+  {
+    "key": "100668066:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100668066:78",
+    "source": "Knot color",
+    "translation": "绳结颜色"
+  },
+  {
+    "key": "100668066:145",
+    "source": "Background color",
+    "translation": "背景颜色"
+  },
+  {
+    "key": "100668066:206",
+    "source": "Strand width",
+    "translation": "绳股宽度"
+  },
+  {
+    "key": "100668066:298",
+    "source": "Outline strands",
+    "translation": "绳股轮廓"
+  },
+  {
+    "key": "100668066:349",
+    "source": "Inner line",
+    "translation": "内侧线条"
+  },
+  {
+    "key": "100668092:0",
+    "source": "Chain link border",
+    "translation": "铁丝网边框"
+  },
+  {
+    "key": "100668095:0",
+    "source": "Adds a metallic chain-link fence border with interlocking wire loops and highlights.",
+    "translation": "添加带交织金属环和高光的铁丝网边框。"
+  },
+  {
+    "key": "100668096:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100668096:78",
+    "source": "Wire color",
+    "translation": "金属丝颜色"
+  },
+  {
+    "key": "100668096:148",
+    "source": "Background color",
+    "translation": "背景颜色"
+  },
+  {
+    "key": "100668096:209",
+    "source": "Cell size",
+    "translation": "单元格大小"
+  },
+  {
+    "key": "100668096:301",
+    "source": "Wire width",
+    "translation": "金属丝宽度"
+  },
+  {
+    "key": "100668096:393",
+    "source": "Wire highlight",
+    "translation": "金属丝高光"
+  },
+  {
+    "key": "100668123:0",
+    "source": "Chalk Drawing",
+    "translation": "粉笔画"
+  },
+  {
+    "key": "100668126:0",
+    "source": "Simulates a chalk drawing on a dark surface.",
+    "translation": "模拟深色表面上的粉笔画。"
+  },
+  {
+    "key": "100668127:13",
+    "source": "Detail",
+    "translation": "细节"
+  },
+  {
+    "key": "100668127:105",
+    "source": "Roughness",
+    "translation": "粗糙度"
+  },
+  {
+    "key": "100668127:197",
+    "source": "Chalk Color",
+    "translation": "粉笔颜色"
+  },
+  {
+    "key": "100668127:272",
+    "source": "Board Color",
+    "translation": "黑板颜色"
+  },
+  {
+    "key": "100668145:0",
+    "source": "Chromatic aberration",
+    "translation": "色差"
+  },
+  {
+    "key": "100668148:0",
+    "source": "Simulates lens chromatic aberration with RGB channel splitting.",
+    "translation": "通过分离 RGB 通道模拟镜头色差。"
+  },
+  {
+    "key": "100668149:13",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100668149:105",
+    "source": "Edge start",
+    "translation": "边缘起点"
+  },
+  {
+    "key": "100668149:197",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100668165:0",
+    "source": "Chrome metallic border",
+    "translation": "镀铬金属边框"
+  },
+  {
+    "key": "100668168:0",
+    "source": "Adds a shiny chrome metallic border with realistic specular highlights and reflections.",
+    "translation": "添加带镜面高光与反射的镀铬金属边框。"
+  },
+  {
+    "key": "100668169:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100668169:77",
+    "source": "Tint color",
+    "translation": "染色颜色"
+  },
+  {
+    "key": "100668169:147",
+    "source": "Reflectivity",
+    "translation": "反射率"
+  },
+  {
+    "key": "100668169:239",
+    "source": "Bevel strength",
+    "translation": "斜面强度"
+  },
+  {
+    "key": "100668169:331",
+    "source": "Inner line",
+    "translation": "内侧线条"
+  },
+  {
+    "key": "100668169:382",
+    "source": "Outer line",
+    "translation": "外侧线条"
+  },
+  {
+    "key": "100668197:0",
+    "source": "Circuit board border",
+    "translation": "电路板边框"
+  },
+  {
+    "key": "100668200:0",
+    "source": "Adds a PCB circuit board border with copper traces, vias, and pads on a dark substrate.",
+    "translation": "添加带铜走线、过孔和焊盘的深色电路板边框。"
+  },
+  {
+    "key": "100668201:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100668201:78",
+    "source": "Board color",
+    "translation": "基板颜色"
+  },
+  {
+    "key": "100668201:139",
+    "source": "Trace color",
+    "translation": "走线颜色"
+  },
+  {
+    "key": "100668201:203",
+    "source": "Trace density",
+    "translation": "走线密度"
+  },
+  {
+    "key": "100668201:295",
+    "source": "Trace glow",
+    "translation": "走线发光"
+  },
+  {
+    "key": "100668201:346",
+    "source": "Inner line",
+    "translation": "内侧线条"
+  },
+  {
+    "key": "100668226:0",
+    "source": "Claymation texture",
+    "translation": "黏土动画纹理"
+  },
+  {
+    "key": "100668229:0",
+    "source": "Gives the image a sculpted claymation look with chunky quantization and relief texture.",
+    "translation": "通过块状色阶与浮雕纹理模拟黏土动画外观。"
+  },
+  {
+    "key": "100668230:13",
+    "source": "Chunk size",
+    "translation": "块大小"
+  },
+  {
+    "key": "100668230:74",
+    "source": "Smoothness",
+    "translation": "平滑度"
+  },
+  {
+    "key": "100668230:166",
+    "source": "Relief",
+    "translation": "浮雕程度"
+  },
+  {
+    "key": "100668230:258",
+    "source": "Saturation",
+    "translation": "饱和度"
+  },
+  {
+    "key": "100668230:350",
+    "source": "Texture grain",
+    "translation": "纹理颗粒"
+  },
+  {
+    "key": "100668254:0",
+    "source": "Clouds",
+    "translation": "云朵"
+  },
+  {
+    "key": "100668257:0",
+    "source": "Overlays procedurally generated clouds onto the image.",
+    "translation": "向图片叠加生成的云朵。"
+  },
+  {
+    "key": "100668258:13",
+    "source": "Coverage",
+    "translation": "覆盖率"
+  },
+  {
+    "key": "100668258:105",
+    "source": "Scale",
+    "translation": "缩放"
+  },
+  {
+    "key": "100668258:197",
+    "source": "Height bias",
+    "translation": "高度偏移"
+  },
+  {
+    "key": "100668258:289",
+    "source": "Softness",
+    "translation": "柔和度"
+  },
+  {
+    "key": "100668258:381",
+    "source": "Sunlight",
+    "translation": "阳光"
+  },
+  {
+    "key": "100668284:0",
+    "source": "Color depth",
+    "translation": "色深"
+  },
+  {
+    "key": "100668287:0",
+    "source": "Reduces the number of bits per color channel.",
+    "translation": "减少每个颜色通道的位数。"
+  },
+  {
+    "key": "100668288:5",
+    "source": "Bits per channel",
+    "translation": "每通道位数"
+  },
+  {
+    "key": "100668298:0",
+    "source": "Color halftone",
+    "translation": "彩色半色调"
+  },
+  {
+    "key": "100668301:0",
+    "source": "Simulates CMYK color halftone printing with rotated dot grids.",
+    "translation": "通过旋转网点模拟 CMYK 半色调印刷。"
+  },
+  {
+    "key": "100668302:5",
+    "source": "Dot size",
+    "translation": "网点大小"
+  },
+  {
+    "key": "100668311:0",
+    "source": "Color splash",
+    "translation": "局部保色"
+  },
+  {
+    "key": "100668314:0",
+    "source": "Keeps one color and desaturates the rest of the image.",
+    "translation": "保留一种颜色，将其余区域去色。"
+  },
+  {
+    "key": "100668315:13",
+    "source": "Target hue",
+    "translation": "目标色相"
+  },
+  {
+    "key": "100668315:77",
+    "source": "Tolerance",
+    "translation": "容差"
+  },
+  {
+    "key": "100668327:0",
+    "source": "Convolution matrix",
+    "translation": "卷积矩阵"
+  },
+  {
+    "key": "100668330:0",
+    "source": "Applies a custom 3x3 convolution kernel to the image.",
+    "translation": "对图片应用自定义 3×3 卷积核。"
+  },
+  {
+    "key": "100668331:564",
+    "source": "Factor",
+    "translation": "系数"
+  },
+  {
+    "key": "100668331:657",
+    "source": "Offset",
+    "translation": "偏移"
+  },
+  {
+    "key": "100668370:0",
+    "source": "Crimson border",
+    "translation": "绯红边框"
+  },
+  {
+    "key": "100668373:0",
+    "source": "Adds a rich crimson/dark red border with an inner glow effect.",
+    "translation": "添加带内发光的绯红或深红边框。"
+  },
+  {
+    "key": "100668374:13",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100668374:75",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100668374:138",
+    "source": "Glow strength",
+    "translation": "发光强度"
+  },
+  {
+    "key": "100668374:230",
+    "source": "Inner line",
+    "translation": "内侧线条"
+  },
+  {
+    "key": "100668374:281",
+    "source": "Outer line",
+    "translation": "外侧线条"
+  },
+  {
+    "key": "100668397:0",
+    "source": "Crosshatch",
+    "translation": "交叉排线"
+  },
+  {
+    "key": "100668400:0",
+    "source": "Renders the image as a crosshatch pen drawing.",
+    "translation": "将图片绘制为交叉排线钢笔画。"
+  },
+  {
+    "key": "100668401:13",
+    "source": "Line spacing",
+    "translation": "线条间距"
+  },
+  {
+    "key": "100668401:74",
+    "source": "Line thickness",
+    "translation": "线条粗细"
+  },
+  {
+    "key": "100668401:166",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100668401:258",
+    "source": "Layer count",
+    "translation": "层数"
+  },
+  {
+    "key": "100668420:0",
+    "source": "CRT",
+    "translation": "显像管屏幕"
+  },
+  {
+    "key": "100668423:0",
+    "source": "Simulates a CRT monitor with scanlines, RGB shift, noise, and vignette.",
+    "translation": "通过扫描线、RGB 偏移、噪点和暗角模拟显像管屏幕。"
+  },
+  {
+    "key": "100668424:13",
+    "source": "Scanline strength",
+    "translation": "扫描线强度"
+  },
+  {
+    "key": "100668424:105",
+    "source": "RGB shift",
+    "translation": "RGB 偏移"
+  },
+  {
+    "key": "100668424:165",
+    "source": "Noise amount",
+    "translation": "噪点程度"
+  },
+  {
+    "key": "100668424:257",
+    "source": "Vignette strength",
+    "translation": "暗角强度"
+  },
+  {
+    "key": "100668447:0",
+    "source": "Crystalize shards",
+    "translation": "晶体碎片"
+  },
+  {
+    "key": "100668450:0",
+    "source": "Breaks the image into crystalline Voronoi shards with edge highlights.",
+    "translation": "将图片分割为带边缘高光的晶体碎片。"
+  },
+  {
+    "key": "100668451:13",
+    "source": "Shard size",
+    "translation": "碎片大小"
+  },
+  {
+    "key": "100668451:75",
+    "source": "Jitter",
+    "translation": "抖动"
+  },
+  {
+    "key": "100668451:167",
+    "source": "Edge strength",
+    "translation": "边缘强度"
+  },
+  {
+    "key": "100668451:259",
+    "source": "Shine",
+    "translation": "光泽"
+  },
+  {
+    "key": "100668473:0",
+    "source": "Crystal prism",
+    "translation": "水晶棱镜"
+  },
+  {
+    "key": "100668476:0",
+    "source": "Refracts and disperses light through crystal-like facets.",
+    "translation": "通过水晶切面模拟光线折射与色散。"
+  },
+  {
+    "key": "100668477:13",
+    "source": "Facet size",
+    "translation": "切面大小"
+  },
+  {
+    "key": "100668477:75",
+    "source": "Refraction",
+    "translation": "折射"
+  },
+  {
+    "key": "100668477:167",
+    "source": "Dispersion",
+    "translation": "色散"
+  },
+  {
+    "key": "100668477:259",
+    "source": "Sparkle",
+    "translation": "闪光"
+  },
+  {
+    "key": "100668497:0",
+    "source": "Cyanotype",
+    "translation": "蓝晒"
+  },
+  {
+    "key": "100668500:0",
+    "source": "Simulates a cyanotype photographic printing process with blue-toned output.",
+    "translation": "模拟蓝色调的蓝晒摄影印相。"
+  },
+  {
+    "key": "100668501:13",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100668501:105",
+    "source": "Paper texture",
+    "translation": "纸张纹理"
+  },
+  {
+    "key": "100668501:197",
+    "source": "Stain",
+    "translation": "污渍"
+  },
+  {
+    "key": "100668501:289",
+    "source": "Grain",
+    "translation": "颗粒"
+  },
+  {
+    "key": "100668501:381",
+    "source": "Vignette",
+    "translation": "暗角"
+  },
+  {
+    "key": "100668526:0",
+    "source": "Datamosh smear",
+    "translation": "数据故障拖影"
+  },
+  {
+    "key": "100668529:0",
+    "source": "Simulates digital datamoshing with smeared pixel blocks and channel splitting.",
+    "translation": "通过像素块拖影与通道分离模拟数据故障。"
+  },
+  {
+    "key": "100668530:13",
+    "source": "Direction",
+    "translation": "方向"
+  },
+  {
+    "key": "100668530:58",
+    "source": "Horizontal",
+    "translation": "水平"
+  },
+  {
+    "key": "100668530:76",
+    "source": "Vertical",
+    "translation": "垂直"
+  },
+  {
+    "key": "100668530:106",
+    "source": "Smear amount",
+    "translation": "拖影程度"
+  },
+  {
+    "key": "100668530:198",
+    "source": "Corruption",
+    "translation": "损坏程度"
+  },
+  {
+    "key": "100668530:290",
+    "source": "Block size",
+    "translation": "块大小"
+  },
+  {
+    "key": "100668530:352",
+    "source": "Drift",
+    "translation": "漂移"
+  },
+  {
+    "key": "100668530:444",
+    "source": "Channel split",
+    "translation": "通道分离"
+  },
+  {
+    "key": "100668559:0",
+    "source": "Diamond pixelate",
+    "translation": "菱形马赛克"
+  },
+  {
+    "key": "100668562:0",
+    "source": "Pixelates the image using diamond-shaped blocks.",
+    "translation": "使用菱形色块生成马赛克。"
+  },
+  {
+    "key": "100668563:5",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100668572:0",
+    "source": "Disposable camera",
+    "translation": "一次性胶片相机"
+  },
+  {
+    "key": "100668575:0",
+    "source": "Simulates the look of a disposable film camera with flash, grain, and warmth.",
+    "translation": "通过闪光、颗粒和暖色模拟一次性胶片相机。"
+  },
+  {
+    "key": "100668576:13",
+    "source": "Flash",
+    "translation": "闪光"
+  },
+  {
+    "key": "100668576:105",
+    "source": "Softness",
+    "translation": "柔和度"
+  },
+  {
+    "key": "100668576:197",
+    "source": "Grain",
+    "translation": "颗粒"
+  },
+  {
+    "key": "100668576:289",
+    "source": "Vignette",
+    "translation": "暗角"
+  },
+  {
+    "key": "100668576:381",
+    "source": "Warmth",
+    "translation": "暖色程度"
+  },
+  {
+    "key": "100668601:0",
+    "source": "Dithering",
+    "translation": "抖色"
+  },
+  {
+    "key": "100668604:0",
+    "source": "Applies dithering to reduce color depth with various methods and palettes.",
+    "translation": "使用不同算法和调色板进行抖色，降低色深。"
+  },
+  {
+    "key": "100668605:13",
+    "source": "Method",
+    "translation": "方法"
+  },
+  {
+    "key": "100668605:106",
+    "source": "Palette",
+    "translation": "调色板"
+  },
+  {
+    "key": "100668605:151",
+    "source": "1-bit B&W",
+    "translation": "1 位黑白"
+  },
+  {
+    "key": "100668605:169",
+    "source": "Web safe 216",
+    "translation": "216 色网页安全色"
+  },
+  {
+    "key": "100668605:205",
+    "source": "Grayscale 4",
+    "translation": "4 级灰度"
+  },
+  {
+    "key": "100668605:235",
+    "source": "Serpentine",
+    "translation": "蛇形扫描"
+  },
+  {
+    "key": "100668605:286",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100668628:0",
+    "source": "Dot Matrix",
+    "translation": "点阵打印"
+  },
+  {
+    "key": "100668631:0",
+    "source": "Simulates a vintage dot matrix printer output.",
+    "translation": "模拟老式点阵打印机输出。"
+  },
+  {
+    "key": "100668632:13",
+    "source": "Cell Size",
+    "translation": "单元格大小"
+  },
+  {
+    "key": "100668632:74",
+    "source": "Dot Scale",
+    "translation": "点大小"
+  },
+  {
+    "key": "100668632:166",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100668632:217",
+    "source": "Dot Color",
+    "translation": "点颜色"
+  },
+  {
+    "key": "100668632:283",
+    "source": "Paper Color",
+    "translation": "纸张颜色"
+  },
+  {
+    "key": "100668653:0",
+    "source": "Double exposure",
+    "translation": "双重曝光"
+  },
+  {
+    "key": "100668656:0",
+    "source": "Blends a blurred ghost of the image over itself to simulate double exposure.",
+    "translation": "将模糊重影叠加到原图上，模拟双重曝光。"
+  },
+  {
+    "key": "100668657:13",
+    "source": "Blend amount",
+    "translation": "混合程度"
+  },
+  {
+    "key": "100668657:105",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100668657:173",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100668657:241",
+    "source": "Ghost blur",
+    "translation": "重影模糊"
+  },
+  {
+    "key": "100668657:333",
+    "source": "Highlight bias",
+    "translation": "高光偏移"
+  },
+  {
+    "key": "100668657:425",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100668683:0",
+    "source": "Dream glow",
+    "translation": "梦幻柔光"
+  },
+  {
+    "key": "100668686:0",
+    "source": "Creates a dreamy soft glow by blending a blurred copy over the original.",
+    "translation": "将模糊副本与原图混合，生成梦幻柔光。"
+  },
+  {
+    "key": "100668687:13",
+    "source": "Blur radius",
+    "translation": "模糊半径"
+  },
+  {
+    "key": "100668687:75",
+    "source": "Blend opacity",
+    "translation": "混合不透明度"
+  },
+  {
+    "key": "100668699:0",
+    "source": "Edge detect",
+    "translation": "边缘检测"
+  },
+  {
+    "key": "100668702:0",
+    "source": "Detects visible edges in the image.",
+    "translation": "检测图片中的可见边缘。"
+  },
+  {
+    "key": "100668708:0",
+    "source": "Edge feather",
+    "translation": "边缘羽化"
+  },
+  {
+    "key": "100668711:0",
+    "source": "Softens the edges of non-transparent regions with a feathered alpha falloff.",
+    "translation": "通过透明度渐变柔化不透明区域的边缘。"
+  },
+  {
+    "key": "100668712:5",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100668722:0",
+    "source": "Emboss",
+    "translation": "浮雕"
+  },
+  {
+    "key": "100668725:0",
+    "source": "Applies an emboss effect.",
+    "translation": "应用浮雕效果。"
+  },
+  {
+    "key": "100668731:0",
+    "source": "Embroidery",
+    "translation": "刺绣"
+  },
+  {
+    "key": "100668734:0",
+    "source": "Simulates a cross-stitch embroidery pattern.",
+    "translation": "模拟十字绣图案。"
+  },
+  {
+    "key": "100668735:13",
+    "source": "Stitch Size",
+    "translation": "针脚大小"
+  },
+  {
+    "key": "100668735:75",
+    "source": "Color Count",
+    "translation": "颜色数量"
+  },
+  {
+    "key": "100668735:137",
+    "source": "Show Grid",
+    "translation": "显示网格"
+  },
+  {
+    "key": "100668735:188",
+    "source": "Fabric Color",
+    "translation": "布料颜色"
+  },
+  {
+    "key": "100668754:0",
+    "source": "Engraving",
+    "translation": "版画"
+  },
+  {
+    "key": "100668757:0",
+    "source": "Simulates a line engraving effect like banknote illustrations.",
+    "translation": "模拟钞票插图风格的线刻版画。"
+  },
+  {
+    "key": "100668758:13",
+    "source": "Line Spacing",
+    "translation": "线条间距"
+  },
+  {
+    "key": "100668758:105",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100668758:197",
+    "source": "Max Line Width",
+    "translation": "最大线宽"
+  },
+  {
+    "key": "100668758:289",
+    "source": "Line Color",
+    "translation": "线条颜色"
+  },
+  {
+    "key": "100668758:355",
+    "source": "Paper Color",
+    "translation": "纸张颜色"
+  },
+  {
+    "key": "100668779:0",
+    "source": "Etched glass",
+    "translation": "蚀刻玻璃"
+  },
+  {
+    "key": "100668782:0",
+    "source": "Simulates an etched glass surface with frost, engraving, and refraction effects.",
+    "translation": "模拟带磨砂、蚀刻和折射的玻璃表面。"
+  },
+  {
+    "key": "100668783:13",
+    "source": "Frost",
+    "translation": "磨砂"
+  },
+  {
+    "key": "100668783:105",
+    "source": "Engrave",
+    "translation": "蚀刻"
+  },
+  {
+    "key": "100668783:197",
+    "source": "Refraction",
+    "translation": "折射"
+  },
+  {
+    "key": "100668783:289",
+    "source": "Highlight",
+    "translation": "高亮"
+  },
+  {
+    "key": "100668783:381",
+    "source": "Background fade",
+    "translation": "背景淡化"
+  },
+  {
+    "key": "100668809:0",
+    "source": "Fake Hair",
+    "translation": "仿真毛发"
+  },
+  {
+    "key": "100668812:0",
+    "source": "Scatters realistic hair strands over the image to annoy your friends.",
+    "translation": "在图片上随机散布仿真毛发。"
+  },
+  {
+    "key": "100668813:13",
+    "source": "Hair Count",
+    "translation": "毛发数量"
+  },
+  {
+    "key": "100668813:74",
+    "source": "Length",
+    "translation": "长度"
+  },
+  {
+    "key": "100668813:166",
+    "source": "Thickness",
+    "translation": "粗细"
+  },
+  {
+    "key": "100668813:258",
+    "source": "Curliness",
+    "translation": "卷曲程度"
+  },
+  {
+    "key": "100668813:350",
+    "source": "Hair Color",
+    "translation": "毛发颜色"
+  },
+  {
+    "key": "100668836:0",
+    "source": "Film grain",
+    "translation": "胶片颗粒"
+  },
+  {
+    "key": "100668839:0",
+    "source": "Adds organic film-like grain texture.",
+    "translation": "添加自然胶片颗粒纹理。"
+  },
+  {
+    "key": "100668840:13",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100668840:75",
+    "source": "Monochrome",
+    "translation": "单色"
+  },
+  {
+    "key": "100668853:0",
+    "source": "Film strip frame",
+    "translation": "胶片边框"
+  },
+  {
+    "key": "100668856:0",
+    "source": "Wraps the image in a cinema film strip frame with sprocket holes.",
+    "translation": "为图片添加带齿孔的电影胶片边框。"
+  },
+  {
+    "key": "100668857:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100668857:76",
+    "source": "Hole size",
+    "translation": "齿孔大小"
+  },
+  {
+    "key": "100668857:168",
+    "source": "Frame color",
+    "translation": "边框颜色"
+  },
+  {
+    "key": "100668857:229",
+    "source": "Side strips",
+    "translation": "侧边条"
+  },
+  {
+    "key": "100668857:280",
+    "source": "Scratches",
+    "translation": "划痕"
+  },
+  {
+    "key": "100668879:0",
+    "source": "Frosted glass + ice edges",
+    "translation": "磨砂玻璃与冰霜边缘"
+  },
+  {
+    "key": "100668882:0",
+    "source": "Combines frosted glass distortion with icy edge highlights and cool tinting.",
+    "translation": "结合磨砂玻璃变形、冰霜边缘高光与冷色调。"
+  },
+  {
+    "key": "100668883:13",
+    "source": "Distortion",
+    "translation": "变形"
+  },
+  {
+    "key": "100668883:105",
+    "source": "Blur",
+    "translation": "模糊"
+  },
+  {
+    "key": "100668883:197",
+    "source": "Edge threshold",
+    "translation": "边缘阈值"
+  },
+  {
+    "key": "100668883:259",
+    "source": "Ice strength",
+    "translation": "冰霜强度"
+  },
+  {
+    "key": "100668883:351",
+    "source": "Tint",
+    "translation": "色调"
+  },
+  {
+    "key": "100668909:0",
+    "source": "Frosted glass",
+    "translation": "磨砂玻璃"
+  },
+  {
+    "key": "100668912:0",
+    "source": "Simulates looking through frosted glass by randomizing nearby pixels.",
+    "translation": "通过随机移动邻近像素模拟磨砂玻璃。"
+  },
+  {
+    "key": "100668913:5",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100668922:0",
+    "source": "Frost ice border",
+    "translation": "冰霜边框"
+  },
+  {
+    "key": "100668925:0",
+    "source": "Adds a frosted ice crystal border with rime buildup and icy blue highlights.",
+    "translation": "添加带霜晶与冰蓝高光的边框。"
+  },
+  {
+    "key": "100668926:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100668926:78",
+    "source": "Ice color",
+    "translation": "冰霜颜色"
+  },
+  {
+    "key": "100668926:148",
+    "source": "Crystallization",
+    "translation": "结晶程度"
+  },
+  {
+    "key": "100668926:240",
+    "source": "Transparency",
+    "translation": "透明度"
+  },
+  {
+    "key": "100668926:332",
+    "source": "Ice sparkle",
+    "translation": "冰晶闪光"
+  },
+  {
+    "key": "100668949:0",
+    "source": "Gaussian blur",
+    "translation": "高斯模糊"
+  },
+  {
+    "key": "100668952:0",
+    "source": "Applies a Gaussian blur effect.",
+    "translation": "应用高斯模糊。"
+  },
+  {
+    "key": "100668953:5",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100668962:0",
+    "source": "Ghost trail",
+    "translation": "残影轨迹"
+  },
+  {
+    "key": "100668965:0",
+    "source": "Creates fading ghost copies offset from the original image.",
+    "translation": "生成偏离原图并逐渐淡出的残影。"
+  },
+  {
+    "key": "100668966:13",
+    "source": "Copies",
+    "translation": "副本数量"
+  },
+  {
+    "key": "100668966:73",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100668966:136",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100668966:198",
+    "source": "Fade",
+    "translation": "淡出"
+  },
+  {
+    "key": "100668984:0",
+    "source": "Glare",
+    "translation": "眩光"
+  },
+  {
+    "key": "100668987:0",
+    "source": "Adds a bright glare/light flare at a specified position.",
+    "translation": "在指定位置添加明亮眩光。"
+  },
+  {
+    "key": "100668988:13",
+    "source": "Position X (%)",
+    "translation": "水平位置（%）"
+  },
+  {
+    "key": "100668988:105",
+    "source": "Position Y (%)",
+    "translation": "垂直位置（%）"
+  },
+  {
+    "key": "100668988:197",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100668988:289",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100668988:381",
+    "source": "Ray count",
+    "translation": "光线数量"
+  },
+  {
+    "key": "100668988:442",
+    "source": "Ray length",
+    "translation": "光线长度"
+  },
+  {
+    "key": "100668988:534",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100669015:0",
+    "source": "Glitch shift",
+    "translation": "故障偏移"
+  },
+  {
+    "key": "100669018:0",
+    "source": "Randomly shifts horizontal bands of the image for a digital glitch look.",
+    "translation": "随机移动图片水平条带，模拟数字故障。"
+  },
+  {
+    "key": "100669019:13",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100669019:75",
+    "source": "Band count",
+    "translation": "条带数量"
+  },
+  {
+    "key": "100669033:0",
+    "source": "Glow",
+    "translation": "发光"
+  },
+  {
+    "key": "100669036:0",
+    "source": "Applies a glowing effect.",
+    "translation": "应用发光效果。"
+  },
+  {
+    "key": "100669037:13",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100669037:75",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100669037:167",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100669037:229",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100669037:291",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100669037:346",
+    "source": "Auto resize",
+    "translation": "自动调整尺寸"
+  },
+  {
+    "key": "100669062:0",
+    "source": "Golden border",
+    "translation": "金色边框"
+  },
+  {
+    "key": "100669065:0",
+    "source": "Adds a luxurious picture frame border to the image.",
+    "translation": "为图片添加华丽的相框边框。"
+  },
+  {
+    "key": "100669066:13",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100669066:75",
+    "source": "Bevel strength",
+    "translation": "斜面强度"
+  },
+  {
+    "key": "100669066:167",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100669066:234",
+    "source": "Inner border",
+    "translation": "内边框"
+  },
+  {
+    "key": "100669066:285",
+    "source": "Outer border",
+    "translation": "外边框"
+  },
+  {
+    "key": "100669090:0",
+    "source": "Gradient fade border",
+    "translation": "渐变边框"
+  },
+  {
+    "key": "100669093:0",
+    "source": "Adds a multi-stop gradient border that smoothly fades between configurable colors.",
+    "translation": "添加在多种自定义颜色间平滑过渡的渐变边框。"
+  },
+  {
+    "key": "100669094:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100669094:78",
+    "source": "Outer color",
+    "translation": "外侧颜色"
+  },
+  {
+    "key": "100669094:139",
+    "source": "Mid color",
+    "translation": "中间颜色"
+  },
+  {
+    "key": "100669094:200",
+    "source": "Inner color",
+    "translation": "内侧颜色"
+  },
+  {
+    "key": "100669094:267",
+    "source": "Mid-color position %",
+    "translation": "中间颜色位置 %"
+  },
+  {
+    "key": "100669094:359",
+    "source": "Inner glow edge",
+    "translation": "内发光边缘"
+  },
+  {
+    "key": "100669119:0",
+    "source": "Halation",
+    "translation": "胶片光晕"
+  },
+  {
+    "key": "100669122:0",
+    "source": "Simulates film halation where bright areas bleed warm light into surrounding regions.",
+    "translation": "模拟胶片高亮区域向周围渗出暖光的光晕。"
+  },
+  {
+    "key": "100669123:13",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100669123:105",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100669123:197",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100669123:289",
+    "source": "Warmth",
+    "translation": "暖色程度"
+  },
+  {
+    "key": "100669145:0",
+    "source": "Halftone",
+    "translation": "半色调"
+  },
+  {
+    "key": "100669148:0",
+    "source": "Converts the image into a CMYK halftone dot pattern.",
+    "translation": "将图片转换为 CMYK 半色调网点图案。"
+  },
+  {
+    "key": "100669149:13",
+    "source": "Cell size",
+    "translation": "单元格大小"
+  },
+  {
+    "key": "100669149:74",
+    "source": "Dot softness",
+    "translation": "网点柔和度"
+  },
+  {
+    "key": "100669149:166",
+    "source": "Ink strength",
+    "translation": "墨线强度"
+  },
+  {
+    "key": "100669149:258",
+    "source": "Source blend",
+    "translation": "原图混合"
+  },
+  {
+    "key": "100669149:350",
+    "source": "Angle offset",
+    "translation": "角度偏移"
+  },
+  {
+    "key": "100669175:0",
+    "source": "Heat haze refraction",
+    "translation": "热浪折射"
+  },
+  {
+    "key": "100669178:0",
+    "source": "Simulates heat haze refraction with wavy distortion.",
+    "translation": "通过波浪变形模拟热浪折射。"
+  },
+  {
+    "key": "100669179:13",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100669179:105",
+    "source": "Frequency",
+    "translation": "频率"
+  },
+  {
+    "key": "100669179:197",
+    "source": "Blur radius",
+    "translation": "模糊半径"
+  },
+  {
+    "key": "100669179:289",
+    "source": "Offset",
+    "translation": "偏移"
+  },
+  {
+    "key": "100669179:381",
+    "source": "Luminance influence",
+    "translation": "亮度影响"
+  },
+  {
+    "key": "100669205:0",
+    "source": "Heat map",
+    "translation": "热力图"
+  },
+  {
+    "key": "100669208:0",
+    "source": "Maps image luminance to a fire-like color gradient.",
+    "translation": "将图片亮度映射为火焰色渐变。"
+  },
+  {
+    "key": "100669214:0",
+    "source": "Hexagonal pixelate",
+    "translation": "六边形马赛克"
+  },
+  {
+    "key": "100669217:0",
+    "source": "Pixelates the image using hexagonal tiles.",
+    "translation": "使用六边形块生成马赛克。"
+  },
+  {
+    "key": "100669218:5",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100669228:0",
+    "source": "Hologram scan",
+    "translation": "全息扫描"
+  },
+  {
+    "key": "100669231:0",
+    "source": "Applies a holographic scanline effect with glitch and glow.",
+    "translation": "应用带故障和发光的全息扫描线效果。"
+  },
+  {
+    "key": "100669232:13",
+    "source": "Scanline strength",
+    "translation": "扫描线强度"
+  },
+  {
+    "key": "100669232:105",
+    "source": "Glitch amount",
+    "translation": "故障程度"
+  },
+  {
+    "key": "100669232:197",
+    "source": "Chroma shift",
+    "translation": "色度偏移"
+  },
+  {
+    "key": "100669232:258",
+    "source": "Glow amount",
+    "translation": "发光程度"
+  },
+  {
+    "key": "100669252:0",
+    "source": "Holographic foil shimmer",
+    "translation": "全息箔闪光"
+  },
+  {
+    "key": "100669255:0",
+    "source": "Overlays a rainbow holographic foil shimmer effect.",
+    "translation": "叠加彩虹全息箔闪光效果。"
+  },
+  {
+    "key": "100669256:13",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100669256:105",
+    "source": "Scale",
+    "translation": "缩放"
+  },
+  {
+    "key": "100669256:289",
+    "source": "Specular",
+    "translation": "镜面反射"
+  },
+  {
+    "key": "100669256:381",
+    "source": "Grain",
+    "translation": "颗粒"
+  },
+  {
+    "key": "100669282:0",
+    "source": "Infrared false color",
+    "translation": "红外伪彩"
+  },
+  {
+    "key": "100669285:0",
+    "source": "Simulates infrared false color photography.",
+    "translation": "模拟红外伪彩摄影。"
+  },
+  {
+    "key": "100669286:13",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100669286:105",
+    "source": "Foliage shift",
+    "translation": "植被偏色"
+  },
+  {
+    "key": "100669286:197",
+    "source": "Sky darkening",
+    "translation": "天空压暗"
+  },
+  {
+    "key": "100669286:289",
+    "source": "Glow",
+    "translation": "发光"
+  },
+  {
+    "key": "100669286:381",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100669309:0",
+    "source": "Ink splatter + drips",
+    "translation": "墨水飞溅与滴落"
+  },
+  {
+    "key": "100669312:0",
+    "source": "Adds ink splatter blobs and vertical drip marks.",
+    "translation": "添加墨点飞溅与垂直滴落痕迹。"
+  },
+  {
+    "key": "100669313:13",
+    "source": "Ink amount",
+    "translation": "墨水量"
+  },
+  {
+    "key": "100669313:105",
+    "source": "Drip length",
+    "translation": "滴落长度"
+  },
+  {
+    "key": "100669313:197",
+    "source": "Spread",
+    "translation": "扩散"
+  },
+  {
+    "key": "100669313:289",
+    "source": "Paper fade",
+    "translation": "纸张淡化"
+  },
+  {
+    "key": "100669335:0",
+    "source": "Inner shadow",
+    "translation": "内阴影"
+  },
+  {
+    "key": "100669338:0",
+    "source": "Adds an inner shadow along the edges of opaque regions.",
+    "translation": "沿不透明区域边缘添加内阴影。"
+  },
+  {
+    "key": "100669339:13",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100669339:105",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100669339:170",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100669339:225",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100669339:292",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100669362:0",
+    "source": "JPEG artifact",
+    "translation": "JPEG 压缩失真"
+  },
+  {
+    "key": "100669365:0",
+    "source": "Simulates JPEG compression artifacts with blocking and ringing.",
+    "translation": "模拟 JPEG 压缩产生的块状失真与振铃。"
+  },
+  {
+    "key": "100669366:13",
+    "source": "Compression",
+    "translation": "压缩程度"
+  },
+  {
+    "key": "100669366:105",
+    "source": "Block size",
+    "translation": "块大小"
+  },
+  {
+    "key": "100669366:166",
+    "source": "Chroma bleed",
+    "translation": "色彩渗出"
+  },
+  {
+    "key": "100669366:258",
+    "source": "Ringing",
+    "translation": "振铃"
+  },
+  {
+    "key": "100669390:0",
+    "source": "Lava molten border",
+    "translation": "熔岩边框"
+  },
+  {
+    "key": "100669393:0",
+    "source": "Adds a volcanic border with dark cracked rock and glowing molten lava seams.",
+    "translation": "添加带深色裂岩与发光熔岩缝隙的火山边框。"
+  },
+  {
+    "key": "100669394:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100669394:78",
+    "source": "Rock color",
+    "translation": "岩石颜色"
+  },
+  {
+    "key": "100669394:139",
+    "source": "Lava color",
+    "translation": "熔岩颜色"
+  },
+  {
+    "key": "100669394:203",
+    "source": "Crack density",
+    "translation": "裂纹密度"
+  },
+  {
+    "key": "100669394:295",
+    "source": "Glow intensity",
+    "translation": "发光强度"
+  },
+  {
+    "key": "100669394:387",
+    "source": "Ember sparks",
+    "translation": "余烬火星"
+  },
+  {
+    "key": "100669418:0",
+    "source": "Lens blur (bokeh)",
+    "translation": "镜头模糊（散景）"
+  },
+  {
+    "key": "100669421:0",
+    "source": "Applies a disc-shaped lens blur with highlight boost.",
+    "translation": "应用圆盘形镜头模糊并增强高光。"
+  },
+  {
+    "key": "100669422:13",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100669422:74",
+    "source": "Highlight threshold",
+    "translation": "高光阈值"
+  },
+  {
+    "key": "100669422:166",
+    "source": "Highlight boost",
+    "translation": "高光增强"
+  },
+  {
+    "key": "100669458:0",
+    "source": "Light leak",
+    "translation": "漏光"
+  },
+  {
+    "key": "100669461:0",
+    "source": "Adds a warm film light leak effect.",
+    "translation": "添加暖色胶片漏光效果。"
+  },
+  {
+    "key": "100669462:13",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100669462:105",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100669462:177",
+    "source": "Position",
+    "translation": "位置"
+  },
+  {
+    "key": "100669462:222",
+    "source": "Top left",
+    "translation": "左上"
+  },
+  {
+    "key": "100669462:240",
+    "source": "Top right",
+    "translation": "右上"
+  },
+  {
+    "key": "100669462:258",
+    "source": "Bottom left",
+    "translation": "左下"
+  },
+  {
+    "key": "100669462:276",
+    "source": "Bottom right",
+    "translation": "右下"
+  },
+  {
+    "key": "100669462:294",
+    "source": "Left",
+    "translation": "左侧"
+  },
+  {
+    "key": "100669462:312",
+    "source": "Right",
+    "translation": "右侧"
+  },
+  {
+    "key": "100669477:0",
+    "source": "Liquid glass",
+    "translation": "液态玻璃"
+  },
+  {
+    "key": "100669480:0",
+    "source": "Distorts the image as if viewed through liquid glass.",
+    "translation": "模拟透过液态玻璃观看的变形效果。"
+  },
+  {
+    "key": "100669481:13",
+    "source": "Distortion",
+    "translation": "变形"
+  },
+  {
+    "key": "100669481:105",
+    "source": "Refraction",
+    "translation": "折射"
+  },
+  {
+    "key": "100669481:197",
+    "source": "Chroma shift",
+    "translation": "色度偏移"
+  },
+  {
+    "key": "100669481:257",
+    "source": "Gloss",
+    "translation": "光泽"
+  },
+  {
+    "key": "100669481:349",
+    "source": "Flow scale",
+    "translation": "流动尺度"
+  },
+  {
+    "key": "100669505:0",
+    "source": "Liquid mercury",
+    "translation": "液态水银"
+  },
+  {
+    "key": "100669508:0",
+    "source": "Transforms the image into a reflective liquid mercury surface.",
+    "translation": "将图片转换为反光液态水银表面。"
+  },
+  {
+    "key": "100669509:13",
+    "source": "Reflection",
+    "translation": "反射"
+  },
+  {
+    "key": "100669509:105",
+    "source": "Ripple",
+    "translation": "涟漪"
+  },
+  {
+    "key": "100669509:197",
+    "source": "Shine",
+    "translation": "光泽"
+  },
+  {
+    "key": "100669509:289",
+    "source": "Fluidity",
+    "translation": "流动性"
+  },
+  {
+    "key": "100669509:381",
+    "source": "Depth",
+    "translation": "深度"
+  },
+  {
+    "key": "100669535:0",
+    "source": "Luminance contour lines",
+    "translation": "亮度等高线"
+  },
+  {
+    "key": "100669538:0",
+    "source": "Draws contour lines based on luminance quantization levels.",
+    "translation": "根据亮度分级绘制等高线。"
+  },
+  {
+    "key": "100669539:13",
+    "source": "Levels",
+    "translation": "级数"
+  },
+  {
+    "key": "100669539:75",
+    "source": "Line width",
+    "translation": "线宽"
+  },
+  {
+    "key": "100669539:167",
+    "source": "Line strength",
+    "translation": "线条强度"
+  },
+  {
+    "key": "100669539:259",
+    "source": "Background strength",
+    "translation": "背景强度"
+  },
+  {
+    "key": "100669539:351",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100669539:443",
+    "source": "Invert",
+    "translation": "反转"
+  },
+  {
+    "key": "100669539:494",
+    "source": "Line color",
+    "translation": "线条颜色"
+  },
+  {
+    "key": "100669571:0",
+    "source": "Wraps the image in a macOS-style window frame with a title bar and traffic light buttons.",
+    "translation": "为图片添加带标题栏和三色按钮的 macOS 风格窗框。"
+  },
+  {
+    "key": "100669572:13",
+    "source": "Title",
+    "translation": "标题"
+  },
+  {
+    "key": "100669572:68",
+    "source": "Corner radius",
+    "translation": "圆角半径"
+  },
+  {
+    "key": "100669572:130",
+    "source": "Dark mode",
+    "translation": "深色模式"
+  },
+  {
+    "key": "100669572:181",
+    "source": "Shadow size",
+    "translation": "阴影大小"
+  },
+  {
+    "key": "100669572:243",
+    "source": "Padding",
+    "translation": "内边距"
+  },
+  {
+    "key": "100669594:0",
+    "source": "Marble border",
+    "translation": "大理石边框"
+  },
+  {
+    "key": "100669597:0",
+    "source": "Adds a procedural marble-veined texture border around the image.",
+    "translation": "为图片添加生成的大理石纹理边框。"
+  },
+  {
+    "key": "100669598:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100669598:77",
+    "source": "Base color",
+    "translation": "基础颜色"
+  },
+  {
+    "key": "100669598:147",
+    "source": "Vein color",
+    "translation": "纹脉颜色"
+  },
+  {
+    "key": "100669598:208",
+    "source": "Vein strength",
+    "translation": "纹脉强度"
+  },
+  {
+    "key": "100669598:300",
+    "source": "Vein scale",
+    "translation": "纹脉尺度"
+  },
+  {
+    "key": "100669598:392",
+    "source": "Inner bevel",
+    "translation": "内斜面"
+  },
+  {
+    "key": "100669626:0",
+    "source": "Matrix digital rain",
+    "translation": "黑客帝国数字雨"
+  },
+  {
+    "key": "100669629:0",
+    "source": "Overlays a Matrix-style digital rain effect using source luminance.",
+    "translation": "根据原图亮度叠加黑客帝国风格数字雨。"
+  },
+  {
+    "key": "100669630:13",
+    "source": "Cell size",
+    "translation": "单元格大小"
+  },
+  {
+    "key": "100669630:75",
+    "source": "Density",
+    "translation": "密度"
+  },
+  {
+    "key": "100669630:167",
+    "source": "Trail length",
+    "translation": "拖尾长度"
+  },
+  {
+    "key": "100669630:229",
+    "source": "Glow amount",
+    "translation": "发光程度"
+  },
+  {
+    "key": "100669630:321",
+    "source": "Source blend",
+    "translation": "原图混合"
+  },
+  {
+    "key": "100669630:413",
+    "source": "Rain offset",
+    "translation": "数字雨偏移"
+  },
+  {
+    "key": "100669630:505",
+    "source": "Luminance influence",
+    "translation": "亮度影响"
+  },
+  {
+    "key": "100669630:597",
+    "source": "Character set",
+    "translation": "字符集"
+  },
+  {
+    "key": "100669665:0",
+    "source": "Mean removal",
+    "translation": "去均值"
+  },
+  {
+    "key": "100669668:0",
+    "source": "Removes the mean value from colors.",
+    "translation": "去除颜色均值，增强细节。"
+  },
+  {
+    "key": "100669674:0",
+    "source": "Median filter",
+    "translation": "中值滤波"
+  },
+  {
+    "key": "100669677:0",
+    "source": "Applies a median filter to reduce noise while preserving edges.",
+    "translation": "通过中值滤波减少噪点并保留边缘。"
+  },
+  {
+    "key": "100669678:5",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100669688:0",
+    "source": "Minecraft grass",
+    "translation": "我的世界草方块"
+  },
+  {
+    "key": "100669691:0",
+    "source": "Adds a Minecraft-style pixelated grass border to the top or bottom of the image.",
+    "translation": "在图片顶部或底部添加我的世界风格草方块边框。"
+  },
+  {
+    "key": "100669692:13",
+    "source": "Block size",
+    "translation": "块大小"
+  },
+  {
+    "key": "100669692:75",
+    "source": "Grass rows",
+    "translation": "草地行数"
+  },
+  {
+    "key": "100669692:135",
+    "source": "Dirt rows",
+    "translation": "泥土行数"
+  },
+  {
+    "key": "100669692:196",
+    "source": "Top edge",
+    "translation": "顶部边缘"
+  },
+  {
+    "key": "100669692:247",
+    "source": "Overlap",
+    "translation": "重叠"
+  },
+  {
+    "key": "100669692:307",
+    "source": "Grass color",
+    "translation": "草地颜色"
+  },
+  {
+    "key": "100669692:371",
+    "source": "Dirt color",
+    "translation": "泥土颜色"
+  },
+  {
+    "key": "100669719:0",
+    "source": "Miniature",
+    "translation": "微缩模型"
+  },
+  {
+    "key": "100669722:0",
+    "source": "Creates a toy miniature look by blurring top and bottom with boosted saturation.",
+    "translation": "模糊上下区域并增强饱和度，模拟微缩模型。"
+  },
+  {
+    "key": "100669723:13",
+    "source": "Blur radius",
+    "translation": "模糊半径"
+  },
+  {
+    "key": "100669723:75",
+    "source": "Focus position %",
+    "translation": "焦点位置 %"
+  },
+  {
+    "key": "100669723:167",
+    "source": "Focus band %",
+    "translation": "清晰区域宽度 %"
+  },
+  {
+    "key": "100669723:259",
+    "source": "Saturation boost",
+    "translation": "饱和度增强"
+  },
+  {
+    "key": "100669741:0",
+    "source": "Mosaic polygon",
+    "translation": "多边形镶嵌"
+  },
+  {
+    "key": "100669744:0",
+    "source": "Creates a mosaic using hexagonal or triangular polygon tiles.",
+    "translation": "使用六边形或三角形拼块生成镶嵌图案。"
+  },
+  {
+    "key": "100669745:13",
+    "source": "Cell size",
+    "translation": "单元格大小"
+  },
+  {
+    "key": "100669745:75",
+    "source": "Shape",
+    "translation": "形状"
+  },
+  {
+    "key": "100669745:120",
+    "source": "Hexagon",
+    "translation": "六边形"
+  },
+  {
+    "key": "100669745:138",
+    "source": "Triangle",
+    "translation": "三角形"
+  },
+  {
+    "key": "100669745:168",
+    "source": "Border width",
+    "translation": "边框宽度"
+  },
+  {
+    "key": "100669745:260",
+    "source": "Border opacity",
+    "translation": "边框不透明度"
+  },
+  {
+    "key": "100669745:352",
+    "source": "Randomness",
+    "translation": "随机程度"
+  },
+  {
+    "key": "100669771:0",
+    "source": "Mosaic tile border",
+    "translation": "马赛克砖边框"
+  },
+  {
+    "key": "100669774:0",
+    "source": "Adds a colorful mosaic tile border with individual square tiles, grout lines, and subtle per-tile variation.",
+    "translation": "添加带方形彩砖、填缝线和细微色差的马赛克砖边框。"
+  },
+  {
+    "key": "100669775:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100669775:78",
+    "source": "Tile size",
+    "translation": "拼块大小"
+  },
+  {
+    "key": "100669775:170",
+    "source": "Grout color",
+    "translation": "填缝颜色"
+  },
+  {
+    "key": "100669775:240",
+    "source": "Grout width",
+    "translation": "填缝宽度"
+  },
+  {
+    "key": "100669775:332",
+    "source": "Color variety",
+    "translation": "颜色多样性"
+  },
+  {
+    "key": "100669775:424",
+    "source": "Saturation",
+    "translation": "饱和度"
+  },
+  {
+    "key": "100669799:0",
+    "source": "Motion blur",
+    "translation": "运动模糊"
+  },
+  {
+    "key": "100669802:0",
+    "source": "Applies a directional motion blur at a specified angle.",
+    "translation": "沿指定角度应用运动模糊。"
+  },
+  {
+    "key": "100669803:13",
+    "source": "Distance",
+    "translation": "距离"
+  },
+  {
+    "key": "100669803:78",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100669816:0",
+    "source": "Nebula starfield",
+    "translation": "星云星空"
+  },
+  {
+    "key": "100669819:0",
+    "source": "Generates a procedural nebula and starfield overlay.",
+    "translation": "生成星云与星空叠加效果。"
+  },
+  {
+    "key": "100669820:13",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100669820:105",
+    "source": "Scale",
+    "translation": "缩放"
+  },
+  {
+    "key": "100669820:197",
+    "source": "Hue shift",
+    "translation": "色相偏移"
+  },
+  {
+    "key": "100669820:289",
+    "source": "Star density",
+    "translation": "星星密度"
+  },
+  {
+    "key": "100669820:381",
+    "source": "Star size",
+    "translation": "星星大小"
+  },
+  {
+    "key": "100669820:473",
+    "source": "Twinkle",
+    "translation": "闪烁"
+  },
+  {
+    "key": "100669820:565",
+    "source": "Vignette strength",
+    "translation": "暗角强度"
+  },
+  {
+    "key": "100669852:0",
+    "source": "Neon edge glow",
+    "translation": "霓虹边缘光"
+  },
+  {
+    "key": "100669855:0",
+    "source": "Detects edges and applies a neon glow effect.",
+    "translation": "检测边缘并应用霓虹发光效果。"
+  },
+  {
+    "key": "100669856:13",
+    "source": "Edge strength",
+    "translation": "边缘强度"
+  },
+  {
+    "key": "100669856:105",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100669856:170",
+    "source": "Glow radius",
+    "translation": "发光半径"
+  },
+  {
+    "key": "100669856:262",
+    "source": "Glow intensity",
+    "translation": "发光强度"
+  },
+  {
+    "key": "100669856:354",
+    "source": "Base dim",
+    "translation": "底图压暗"
+  },
+  {
+    "key": "100669856:446",
+    "source": "Neon color",
+    "translation": "霓虹颜色"
+  },
+  {
+    "key": "100669883:0",
+    "source": "Neon glow border",
+    "translation": "霓虹光边框"
+  },
+  {
+    "key": "100669886:0",
+    "source": "Adds a vibrant neon light tube border with a diffused outer glow on a dark background.",
+    "translation": "在深色背景上添加带柔和外发光的霓虹灯管边框。"
+  },
+  {
+    "key": "100669887:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100669887:78",
+    "source": "Neon color",
+    "translation": "霓虹颜色"
+  },
+  {
+    "key": "100669887:144",
+    "source": "Glow intensity",
+    "translation": "发光强度"
+  },
+  {
+    "key": "100669887:236",
+    "source": "Tube width",
+    "translation": "灯管宽度"
+  },
+  {
+    "key": "100669887:328",
+    "source": "Background color",
+    "translation": "背景颜色"
+  },
+  {
+    "key": "100669887:389",
+    "source": "Double tube",
+    "translation": "双灯管"
+  },
+  {
+    "key": "100669911:0",
+    "source": "Night vision",
+    "translation": "夜视"
+  },
+  {
+    "key": "100669914:0",
+    "source": "Simulates a night vision green phosphor display effect.",
+    "translation": "模拟绿色荧光夜视显示效果。"
+  },
+  {
+    "key": "100669915:13",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100669915:105",
+    "source": "Glow",
+    "translation": "发光"
+  },
+  {
+    "key": "100669915:197",
+    "source": "Noise",
+    "translation": "噪点"
+  },
+  {
+    "key": "100669915:289",
+    "source": "Vignette",
+    "translation": "暗角"
+  },
+  {
+    "key": "100669915:381",
+    "source": "Scanlines",
+    "translation": "扫描线"
+  },
+  {
+    "key": "100669939:0",
+    "source": "Oil paint",
+    "translation": "油画"
+  },
+  {
+    "key": "100669942:0",
+    "source": "Simulates an oil painting by quantizing color intensity levels.",
+    "translation": "通过颜色强度分级模拟油画。"
+  },
+  {
+    "key": "100669943:13",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100669943:73",
+    "source": "Levels",
+    "translation": "级数"
+  },
+  {
+    "key": "100669956:0",
+    "source": "Oil slick interference",
+    "translation": "油膜干涉"
+  },
+  {
+    "key": "100669959:0",
+    "source": "Simulates iridescent oil slick interference patterns.",
+    "translation": "模拟彩虹色油膜干涉图案。"
+  },
+  {
+    "key": "100669960:13",
+    "source": "Intensity",
+    "translation": "强度"
+  },
+  {
+    "key": "100669960:105",
+    "source": "Scale",
+    "translation": "缩放"
+  },
+  {
+    "key": "100669960:197",
+    "source": "Darkness",
+    "translation": "暗度"
+  },
+  {
+    "key": "100669960:289",
+    "source": "Gloss",
+    "translation": "光泽"
+  },
+  {
+    "key": "100669987:0",
+    "source": "Old camera flash burn",
+    "translation": "老相机闪光灼痕"
+  },
+  {
+    "key": "100669990:0",
+    "source": "Simulates an old camera flash burn with warm glow and edge burn effects.",
+    "translation": "通过暖光和边缘灼痕模拟老相机闪光效果。"
+  },
+  {
+    "key": "100669991:13",
+    "source": "Flash strength",
+    "translation": "闪光强度"
+  },
+  {
+    "key": "100669991:105",
+    "source": "Flash radius",
+    "translation": "闪光半径"
+  },
+  {
+    "key": "100669991:197",
+    "source": "Edge burn",
+    "translation": "边缘灼痕"
+  },
+  {
+    "key": "100669991:289",
+    "source": "Warmth",
+    "translation": "暖色程度"
+  },
+  {
+    "key": "100669991:381",
+    "source": "Grain",
+    "translation": "颗粒"
+  },
+  {
+    "key": "100669991:473",
+    "source": "Center X",
+    "translation": "中心 X"
+  },
+  {
+    "key": "100669991:565",
+    "source": "Center Y",
+    "translation": "中心 Y"
+  },
+  {
+    "key": "100670020:0",
+    "source": "Ornate scroll border",
+    "translation": "华丽卷草边框"
+  },
+  {
+    "key": "100670023:0",
+    "source": "Adds an elegant Victorian-style ornate border with decorative corner scrollwork and double-line detailing.",
+    "translation": "添加带角落卷草纹与双线细节的维多利亚风格边框。"
+  },
+  {
+    "key": "100670024:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100670024:78",
+    "source": "Frame color",
+    "translation": "边框颜色"
+  },
+  {
+    "key": "100670024:148",
+    "source": "Ornament color",
+    "translation": "装饰颜色"
+  },
+  {
+    "key": "100670024:215",
+    "source": "Line thickness",
+    "translation": "线条粗细"
+  },
+  {
+    "key": "100670024:307",
+    "source": "Fill background",
+    "translation": "填充背景"
+  },
+  {
+    "key": "100670024:358",
+    "source": "Shadow",
+    "translation": "阴影"
+  },
+  {
+    "key": "100670050:0",
+    "source": "Outline",
+    "translation": "轮廓"
+  },
+  {
+    "key": "100670053:0",
+    "source": "Applies an outline effect.",
+    "translation": "应用轮廓效果。"
+  },
+  {
+    "key": "100670054:13",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100670054:74",
+    "source": "Padding",
+    "translation": "内边距"
+  },
+  {
+    "key": "100670054:135",
+    "source": "Outline only",
+    "translation": "仅轮廓"
+  },
+  {
+    "key": "100670054:186",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100670073:0",
+    "source": "Palette map",
+    "translation": "调色板映射"
+  },
+  {
+    "key": "100670076:0",
+    "source": "Reduces the image to a limited color palette by quantization.",
+    "translation": "通过量化将图片颜色限制在指定调色板中。"
+  },
+  {
+    "key": "100670077:5",
+    "source": "Color levels",
+    "translation": "色阶数"
+  },
+  {
+    "key": "100670087:0",
+    "source": "Paper stencil mask",
+    "translation": "纸质模板蒙版"
+  },
+  {
+    "key": "100670090:0",
+    "source": "Applies a paper stencil mask effect with adjustable threshold and edge strength.",
+    "translation": "应用可调整阈值与边缘强度的纸质模板蒙版。"
+  },
+  {
+    "key": "100670091:13",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100670091:105",
+    "source": "Feather radius",
+    "translation": "羽化半径"
+  },
+  {
+    "key": "100670091:197",
+    "source": "Edge strength",
+    "translation": "边缘强度"
+  },
+  {
+    "key": "100670091:289",
+    "source": "Background dim",
+    "translation": "背景压暗"
+  },
+  {
+    "key": "100670091:381",
+    "source": "Invert mask",
+    "translation": "反转蒙版"
+  },
+  {
+    "key": "100670091:432",
+    "source": "Stencil color",
+    "translation": "模板颜色"
+  },
+  {
+    "key": "100670119:0",
+    "source": "Pencil sketch",
+    "translation": "铅笔素描"
+  },
+  {
+    "key": "100670122:0",
+    "source": "Converts the image to a pencil sketch style drawing.",
+    "translation": "将图片转换为铅笔素描。"
+  },
+  {
+    "key": "100670123:13",
+    "source": "Blur radius",
+    "translation": "模糊半径"
+  },
+  {
+    "key": "100670123:74",
+    "source": "Edge strength",
+    "translation": "边缘强度"
+  },
+  {
+    "key": "100670123:166",
+    "source": "Pencil darkness",
+    "translation": "铅笔深度"
+  },
+  {
+    "key": "100670123:258",
+    "source": "Paper brightness",
+    "translation": "纸张亮度"
+  },
+  {
+    "key": "100670144:0",
+    "source": "Perlin noise",
+    "translation": "柏林噪声"
+  },
+  {
+    "key": "100670147:0",
+    "source": "Generates a Perlin noise pattern and blends it with the image.",
+    "translation": "生成柏林噪声图案并与图片混合。"
+  },
+  {
+    "key": "100670148:13",
+    "source": "Scale",
+    "translation": "缩放"
+  },
+  {
+    "key": "100670148:105",
+    "source": "Octaves",
+    "translation": "倍频数"
+  },
+  {
+    "key": "100670148:165",
+    "source": "Persistence",
+    "translation": "持续度"
+  },
+  {
+    "key": "100670148:257",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100670148:349",
+    "source": "Monochrome",
+    "translation": "单色"
+  },
+  {
+    "key": "100670178:0",
+    "source": "Pixelate",
+    "translation": "马赛克"
+  },
+  {
+    "key": "100670181:0",
+    "source": "Pixelates the image.",
+    "translation": "对图片应用马赛克。"
+  },
+  {
+    "key": "100670182:5",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100670191:0",
+    "source": "Pixel sorting",
+    "translation": "像素排序"
+  },
+  {
+    "key": "100670194:0",
+    "source": "Sorts pixels along rows or columns based on brightness or hue thresholds.",
+    "translation": "根据亮度或色相阈值对行列像素排序。"
+  },
+  {
+    "key": "100670195:13",
+    "source": "Direction",
+    "translation": "方向"
+  },
+  {
+    "key": "100670195:58",
+    "source": "Horizontal",
+    "translation": "水平"
+  },
+  {
+    "key": "100670195:76",
+    "source": "Vertical",
+    "translation": "垂直"
+  },
+  {
+    "key": "100670195:106",
+    "source": "Metric",
+    "translation": "依据"
+  },
+  {
+    "key": "100670195:151",
+    "source": "Brightness",
+    "translation": "亮度"
+  },
+  {
+    "key": "100670195:169",
+    "source": "Hue",
+    "translation": "色相"
+  },
+  {
+    "key": "100670195:199",
+    "source": "Threshold low",
+    "translation": "阈值下限"
+  },
+  {
+    "key": "100670195:291",
+    "source": "Threshold high",
+    "translation": "阈值上限"
+  },
+  {
+    "key": "100670195:383",
+    "source": "Min span length",
+    "translation": "最小区段长度"
+  },
+  {
+    "key": "100670195:447",
+    "source": "Max span length",
+    "translation": "最大区段长度"
+  },
+  {
+    "key": "100670195:512",
+    "source": "Sort probability",
+    "translation": "排序概率"
+  },
+  {
+    "key": "100670230:0",
+    "source": "Plasma energy arcs",
+    "translation": "等离子能量弧"
+  },
+  {
+    "key": "100670233:0",
+    "source": "Generates plasma-like energy arcs overlaid on the image.",
+    "translation": "在图片上叠加等离子能量弧。"
+  },
+  {
+    "key": "100670234:13",
+    "source": "Energy",
+    "translation": "能量"
+  },
+  {
+    "key": "100670234:105",
+    "source": "Arc density",
+    "translation": "电弧密度"
+  },
+  {
+    "key": "100670234:197",
+    "source": "Glow",
+    "translation": "发光"
+  },
+  {
+    "key": "100670234:289",
+    "source": "Turbulence",
+    "translation": "湍流"
+  },
+  {
+    "key": "100670234:381",
+    "source": "Thickness",
+    "translation": "粗细"
+  },
+  {
+    "key": "100670260:0",
+    "source": "Pointillism",
+    "translation": "点彩画"
+  },
+  {
+    "key": "100670263:0",
+    "source": "Renders the image as a pointillist painting with colored dots.",
+    "translation": "使用彩色圆点将图片绘制为点彩画。"
+  },
+  {
+    "key": "100670264:13",
+    "source": "Dot size",
+    "translation": "网点大小"
+  },
+  {
+    "key": "100670264:74",
+    "source": "Density",
+    "translation": "密度"
+  },
+  {
+    "key": "100670264:166",
+    "source": "Jitter",
+    "translation": "抖动"
+  },
+  {
+    "key": "100670264:258",
+    "source": "Color boost",
+    "translation": "颜色增强"
+  },
+  {
+    "key": "100670264:350",
+    "source": "Background mix",
+    "translation": "背景混合"
+  },
+  {
+    "key": "100670288:0",
+    "source": "Polaroid frame",
+    "translation": "拍立得相框"
+  },
+  {
+    "key": "100670291:0",
+    "source": "Wraps the image in a Polaroid-style instant photo frame.",
+    "translation": "为图片添加拍立得风格相框。"
+  },
+  {
+    "key": "100670292:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100670292:75",
+    "source": "Bottom size",
+    "translation": "底边大小"
+  },
+  {
+    "key": "100670292:141",
+    "source": "Rotation",
+    "translation": "旋转"
+  },
+  {
+    "key": "100670292:233",
+    "source": "Frame color",
+    "translation": "边框颜色"
+  },
+  {
+    "key": "100670292:303",
+    "source": "Caption",
+    "translation": "说明文字"
+  },
+  {
+    "key": "100670292:358",
+    "source": "Shadow size",
+    "translation": "阴影大小"
+  },
+  {
+    "key": "100670316:0",
+    "source": "Pop art grid",
+    "translation": "波普艺术网格"
+  },
+  {
+    "key": "100670319:0",
+    "source": "Creates an Andy Warhol-style 2×2 pop art grid with color variations.",
+    "translation": "生成带颜色变化的安迪·沃霍尔风格 2×2 波普艺术网格。"
+  },
+  {
+    "key": "100670320:13",
+    "source": "Color 1",
+    "translation": "颜色 1"
+  },
+  {
+    "key": "100670320:77",
+    "source": "Color 2",
+    "translation": "颜色 2"
+  },
+  {
+    "key": "100670320:141",
+    "source": "Color 3",
+    "translation": "颜色 3"
+  },
+  {
+    "key": "100670320:205",
+    "source": "Color 4",
+    "translation": "颜色 4"
+  },
+  {
+    "key": "100670320:272",
+    "source": "Color strength",
+    "translation": "颜色强度"
+  },
+  {
+    "key": "100670341:0",
+    "source": "Radial rainbow",
+    "translation": "径向彩虹"
+  },
+  {
+    "key": "100670344:0",
+    "source": "Applies a rainbow hue shift based on angle from center.",
+    "translation": "按相对中心的角度应用彩虹色相偏移。"
+  },
+  {
+    "key": "100670345:13",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100670345:105",
+    "source": "Rotations",
+    "translation": "旋转圈数"
+  },
+  {
+    "key": "100670357:0",
+    "source": "Rainbow border",
+    "translation": "彩虹边框"
+  },
+  {
+    "key": "100670360:0",
+    "source": "Adds a vivid rainbow gradient border that cycles through the full color spectrum.",
+    "translation": "添加覆盖完整色谱的鲜艳彩虹渐变边框。"
+  },
+  {
+    "key": "100670361:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100670361:77",
+    "source": "Saturation",
+    "translation": "饱和度"
+  },
+  {
+    "key": "100670361:169",
+    "source": "Brightness",
+    "translation": "亮度"
+  },
+  {
+    "key": "100670361:261",
+    "source": "Hue offset",
+    "translation": "色相偏移"
+  },
+  {
+    "key": "100670361:353",
+    "source": "Glow",
+    "translation": "发光"
+  },
+  {
+    "key": "100670361:445",
+    "source": "Inner line",
+    "translation": "内侧线条"
+  },
+  {
+    "key": "100670387:0",
+    "source": "Rainy window",
+    "translation": "雨窗"
+  },
+  {
+    "key": "100670390:0",
+    "source": "Simulates looking through a rain-streaked window with distortion and mist.",
+    "translation": "通过变形和水雾模拟透过雨窗观看。"
+  },
+  {
+    "key": "100670391:13",
+    "source": "Distortion",
+    "translation": "变形"
+  },
+  {
+    "key": "100670391:105",
+    "source": "Streak density",
+    "translation": "雨痕密度"
+  },
+  {
+    "key": "100670391:197",
+    "source": "Mist amount",
+    "translation": "水雾程度"
+  },
+  {
+    "key": "100670391:289",
+    "source": "Droplet amount",
+    "translation": "水滴数量"
+  },
+  {
+    "key": "100670413:0",
+    "source": "Reflection",
+    "translation": "反射"
+  },
+  {
+    "key": "100670416:0",
+    "source": "Adds a reflection to the bottom of the image.",
+    "translation": "在图片下方添加倒影。"
+  },
+  {
+    "key": "100670417:13",
+    "source": "Percentage",
+    "translation": "百分比"
+  },
+  {
+    "key": "100670417:75",
+    "source": "Max Alpha",
+    "translation": "最大不透明度"
+  },
+  {
+    "key": "100670417:143",
+    "source": "Min Alpha",
+    "translation": "最小不透明度"
+  },
+  {
+    "key": "100670417:207",
+    "source": "Offset",
+    "translation": "偏移"
+  },
+  {
+    "key": "100670417:268",
+    "source": "Skew",
+    "translation": "倾斜"
+  },
+  {
+    "key": "100670417:319",
+    "source": "Skew Size",
+    "translation": "倾斜大小"
+  },
+  {
+    "key": "100670442:0",
+    "source": "Remove background",
+    "translation": "移除背景"
+  },
+  {
+    "key": "100670445:0",
+    "source": "Removes border-connected background colors and turns them transparent.",
+    "translation": "移除与边缘连通的背景颜色并设为透明。"
+  },
+  {
+    "key": "100670446:13",
+    "source": "Sensitivity (%)",
+    "translation": "灵敏度（%）"
+  },
+  {
+    "key": "100670446:105",
+    "source": "Center protection (%)",
+    "translation": "中心保护（%）"
+  },
+  {
+    "key": "100670446:197",
+    "source": "Edge feather (px)",
+    "translation": "边缘羽化（px）"
+  },
+  {
+    "key": "100670495:0",
+    "source": "Retro sunset",
+    "translation": "复古落日"
+  },
+  {
+    "key": "100670498:0",
+    "source": "Overlays retro 80s-style sunset gradient bands.",
+    "translation": "叠加 80 年代复古落日渐变条带。"
+  },
+  {
+    "key": "100670499:13",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100670499:105",
+    "source": "Horizontal lines",
+    "translation": "水平线"
+  },
+  {
+    "key": "100670511:0",
+    "source": "RGB split",
+    "translation": "RGB 分离"
+  },
+  {
+    "key": "100670514:0",
+    "source": "Splits and offsets the red, green, and blue color channels.",
+    "translation": "分离并偏移红、绿、蓝颜色通道。"
+  },
+  {
+    "key": "100670515:13",
+    "source": "Offset red X",
+    "translation": "红色水平偏移"
+  },
+  {
+    "key": "100670515:76",
+    "source": "Offset red Y",
+    "translation": "红色垂直偏移"
+  },
+  {
+    "key": "100670515:138",
+    "source": "Offset green X",
+    "translation": "绿色水平偏移"
+  },
+  {
+    "key": "100670515:200",
+    "source": "Offset green Y",
+    "translation": "绿色垂直偏移"
+  },
+  {
+    "key": "100670515:262",
+    "source": "Offset blue X",
+    "translation": "蓝色水平偏移"
+  },
+  {
+    "key": "100670515:324",
+    "source": "Offset blue Y",
+    "translation": "蓝色垂直偏移"
+  },
+  {
+    "key": "100670540:0",
+    "source": "Riso print",
+    "translation": "孔版印刷"
+  },
+  {
+    "key": "100670543:0",
+    "source": "Simulates a risograph print with halftone dots and ink colors.",
+    "translation": "通过半色调网点和油墨颜色模拟孔版印刷。"
+  },
+  {
+    "key": "100670544:13",
+    "source": "Ink strength",
+    "translation": "墨线强度"
+  },
+  {
+    "key": "100670544:105",
+    "source": "Paper fade",
+    "translation": "纸张淡化"
+  },
+  {
+    "key": "100670544:197",
+    "source": "Offset",
+    "translation": "偏移"
+  },
+  {
+    "key": "100670544:289",
+    "source": "Dot scale",
+    "translation": "网点缩放"
+  },
+  {
+    "key": "100670544:381",
+    "source": "Ink noise",
+    "translation": "油墨噪点"
+  },
+  {
+    "key": "100670544:473",
+    "source": "Ink color A",
+    "translation": "油墨颜色 A"
+  },
+  {
+    "key": "100670544:542",
+    "source": "Ink color B",
+    "translation": "油墨颜色 B"
+  },
+  {
+    "key": "100670576:0",
+    "source": "Rope border",
+    "translation": "绳索边框"
+  },
+  {
+    "key": "100670579:0",
+    "source": "Adds a twisted rope/cord border with braided fiber detail and shading.",
+    "translation": "添加带编织纤维细节与明暗的绳索边框。"
+  },
+  {
+    "key": "100670580:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100670580:78",
+    "source": "Rope color",
+    "translation": "绳索颜色"
+  },
+  {
+    "key": "100670580:145",
+    "source": "Background color",
+    "translation": "背景颜色"
+  },
+  {
+    "key": "100670580:206",
+    "source": "Twist density",
+    "translation": "扭转密度"
+  },
+  {
+    "key": "100670580:298",
+    "source": "Fiber detail",
+    "translation": "纤维细节"
+  },
+  {
+    "key": "100670601:0",
+    "source": "Rust / corrosion",
+    "translation": "锈蚀"
+  },
+  {
+    "key": "100670604:0",
+    "source": "Simulates rust and corrosion effects with pitting and streaks.",
+    "translation": "通过蚀坑和条痕模拟锈蚀效果。"
+  },
+  {
+    "key": "100670605:13",
+    "source": "Corrosion",
+    "translation": "腐蚀"
+  },
+  {
+    "key": "100670605:105",
+    "source": "Pitting",
+    "translation": "蚀坑"
+  },
+  {
+    "key": "100670605:197",
+    "source": "Streaks",
+    "translation": "条痕"
+  },
+  {
+    "key": "100670605:289",
+    "source": "Dirt",
+    "translation": "污垢"
+  },
+  {
+    "key": "100670605:381",
+    "source": "Edge wear",
+    "translation": "边缘磨损"
+  },
+  {
+    "key": "100670630:0",
+    "source": "Scanlines",
+    "translation": "扫描线"
+  },
+  {
+    "key": "100670633:0",
+    "source": "Adds retro CRT-style horizontal scanlines.",
+    "translation": "添加复古显像管风格的水平扫描线。"
+  },
+  {
+    "key": "100670634:13",
+    "source": "Line spacing",
+    "translation": "线条间距"
+  },
+  {
+    "key": "100670634:74",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100670646:0",
+    "source": "Shadow",
+    "translation": "阴影"
+  },
+  {
+    "key": "100670649:0",
+    "source": "Adds a drop shadow to the image.",
+    "translation": "为图片添加投影。"
+  },
+  {
+    "key": "100670650:13",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100670650:105",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100670650:167",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100670650:234",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100670650:301",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100670650:356",
+    "source": "Auto resize",
+    "translation": "自动调整尺寸"
+  },
+  {
+    "key": "100670675:0",
+    "source": "Sharpen",
+    "translation": "锐化"
+  },
+  {
+    "key": "100670678:0",
+    "source": "Sharpens the image.",
+    "translation": "锐化图片。"
+  },
+  {
+    "key": "100670679:5",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100670688:0",
+    "source": "Slice",
+    "translation": "切片"
+  },
+  {
+    "key": "100670691:0",
+    "source": "Slices the image.",
+    "translation": "将图片分割为切片。"
+  },
+  {
+    "key": "100670692:13",
+    "source": "Min Height",
+    "translation": "最小高度"
+  },
+  {
+    "key": "100670692:75",
+    "source": "Max Height",
+    "translation": "最大高度"
+  },
+  {
+    "key": "100670692:140",
+    "source": "Min Shift",
+    "translation": "最小偏移"
+  },
+  {
+    "key": "100670692:201",
+    "source": "Max Shift",
+    "translation": "最大偏移"
+  },
+  {
+    "key": "100670711:0",
+    "source": "Smoke overlay",
+    "translation": "烟雾叠加"
+  },
+  {
+    "key": "100670714:0",
+    "source": "Adds a soft procedural smoke overlay to the image.",
+    "translation": "向图片叠加生成的柔和烟雾。"
+  },
+  {
+    "key": "100670715:13",
+    "source": "Density",
+    "translation": "密度"
+  },
+  {
+    "key": "100670715:105",
+    "source": "Scale",
+    "translation": "缩放"
+  },
+  {
+    "key": "100670715:197",
+    "source": "Drift",
+    "translation": "漂移"
+  },
+  {
+    "key": "100670715:289",
+    "source": "Softness",
+    "translation": "柔和度"
+  },
+  {
+    "key": "100670715:381",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100670738:0",
+    "source": "Smooth",
+    "translation": "平滑"
+  },
+  {
+    "key": "100670741:0",
+    "source": "Applies a smoothing effect.",
+    "translation": "应用平滑效果。"
+  },
+  {
+    "key": "100670747:0",
+    "source": "Snowfall + depth fog",
+    "translation": "降雪与景深雾"
+  },
+  {
+    "key": "100670750:0",
+    "source": "Simulates snowfall with depth-based fog.",
+    "translation": "模拟降雪及随景深变化的雾气。"
+  },
+  {
+    "key": "100670751:13",
+    "source": "Snow amount",
+    "translation": "降雪量"
+  },
+  {
+    "key": "100670751:105",
+    "source": "Flake size",
+    "translation": "雪花大小"
+  },
+  {
+    "key": "100670751:197",
+    "source": "Wind",
+    "translation": "风力"
+  },
+  {
+    "key": "100670751:289",
+    "source": "Fog amount",
+    "translation": "雾量"
+  },
+  {
+    "key": "100670751:381",
+    "source": "Fog height",
+    "translation": "雾高度"
+  },
+  {
+    "key": "100670775:0",
+    "source": "Sobel edge",
+    "translation": "Sobel 边缘检测"
+  },
+  {
+    "key": "100670778:0",
+    "source": "Detects edges using the Sobel operator.",
+    "translation": "使用 Sobel 算子检测边缘。"
+  },
+  {
+    "key": "100670779:13",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100670779:105",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100670793:0",
+    "source": "Soft diffusion",
+    "translation": "柔光扩散"
+  },
+  {
+    "key": "100670796:0",
+    "source": "Applies a soft diffusion glow with bloom and warmth.",
+    "translation": "应用带泛光和暖色的柔光扩散。"
+  },
+  {
+    "key": "100670797:13",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100670797:105",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100670797:197",
+    "source": "Highlight bloom",
+    "translation": "高光泛光"
+  },
+  {
+    "key": "100670797:289",
+    "source": "Contrast softening",
+    "translation": "对比柔化"
+  },
+  {
+    "key": "100670797:381",
+    "source": "Warmth",
+    "translation": "暖色程度"
+  },
+  {
+    "key": "100670820:0",
+    "source": "Spin blur",
+    "translation": "旋转模糊"
+  },
+  {
+    "key": "100670823:0",
+    "source": "Applies a rotational motion blur around a center point.",
+    "translation": "围绕中心点应用旋转运动模糊。"
+  },
+  {
+    "key": "100670824:13",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100670824:105",
+    "source": "Samples",
+    "translation": "采样数"
+  },
+  {
+    "key": "100670824:167",
+    "source": "Center X",
+    "translation": "中心 X"
+  },
+  {
+    "key": "100670824:259",
+    "source": "Center Y",
+    "translation": "中心 Y"
+  },
+  {
+    "key": "100670844:0",
+    "source": "Stained glass border",
+    "translation": "彩绘玻璃边框"
+  },
+  {
+    "key": "100670847:0",
+    "source": "Adds a stained glass border with jewel-toned glass panels divided by dark lead came lines.",
+    "translation": "添加由深色铅条分隔的宝石色彩绘玻璃边框。"
+  },
+  {
+    "key": "100670848:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100670848:78",
+    "source": "Panel width",
+    "translation": "玻璃片宽度"
+  },
+  {
+    "key": "100670848:170",
+    "source": "Lead thickness",
+    "translation": "铅条粗细"
+  },
+  {
+    "key": "100670848:262",
+    "source": "Glass brightness",
+    "translation": "玻璃亮度"
+  },
+  {
+    "key": "100670848:354",
+    "source": "Glass glow",
+    "translation": "玻璃发光"
+  },
+  {
+    "key": "100670848:405",
+    "source": "Inner line",
+    "translation": "内侧线条"
+  },
+  {
+    "key": "100670877:0",
+    "source": "Stained glass",
+    "translation": "彩绘玻璃"
+  },
+  {
+    "key": "100670880:0",
+    "source": "Creates a stained glass mosaic effect with lead borders.",
+    "translation": "生成带铅条边缘的彩绘玻璃镶嵌效果。"
+  },
+  {
+    "key": "100670881:13",
+    "source": "Tile size",
+    "translation": "拼块大小"
+  },
+  {
+    "key": "100670881:75",
+    "source": "Irregularity",
+    "translation": "不规则程度"
+  },
+  {
+    "key": "100670881:167",
+    "source": "Lead width",
+    "translation": "铅条宽度"
+  },
+  {
+    "key": "100670881:259",
+    "source": "Lead opacity",
+    "translation": "铅条不透明度"
+  },
+  {
+    "key": "100670881:351",
+    "source": "Color boost",
+    "translation": "颜色增强"
+  },
+  {
+    "key": "100670914:0",
+    "source": "Starfield border",
+    "translation": "星空边框"
+  },
+  {
+    "key": "100670917:0",
+    "source": "Adds a cosmic starfield border with scattered stars, nebula wisps, and subtle color tints.",
+    "translation": "添加带散落星辰、缕缕星云和细微色调的星空边框。"
+  },
+  {
+    "key": "100670918:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100670918:78",
+    "source": "Background color",
+    "translation": "背景颜色"
+  },
+  {
+    "key": "100670918:137",
+    "source": "Nebula tint",
+    "translation": "星云色调"
+  },
+  {
+    "key": "100670918:198",
+    "source": "Star density",
+    "translation": "星星密度"
+  },
+  {
+    "key": "100670918:290",
+    "source": "Nebula intensity",
+    "translation": "星云强度"
+  },
+  {
+    "key": "100670918:382",
+    "source": "Bright star glow",
+    "translation": "亮星光晕"
+  },
+  {
+    "key": "100670942:0",
+    "source": "Star filter",
+    "translation": "星芒滤镜"
+  },
+  {
+    "key": "100670945:0",
+    "source": "Adds star-shaped light streaks to bright areas.",
+    "translation": "向明亮区域添加星形光芒。"
+  },
+  {
+    "key": "100670946:13",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100670946:105",
+    "source": "Length",
+    "translation": "长度"
+  },
+  {
+    "key": "100670946:197",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100670946:289",
+    "source": "Rotation",
+    "translation": "旋转"
+  },
+  {
+    "key": "100670946:381",
+    "source": "Warmth",
+    "translation": "暖色程度"
+  },
+  {
+    "key": "100670969:0",
+    "source": "Stripe overlay",
+    "translation": "条纹叠加"
+  },
+  {
+    "key": "100670972:0",
+    "source": "Overlays diagonal stripes on the image.",
+    "translation": "在图片上叠加斜条纹。"
+  },
+  {
+    "key": "100670973:13",
+    "source": "Stripe width",
+    "translation": "条纹宽度"
+  },
+  {
+    "key": "100670973:75",
+    "source": "Gap width",
+    "translation": "间隙宽度"
+  },
+  {
+    "key": "100670973:137",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100670973:202",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100670973:294",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100670994:0",
+    "source": "Surface blur",
+    "translation": "表面模糊"
+  },
+  {
+    "key": "100670997:0",
+    "source": "Blurs while preserving edges based on color similarity.",
+    "translation": "根据颜色相似度模糊图片并保留边缘。"
+  },
+  {
+    "key": "100670998:13",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100670998:73",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100671012:0",
+    "source": "Thermal vision",
+    "translation": "热成像"
+  },
+  {
+    "key": "100671015:0",
+    "source": "Maps image luminance to a thermal color gradient.",
+    "translation": "将图片亮度映射为热成像渐变色。"
+  },
+  {
+    "key": "100671016:13",
+    "source": "Levels",
+    "translation": "级数"
+  },
+  {
+    "key": "100671016:74",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100671016:166",
+    "source": "Glow",
+    "translation": "发光"
+  },
+  {
+    "key": "100671016:258",
+    "source": "Blend",
+    "translation": "混合"
+  },
+  {
+    "key": "100671016:350",
+    "source": "Invert",
+    "translation": "反转"
+  },
+  {
+    "key": "100671039:0",
+    "source": "Tilt-shift",
+    "translation": "移轴"
+  },
+  {
+    "key": "100671042:0",
+    "source": "Simulates a tilt-shift lens with selective focus.",
+    "translation": "通过选择性对焦模拟移轴镜头。"
+  },
+  {
+    "key": "100671043:13",
+    "source": "Mode",
+    "translation": "模式"
+  },
+  {
+    "key": "100671043:58",
+    "source": "Linear",
+    "translation": "线性"
+  },
+  {
+    "key": "100671043:76",
+    "source": "Radial",
+    "translation": "径向"
+  },
+  {
+    "key": "100671043:106",
+    "source": "Blur radius",
+    "translation": "模糊半径"
+  },
+  {
+    "key": "100671043:198",
+    "source": "Focus size",
+    "translation": "清晰区域大小"
+  },
+  {
+    "key": "100671043:290",
+    "source": "Focus position X",
+    "translation": "焦点 X"
+  },
+  {
+    "key": "100671043:382",
+    "source": "Focus position Y",
+    "translation": "焦点 Y"
+  },
+  {
+    "key": "100671043:474",
+    "source": "Falloff",
+    "translation": "衰减"
+  },
+  {
+    "key": "100671043:566",
+    "source": "Saturation boost",
+    "translation": "饱和度增强"
+  },
+  {
+    "key": "100671074:0",
+    "source": "Torn edge",
+    "translation": "撕边"
+  },
+  {
+    "key": "100671077:0",
+    "source": "Adds a torn edge border effect.",
+    "translation": "添加撕裂边缘效果。"
+  },
+  {
+    "key": "100671078:13",
+    "source": "Depth",
+    "translation": "深度"
+  },
+  {
+    "key": "100671078:75",
+    "source": "Range",
+    "translation": "范围"
+  },
+  {
+    "key": "100671078:137",
+    "source": "Top",
+    "translation": "顶部"
+  },
+  {
+    "key": "100671078:188",
+    "source": "Right",
+    "translation": "右侧"
+  },
+  {
+    "key": "100671078:239",
+    "source": "Bottom",
+    "translation": "底部"
+  },
+  {
+    "key": "100671078:290",
+    "source": "Left",
+    "translation": "左侧"
+  },
+  {
+    "key": "100671078:341",
+    "source": "Curved edges",
+    "translation": "曲线边缘"
+  },
+  {
+    "key": "100671106:0",
+    "source": "Triangle pixelate",
+    "translation": "三角形马赛克"
+  },
+  {
+    "key": "100671109:0",
+    "source": "Pixelates the image using triangular tiles.",
+    "translation": "使用三角形块生成马赛克。"
+  },
+  {
+    "key": "100671110:5",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100671119:0",
+    "source": "TV static",
+    "translation": "电视雪花"
+  },
+  {
+    "key": "100671122:0",
+    "source": "Blends black-and-white TV static noise over the image.",
+    "translation": "在图片上混合黑白电视雪花噪点。"
+  },
+  {
+    "key": "100671123:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100671134:0",
+    "source": "Unsharp mask",
+    "translation": "反差保留锐化"
+  },
+  {
+    "key": "100671137:0",
+    "source": "Sharpens the image using an unsharp mask technique.",
+    "translation": "使用反差保留蒙版锐化图片。"
+  },
+  {
+    "key": "100671138:13",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100671138:105",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100671138:197",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100671155:0",
+    "source": "VHS tape damage",
+    "translation": "VHS 录像带损伤"
+  },
+  {
+    "key": "100671158:0",
+    "source": "Simulates VHS tape degradation with distortion, noise, and color bleeding.",
+    "translation": "通过变形、噪点和色彩渗出模拟 VHS 录像带老化。"
+  },
+  {
+    "key": "100671159:13",
+    "source": "Distortion",
+    "translation": "变形"
+  },
+  {
+    "key": "100671159:105",
+    "source": "Noise",
+    "translation": "噪点"
+  },
+  {
+    "key": "100671159:197",
+    "source": "Color bleed",
+    "translation": "色彩渗出"
+  },
+  {
+    "key": "100671159:289",
+    "source": "Tracking",
+    "translation": "循迹"
+  },
+  {
+    "key": "100671159:381",
+    "source": "Scanlines",
+    "translation": "扫描线"
+  },
+  {
+    "key": "100671182:0",
+    "source": "Vignette",
+    "translation": "暗角"
+  },
+  {
+    "key": "100671185:0",
+    "source": "Applies a vignette effect.",
+    "translation": "应用暗角效果。"
+  },
+  {
+    "key": "100671186:13",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100671186:105",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100671199:0",
+    "source": "Vintage print damage",
+    "translation": "旧照片损伤"
+  },
+  {
+    "key": "100671202:0",
+    "source": "Simulates aged print damage with sepia toning, grain, scratches, and dust.",
+    "translation": "通过褐色调、颗粒、划痕和灰尘模拟旧照片损伤。"
+  },
+  {
+    "key": "100671203:13",
+    "source": "Sepia amount",
+    "translation": "怀旧程度"
+  },
+  {
+    "key": "100671203:105",
+    "source": "Fade amount",
+    "translation": "褪色程度"
+  },
+  {
+    "key": "100671203:197",
+    "source": "Grain amount",
+    "translation": "颗粒程度"
+  },
+  {
+    "key": "100671203:289",
+    "source": "Scratch amount",
+    "translation": "划痕程度"
+  },
+  {
+    "key": "100671203:381",
+    "source": "Dust amount",
+    "translation": "灰尘程度"
+  },
+  {
+    "key": "100671226:0",
+    "source": "Voronoi Mosaic",
+    "translation": "泰森多边形镶嵌"
+  },
+  {
+    "key": "100671229:0",
+    "source": "Divides the image into Voronoi cells colored by average region color.",
+    "translation": "将图片分成泰森多边形，并按区域平均颜色填充。"
+  },
+  {
+    "key": "100671230:13",
+    "source": "Cell Count",
+    "translation": "单元格数量"
+  },
+  {
+    "key": "100671230:82",
+    "source": "Draw Edges",
+    "translation": "绘制边缘"
+  },
+  {
+    "key": "100671230:133",
+    "source": "Edge Thickness",
+    "translation": "边缘粗细"
+  },
+  {
+    "key": "100671230:225",
+    "source": "Edge Color",
+    "translation": "边缘颜色"
+  },
+  {
+    "key": "100671249:0",
+    "source": "Watercolor border",
+    "translation": "水彩边框"
+  },
+  {
+    "key": "100671252:0",
+    "source": "Adds a soft watercolor wash border with organic, painted edges that bleed into the image.",
+    "translation": "添加向图片内自然晕染的柔和水彩边框。"
+  },
+  {
+    "key": "100671253:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100671253:78",
+    "source": "Wash color",
+    "translation": "晕染颜色"
+  },
+  {
+    "key": "100671253:148",
+    "source": "Edge roughness",
+    "translation": "边缘粗糙度"
+  },
+  {
+    "key": "100671253:240",
+    "source": "Bleed amount",
+    "translation": "渗色程度"
+  },
+  {
+    "key": "100671253:332",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100671274:0",
+    "source": "Watercolor / Kuwahara",
+    "translation": "水彩／桑原滤波"
+  },
+  {
+    "key": "100671277:0",
+    "source": "Applies a Kuwahara filter for a watercolor painting effect.",
+    "translation": "通过桑原滤波生成水彩画效果。"
+  },
+  {
+    "key": "100671278:13",
+    "source": "Radius",
+    "translation": "半径"
+  },
+  {
+    "key": "100671278:74",
+    "source": "Saturation boost",
+    "translation": "饱和度增强"
+  },
+  {
+    "key": "100671278:166",
+    "source": "Detail blend",
+    "translation": "细节混合"
+  },
+  {
+    "key": "100671301:0",
+    "source": "Wave edge",
+    "translation": "波浪边缘"
+  },
+  {
+    "key": "100671304:0",
+    "source": "Adds a wavy edge to the image.",
+    "translation": "为图片添加波浪边缘。"
+  },
+  {
+    "key": "100671305:13",
+    "source": "Depth",
+    "translation": "深度"
+  },
+  {
+    "key": "100671305:75",
+    "source": "Range",
+    "translation": "范围"
+  },
+  {
+    "key": "100671305:137",
+    "source": "Top",
+    "translation": "顶部"
+  },
+  {
+    "key": "100671305:188",
+    "source": "Right",
+    "translation": "右侧"
+  },
+  {
+    "key": "100671305:239",
+    "source": "Bottom",
+    "translation": "底部"
+  },
+  {
+    "key": "100671305:290",
+    "source": "Left",
+    "translation": "左侧"
+  },
+  {
+    "key": "100671331:0",
+    "source": "Wet plate collodion",
+    "translation": "湿版摄影"
+  },
+  {
+    "key": "100671334:0",
+    "source": "Simulates the wet plate collodion photographic process with stains and silvering.",
+    "translation": "通过污渍和银化模拟湿版火棉胶摄影。"
+  },
+  {
+    "key": "100671335:13",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100671335:105",
+    "source": "Plate stains",
+    "translation": "底片污渍"
+  },
+  {
+    "key": "100671335:197",
+    "source": "Scratches",
+    "translation": "划痕"
+  },
+  {
+    "key": "100671335:289",
+    "source": "Silvering",
+    "translation": "银化"
+  },
+  {
+    "key": "100671335:381",
+    "source": "Vignette",
+    "translation": "暗角"
+  },
+  {
+    "key": "100671363:0",
+    "source": "Wraps the image in a Windows 11-style window frame with a title bar and window controls.",
+    "translation": "为图片添加带标题栏和窗口按钮的 Windows 11 风格窗框。"
+  },
+  {
+    "key": "100671364:13",
+    "source": "Title",
+    "translation": "标题"
+  },
+  {
+    "key": "100671364:68",
+    "source": "Corner radius",
+    "translation": "圆角半径"
+  },
+  {
+    "key": "100671364:129",
+    "source": "Dark mode",
+    "translation": "深色模式"
+  },
+  {
+    "key": "100671364:180",
+    "source": "Shadow size",
+    "translation": "阴影大小"
+  },
+  {
+    "key": "100671364:242",
+    "source": "Padding",
+    "translation": "内边距"
+  },
+  {
+    "key": "100671393:0",
+    "source": "Wind streaks",
+    "translation": "风痕"
+  },
+  {
+    "key": "100671396:0",
+    "source": "Adds directional wind streak trails to bright areas.",
+    "translation": "向明亮区域添加定向风痕。"
+  },
+  {
+    "key": "100671397:13",
+    "source": "Streak length",
+    "translation": "光条长度"
+  },
+  {
+    "key": "100671397:75",
+    "source": "Brightness threshold",
+    "translation": "亮度阈值"
+  },
+  {
+    "key": "100671397:144",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100671397:236",
+    "source": "Direction",
+    "translation": "方向"
+  },
+  {
+    "key": "100671397:281",
+    "source": "Left",
+    "translation": "左侧"
+  },
+  {
+    "key": "100671397:299",
+    "source": "Right",
+    "translation": "右侧"
+  },
+  {
+    "key": "100671415:0",
+    "source": "Woodcut Print",
+    "translation": "木刻版画"
+  },
+  {
+    "key": "100671418:0",
+    "source": "Simulates a woodcut or linocut print style.",
+    "translation": "模拟木刻或油毡版画风格。"
+  },
+  {
+    "key": "100671419:13",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100671419:105",
+    "source": "Edge Strength",
+    "translation": "边缘强度"
+  },
+  {
+    "key": "100671419:197",
+    "source": "Wood Grain",
+    "translation": "木纹"
+  },
+  {
+    "key": "100671419:289",
+    "source": "Ink Color",
+    "translation": "油墨颜色"
+  },
+  {
+    "key": "100671419:354",
+    "source": "Paper Color",
+    "translation": "纸张颜色"
+  },
+  {
+    "key": "100671440:0",
+    "source": "Wooden frame",
+    "translation": "木质相框"
+  },
+  {
+    "key": "100671443:0",
+    "source": "Adds a procedural wooden frame around the image.",
+    "translation": "为图片添加生成的木质相框。"
+  },
+  {
+    "key": "100671444:13",
+    "source": "Frame width",
+    "translation": "相框宽度"
+  },
+  {
+    "key": "100671444:77",
+    "source": "Grain strength",
+    "translation": "木纹强度"
+  },
+  {
+    "key": "100671444:169",
+    "source": "Bevel strength",
+    "translation": "斜面强度"
+  },
+  {
+    "key": "100671444:261",
+    "source": "Wood color",
+    "translation": "木材颜色"
+  },
+  {
+    "key": "100671467:0",
+    "source": "X-ray scan",
+    "translation": "X 光扫描"
+  },
+  {
+    "key": "100671470:0",
+    "source": "Simulates an X-ray scan with edge detection and glow effects.",
+    "translation": "通过边缘检测与发光模拟 X 光扫描。"
+  },
+  {
+    "key": "100671471:13",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100671471:105",
+    "source": "Glow",
+    "translation": "发光"
+  },
+  {
+    "key": "100671471:197",
+    "source": "Edge boost",
+    "translation": "边缘增强"
+  },
+  {
+    "key": "100671471:289",
+    "source": "Scanlines",
+    "translation": "扫描线"
+  },
+  {
+    "key": "100671471:381",
+    "source": "Noise",
+    "translation": "噪点"
+  },
+  {
+    "key": "100671495:0",
+    "source": "Zigzag border",
+    "translation": "锯齿边框"
+  },
+  {
+    "key": "100671498:0",
+    "source": "Adds a border with decorative jagged zigzag inner teeth that bite into the image edges.",
+    "translation": "添加向图片内部延伸的装饰锯齿边框。"
+  },
+  {
+    "key": "100671499:13",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100671499:77",
+    "source": "Teeth height",
+    "translation": "锯齿高度"
+  },
+  {
+    "key": "100671499:169",
+    "source": "Teeth width",
+    "translation": "锯齿宽度"
+  },
+  {
+    "key": "100671499:261",
+    "source": "Frame color",
+    "translation": "边框颜色"
+  },
+  {
+    "key": "100671499:322",
+    "source": "Accent color",
+    "translation": "强调色"
+  },
+  {
+    "key": "100671499:389",
+    "source": "Accent stripe",
+    "translation": "装饰条纹"
+  },
+  {
+    "key": "100671524:0",
+    "source": "Zoom blur",
+    "translation": "缩放模糊"
+  },
+  {
+    "key": "100671527:0",
+    "source": "Applies a radial zoom blur emanating from a center point.",
+    "translation": "应用从中心向外扩散的缩放模糊。"
+  },
+  {
+    "key": "100671528:13",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100671528:105",
+    "source": "Samples",
+    "translation": "采样数"
+  },
+  {
+    "key": "100671528:167",
+    "source": "Center X",
+    "translation": "中心 X"
+  },
+  {
+    "key": "100671528:259",
+    "source": "Center Y",
+    "translation": "中心 Y"
+  },
+  {
+    "key": "100671548:0",
+    "source": "Confetti",
+    "translation": "彩纸"
+  },
+  {
+    "key": "100671551:0",
+    "source": "Scatters colorful confetti pieces over the image.",
+    "translation": "在图片上散布彩色纸片。"
+  },
+  {
+    "key": "100671552:13",
+    "source": "Count",
+    "translation": "数量"
+  },
+  {
+    "key": "100671552:82",
+    "source": "Min size",
+    "translation": "最小尺寸"
+  },
+  {
+    "key": "100671552:143",
+    "source": "Max size",
+    "translation": "最大尺寸"
+  },
+  {
+    "key": "100671552:205",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100671552:297",
+    "source": "Background",
+    "translation": "背景"
+  },
+  {
+    "key": "100671574:0",
+    "source": "Background",
+    "translation": "背景"
+  },
+  {
+    "key": "100671577:0",
+    "source": "Draws a solid color background behind the image.",
+    "translation": "在图片后绘制纯色背景。"
+  },
+  {
+    "key": "100671578:5",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100671587:0",
+    "source": "Background image",
+    "translation": "背景图片"
+  },
+  {
+    "key": "100671590:0",
+    "source": "Draws a background image behind the source image.",
+    "translation": "在原图后绘制背景图片。"
+  },
+  {
+    "key": "100671591:13",
+    "source": "Image file path",
+    "translation": "图片文件路径"
+  },
+  {
+    "key": "100671591:69",
+    "source": "Center",
+    "translation": "居中"
+  },
+  {
+    "key": "100671591:120",
+    "source": "Tile",
+    "translation": "平铺"
+  },
+  {
+    "key": "100671606:0",
+    "source": "Checkerboard",
+    "translation": "棋盘格"
+  },
+  {
+    "key": "100671609:0",
+    "source": "Draws a checkerboard pattern behind the image.",
+    "translation": "在图片后绘制棋盘格。"
+  },
+  {
+    "key": "100671610:13",
+    "source": "Size",
+    "translation": "大小"
+  },
+  {
+    "key": "100671610:74",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100671610:144",
+    "source": "Color 2",
+    "translation": "颜色 2"
+  },
+  {
+    "key": "100671626:0",
+    "source": "Image",
+    "translation": "图片"
+  },
+  {
+    "key": "100671629:0",
+    "source": "Draws an image overlay on the source image.",
+    "translation": "在原图上叠加图片。"
+  },
+  {
+    "key": "100671630:14",
+    "source": "Image location",
+    "translation": "图片位置"
+  },
+  {
+    "key": "100671630:70",
+    "source": "Placement",
+    "translation": "位置"
+  },
+  {
+    "key": "100671630:116",
+    "source": "Top left",
+    "translation": "左上"
+  },
+  {
+    "key": "100671630:134",
+    "source": "Top center",
+    "translation": "顶部居中"
+  },
+  {
+    "key": "100671630:152",
+    "source": "Top right",
+    "translation": "右上"
+  },
+  {
+    "key": "100671630:170",
+    "source": "Middle left",
+    "translation": "中部左侧"
+  },
+  {
+    "key": "100671630:188",
+    "source": "Middle center",
+    "translation": "正中"
+  },
+  {
+    "key": "100671630:206",
+    "source": "Middle right",
+    "translation": "中部右侧"
+  },
+  {
+    "key": "100671630:224",
+    "source": "Bottom left",
+    "translation": "左下"
+  },
+  {
+    "key": "100671630:242",
+    "source": "Bottom center",
+    "translation": "底部居中"
+  },
+  {
+    "key": "100671630:260",
+    "source": "Bottom right",
+    "translation": "右下"
+  },
+  {
+    "key": "100671630:290",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100671630:357",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100671630:424",
+    "source": "Size mode",
+    "translation": "尺寸模式"
+  },
+  {
+    "key": "100671630:469",
+    "source": "Don't resize",
+    "translation": "不调整尺寸"
+  },
+  {
+    "key": "100671630:487",
+    "source": "Absolute size",
+    "translation": "固定尺寸"
+  },
+  {
+    "key": "100671630:505",
+    "source": "Percentage of watermark",
+    "translation": "水印百分比"
+  },
+  {
+    "key": "100671630:523",
+    "source": "Percentage of canvas",
+    "translation": "画布百分比"
+  },
+  {
+    "key": "100671630:553",
+    "source": "Size width",
+    "translation": "宽度"
+  },
+  {
+    "key": "100671630:616",
+    "source": "Size height",
+    "translation": "高度"
+  },
+  {
+    "key": "100671630:679",
+    "source": "Rotate / flip",
+    "translation": "旋转／翻转"
+  },
+  {
+    "key": "100671630:724",
+    "source": "None",
+    "translation": "无"
+  },
+  {
+    "key": "100671630:742",
+    "source": "Rotate 90",
+    "translation": "旋转 90 度"
+  },
+  {
+    "key": "100671630:760",
+    "source": "Rotate 180",
+    "translation": "旋转 180 度"
+  },
+  {
+    "key": "100671630:778",
+    "source": "Rotate 270",
+    "translation": "旋转 270 度"
+  },
+  {
+    "key": "100671630:796",
+    "source": "Flip X",
+    "translation": "水平翻转"
+  },
+  {
+    "key": "100671630:814",
+    "source": "Rotate 90 Flip X",
+    "translation": "旋转 90 度并水平翻转"
+  },
+  {
+    "key": "100671630:832",
+    "source": "Flip Y",
+    "translation": "垂直翻转"
+  },
+  {
+    "key": "100671630:850",
+    "source": "Rotate 90 Flip Y",
+    "translation": "旋转 90 度并垂直翻转"
+  },
+  {
+    "key": "100671630:880",
+    "source": "Tile",
+    "translation": "平铺"
+  },
+  {
+    "key": "100671630:932",
+    "source": "Auto hide",
+    "translation": "自动隐藏"
+  },
+  {
+    "key": "100671630:984",
+    "source": "Interpolation mode",
+    "translation": "插值模式"
+  },
+  {
+    "key": "100671630:1029",
+    "source": "High quality bicubic",
+    "translation": "高质量双三次"
+  },
+  {
+    "key": "100671630:1047",
+    "source": "Bicubic",
+    "translation": "双三次"
+  },
+  {
+    "key": "100671630:1065",
+    "source": "High quality bilinear",
+    "translation": "高质量双线性"
+  },
+  {
+    "key": "100671630:1083",
+    "source": "Bilinear",
+    "translation": "双线性"
+  },
+  {
+    "key": "100671630:1101",
+    "source": "Nearest neighbor",
+    "translation": "最近邻"
+  },
+  {
+    "key": "100671630:1132",
+    "source": "Compositing mode",
+    "translation": "合成模式"
+  },
+  {
+    "key": "100671630:1177",
+    "source": "Source over",
+    "translation": "源图覆盖"
+  },
+  {
+    "key": "100671630:1195",
+    "source": "Source copy",
+    "translation": "源图复制"
+  },
+  {
+    "key": "100671630:1226",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100671688:0",
+    "source": "Line",
+    "translation": "直线"
+  },
+  {
+    "key": "100671691:0",
+    "source": "Draws a line on the image.",
+    "translation": "在图片上绘制直线。"
+  },
+  {
+    "key": "100671692:13",
+    "source": "Start X",
+    "translation": "起点 X"
+  },
+  {
+    "key": "100671692:80",
+    "source": "Start Y",
+    "translation": "起点 Y"
+  },
+  {
+    "key": "100671692:147",
+    "source": "End X",
+    "translation": "终点 X"
+  },
+  {
+    "key": "100671692:218",
+    "source": "End Y",
+    "translation": "终点 Y"
+  },
+  {
+    "key": "100671692:285",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100671692:360",
+    "source": "Thickness",
+    "translation": "粗细"
+  },
+  {
+    "key": "100671712:0",
+    "source": "Particles",
+    "translation": "粒子"
+  },
+  {
+    "key": "100671715:0",
+    "source": "Draws particle images on the source image.",
+    "translation": "在原图上绘制粒子图片。"
+  },
+  {
+    "key": "100671716:14",
+    "source": "Image folder",
+    "translation": "图片文件夹"
+  },
+  {
+    "key": "100671716:70",
+    "source": "Image count",
+    "translation": "图片数量"
+  },
+  {
+    "key": "100671716:133",
+    "source": "Background",
+    "translation": "背景"
+  },
+  {
+    "key": "100671716:184",
+    "source": "Random size",
+    "translation": "随机尺寸"
+  },
+  {
+    "key": "100671716:235",
+    "source": "Random size min",
+    "translation": "随机尺寸下限"
+  },
+  {
+    "key": "100671716:299",
+    "source": "Random size max",
+    "translation": "随机尺寸上限"
+  },
+  {
+    "key": "100671716:366",
+    "source": "Random angle",
+    "translation": "随机角度"
+  },
+  {
+    "key": "100671716:417",
+    "source": "Random angle min",
+    "translation": "随机角度下限"
+  },
+  {
+    "key": "100671716:480",
+    "source": "Random angle max",
+    "translation": "随机角度上限"
+  },
+  {
+    "key": "100671716:548",
+    "source": "Random opacity",
+    "translation": "随机不透明度"
+  },
+  {
+    "key": "100671716:600",
+    "source": "Random opacity min",
+    "translation": "随机不透明度下限"
+  },
+  {
+    "key": "100671716:661",
+    "source": "Random opacity max",
+    "translation": "随机不透明度上限"
+  },
+  {
+    "key": "100671716:723",
+    "source": "No overlap",
+    "translation": "禁止重叠"
+  },
+  {
+    "key": "100671716:775",
+    "source": "No overlap offset",
+    "translation": "防重叠间距"
+  },
+  {
+    "key": "100671716:839",
+    "source": "Edge overlap",
+    "translation": "允许边缘重叠"
+  },
+  {
+    "key": "100671773:0",
+    "source": "Shape",
+    "translation": "形状"
+  },
+  {
+    "key": "100671776:0",
+    "source": "Draws a shape on the image.",
+    "translation": "在图片上绘制形状。"
+  },
+  {
+    "key": "100671777:13",
+    "source": "Shape",
+    "translation": "形状"
+  },
+  {
+    "key": "100671777:58",
+    "source": "Rectangle",
+    "translation": "矩形"
+  },
+  {
+    "key": "100671777:76",
+    "source": "Rounded rectangle",
+    "translation": "圆角矩形"
+  },
+  {
+    "key": "100671777:94",
+    "source": "Ellipse",
+    "translation": "椭圆"
+  },
+  {
+    "key": "100671777:112",
+    "source": "Triangle",
+    "translation": "三角形"
+  },
+  {
+    "key": "100671777:130",
+    "source": "Diamond",
+    "translation": "菱形"
+  },
+  {
+    "key": "100671777:160",
+    "source": "Placement",
+    "translation": "位置"
+  },
+  {
+    "key": "100671777:206",
+    "source": "Top left",
+    "translation": "左上"
+  },
+  {
+    "key": "100671777:224",
+    "source": "Top center",
+    "translation": "顶部居中"
+  },
+  {
+    "key": "100671777:242",
+    "source": "Top right",
+    "translation": "右上"
+  },
+  {
+    "key": "100671777:260",
+    "source": "Middle left",
+    "translation": "中部左侧"
+  },
+  {
+    "key": "100671777:278",
+    "source": "Middle center",
+    "translation": "正中"
+  },
+  {
+    "key": "100671777:296",
+    "source": "Middle right",
+    "translation": "中部右侧"
+  },
+  {
+    "key": "100671777:314",
+    "source": "Bottom left",
+    "translation": "左下"
+  },
+  {
+    "key": "100671777:332",
+    "source": "Bottom center",
+    "translation": "底部居中"
+  },
+  {
+    "key": "100671777:350",
+    "source": "Bottom right",
+    "translation": "右下"
+  },
+  {
+    "key": "100671777:380",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100671777:447",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100671777:514",
+    "source": "Size width",
+    "translation": "宽度"
+  },
+  {
+    "key": "100671777:578",
+    "source": "Size height",
+    "translation": "高度"
+  },
+  {
+    "key": "100671777:642",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100671804:0",
+    "source": "Text",
+    "translation": "文字"
+  },
+  {
+    "key": "100671807:0",
+    "source": "Draws text on the image.",
+    "translation": "在图片上绘制文字。"
+  },
+  {
+    "key": "100671808:14",
+    "source": "Text",
+    "translation": "文字"
+  },
+  {
+    "key": "100671808:19",
+    "source": "Text",
+    "translation": "文字"
+  },
+  {
+    "key": "100671808:69",
+    "source": "Placement",
+    "translation": "位置"
+  },
+  {
+    "key": "100671808:115",
+    "source": "Top left",
+    "translation": "左上"
+  },
+  {
+    "key": "100671808:133",
+    "source": "Top center",
+    "translation": "顶部居中"
+  },
+  {
+    "key": "100671808:151",
+    "source": "Top right",
+    "translation": "右上"
+  },
+  {
+    "key": "100671808:169",
+    "source": "Middle left",
+    "translation": "中部左侧"
+  },
+  {
+    "key": "100671808:187",
+    "source": "Middle center",
+    "translation": "正中"
+  },
+  {
+    "key": "100671808:205",
+    "source": "Middle right",
+    "translation": "中部右侧"
+  },
+  {
+    "key": "100671808:223",
+    "source": "Bottom left",
+    "translation": "左下"
+  },
+  {
+    "key": "100671808:241",
+    "source": "Bottom center",
+    "translation": "底部居中"
+  },
+  {
+    "key": "100671808:259",
+    "source": "Bottom right",
+    "translation": "右下"
+  },
+  {
+    "key": "100671808:289",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100671808:356",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100671808:423",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100671808:490",
+    "source": "Auto hide",
+    "translation": "自动隐藏"
+  },
+  {
+    "key": "100671808:541",
+    "source": "Font family",
+    "translation": "字体"
+  },
+  {
+    "key": "100671808:596",
+    "source": "Font size",
+    "translation": "字号"
+  },
+  {
+    "key": "100671808:688",
+    "source": "Bold",
+    "translation": "粗体"
+  },
+  {
+    "key": "100671808:740",
+    "source": "Italic",
+    "translation": "斜体"
+  },
+  {
+    "key": "100671808:792",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100671808:863",
+    "source": "Outline",
+    "translation": "轮廓"
+  },
+  {
+    "key": "100671808:915",
+    "source": "Outline size",
+    "translation": "轮廓大小"
+  },
+  {
+    "key": "100671808:976",
+    "source": "Outline color",
+    "translation": "轮廓颜色"
+  },
+  {
+    "key": "100671808:1039",
+    "source": "Shadow",
+    "translation": "阴影"
+  },
+  {
+    "key": "100671808:1091",
+    "source": "Shadow offset X",
+    "translation": "阴影水平偏移"
+  },
+  {
+    "key": "100671808:1159",
+    "source": "Shadow offset Y",
+    "translation": "阴影垂直偏移"
+  },
+  {
+    "key": "100671808:1227",
+    "source": "Shadow color",
+    "translation": "阴影颜色"
+  },
+  {
+    "key": "100671867:0",
+    "source": "Fake cursor",
+    "translation": "仿真鼠标指针"
+  },
+  {
+    "key": "100671870:0",
+    "source": "Draws fake mouse cursors at random positions on the image.",
+    "translation": "在图片随机位置绘制仿真鼠标指针。"
+  },
+  {
+    "key": "100671871:14",
+    "source": "Count",
+    "translation": "数量"
+  },
+  {
+    "key": "100671871:78",
+    "source": "Scale",
+    "translation": "缩放"
+  },
+  {
+    "key": "100671871:170",
+    "source": "Random size",
+    "translation": "随机尺寸"
+  },
+  {
+    "key": "100671871:221",
+    "source": "Random size min",
+    "translation": "随机尺寸下限"
+  },
+  {
+    "key": "100671871:313",
+    "source": "Random size max",
+    "translation": "随机尺寸上限"
+  },
+  {
+    "key": "100671871:405",
+    "source": "Random angle",
+    "translation": "随机角度"
+  },
+  {
+    "key": "100671871:456",
+    "source": "Random angle min",
+    "translation": "随机角度下限"
+  },
+  {
+    "key": "100671871:519",
+    "source": "Random angle max",
+    "translation": "随机角度上限"
+  },
+  {
+    "key": "100671871:586",
+    "source": "Fill color",
+    "translation": "填充颜色"
+  },
+  {
+    "key": "100671871:642",
+    "source": "Border color",
+    "translation": "边框颜色"
+  },
+  {
+    "key": "100671908:0",
+    "source": "Gradient overlay",
+    "translation": "渐变叠加"
+  },
+  {
+    "key": "100671911:0",
+    "source": "Blends a two-color gradient overlay on the image.",
+    "translation": "在图片上混合双色渐变。"
+  },
+  {
+    "key": "100671912:13",
+    "source": "Start color",
+    "translation": "起始颜色"
+  },
+  {
+    "key": "100671912:84",
+    "source": "End color",
+    "translation": "结束颜色"
+  },
+  {
+    "key": "100671912:155",
+    "source": "Angle",
+    "translation": "角度"
+  },
+  {
+    "key": "100671912:219",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100671930:0",
+    "source": "Snowflakes",
+    "translation": "雪花"
+  },
+  {
+    "key": "100671933:0",
+    "source": "Scatters snowflakes over the image.",
+    "translation": "在图片上散布雪花。"
+  },
+  {
+    "key": "100671934:13",
+    "source": "Count",
+    "translation": "数量"
+  },
+  {
+    "key": "100671934:79",
+    "source": "Min size",
+    "translation": "最小尺寸"
+  },
+  {
+    "key": "100671934:140",
+    "source": "Max size",
+    "translation": "最大尺寸"
+  },
+  {
+    "key": "100671934:202",
+    "source": "Opacity",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100671934:294",
+    "source": "Random angle",
+    "translation": "随机角度"
+  },
+  {
+    "key": "100671934:345",
+    "source": "Background",
+    "translation": "背景"
+  },
+  {
+    "key": "100671959:0",
+    "source": "Text watermark",
+    "translation": "文字水印"
+  },
+  {
+    "key": "100671962:0",
+    "source": "Draws a text watermark with background on the image.",
+    "translation": "在图片上绘制带背景的文字水印。"
+  },
+  {
+    "key": "100671963:14",
+    "source": "Text",
+    "translation": "文字"
+  },
+  {
+    "key": "100671963:19",
+    "source": "Text watermark",
+    "translation": "文字水印"
+  },
+  {
+    "key": "100671963:69",
+    "source": "Placement",
+    "translation": "位置"
+  },
+  {
+    "key": "100671963:115",
+    "source": "Top left",
+    "translation": "左上"
+  },
+  {
+    "key": "100671963:133",
+    "source": "Top center",
+    "translation": "顶部居中"
+  },
+  {
+    "key": "100671963:151",
+    "source": "Top right",
+    "translation": "右上"
+  },
+  {
+    "key": "100671963:169",
+    "source": "Middle left",
+    "translation": "中部左侧"
+  },
+  {
+    "key": "100671963:187",
+    "source": "Middle center",
+    "translation": "正中"
+  },
+  {
+    "key": "100671963:205",
+    "source": "Middle right",
+    "translation": "中部右侧"
+  },
+  {
+    "key": "100671963:223",
+    "source": "Bottom left",
+    "translation": "左下"
+  },
+  {
+    "key": "100671963:241",
+    "source": "Bottom center",
+    "translation": "底部居中"
+  },
+  {
+    "key": "100671963:259",
+    "source": "Bottom right",
+    "translation": "右下"
+  },
+  {
+    "key": "100671963:289",
+    "source": "Offset X",
+    "translation": "水平偏移"
+  },
+  {
+    "key": "100671963:356",
+    "source": "Offset Y",
+    "translation": "垂直偏移"
+  },
+  {
+    "key": "100671963:423",
+    "source": "Auto hide",
+    "translation": "自动隐藏"
+  },
+  {
+    "key": "100671963:474",
+    "source": "Font family",
+    "translation": "字体"
+  },
+  {
+    "key": "100671963:529",
+    "source": "Font size",
+    "translation": "字号"
+  },
+  {
+    "key": "100671963:621",
+    "source": "Bold",
+    "translation": "粗体"
+  },
+  {
+    "key": "100671963:672",
+    "source": "Italic",
+    "translation": "斜体"
+  },
+  {
+    "key": "100671963:724",
+    "source": "Text color",
+    "translation": "文字颜色"
+  },
+  {
+    "key": "100671963:795",
+    "source": "Draw text shadow",
+    "translation": "绘制文字阴影"
+  },
+  {
+    "key": "100671963:847",
+    "source": "Text shadow color",
+    "translation": "文字阴影颜色"
+  },
+  {
+    "key": "100671963:903",
+    "source": "Text shadow offset X",
+    "translation": "文字阴影水平偏移"
+  },
+  {
+    "key": "100671963:971",
+    "source": "Text shadow offset Y",
+    "translation": "文字阴影垂直偏移"
+  },
+  {
+    "key": "100671963:1039",
+    "source": "Corner radius",
+    "translation": "圆角半径"
+  },
+  {
+    "key": "100671963:1100",
+    "source": "Padding left",
+    "translation": "左内边距"
+  },
+  {
+    "key": "100671963:1161",
+    "source": "Padding top",
+    "translation": "上内边距"
+  },
+  {
+    "key": "100671963:1222",
+    "source": "Padding right",
+    "translation": "右内边距"
+  },
+  {
+    "key": "100671963:1283",
+    "source": "Padding bottom",
+    "translation": "下内边距"
+  },
+  {
+    "key": "100671963:1344",
+    "source": "Draw border",
+    "translation": "绘制边框"
+  },
+  {
+    "key": "100671963:1396",
+    "source": "Border color",
+    "translation": "边框颜色"
+  },
+  {
+    "key": "100671963:1452",
+    "source": "Border size",
+    "translation": "边框大小"
+  },
+  {
+    "key": "100671963:1513",
+    "source": "Draw background",
+    "translation": "绘制背景"
+  },
+  {
+    "key": "100671963:1565",
+    "source": "Background color",
+    "translation": "背景颜色"
+  },
+  {
+    "key": "100672043:0",
+    "source": "Alpha",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100672045:0",
+    "source": "Adjusts the alpha transparency.",
+    "translation": "调整透明度。"
+  },
+  {
+    "key": "100672046:5",
+    "source": "Alpha",
+    "translation": "不透明度"
+  },
+  {
+    "key": "100672055:0",
+    "source": "Auto contrast",
+    "translation": "自动对比度"
+  },
+  {
+    "key": "100672057:0",
+    "source": "Automatically adjusts the contrast.",
+    "translation": "自动调整对比度。"
+  },
+  {
+    "key": "100672058:5",
+    "source": "Clip percent",
+    "translation": "裁切百分比"
+  },
+  {
+    "key": "100672069:0",
+    "source": "Black & White",
+    "translation": "黑白"
+  },
+  {
+    "key": "100672071:0",
+    "source": "Converts the image to black and white.",
+    "translation": "将图片转换为黑白。"
+  },
+  {
+    "key": "100672079:0",
+    "source": "Brightness",
+    "translation": "亮度"
+  },
+  {
+    "key": "100672081:0",
+    "source": "Adjusts image brightness.",
+    "translation": "调整图片亮度。"
+  },
+  {
+    "key": "100672082:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100672091:0",
+    "source": "Channel swap",
+    "translation": "通道交换"
+  },
+  {
+    "key": "100672093:0",
+    "source": "Swaps color channels for creative color effects.",
+    "translation": "交换颜色通道，产生创意色彩效果。"
+  },
+  {
+    "key": "100672094:5",
+    "source": "Swap mode",
+    "translation": "交换模式"
+  },
+  {
+    "key": "100672094:50",
+    "source": "Red ↔ Green",
+    "translation": "红 ↔ 绿"
+  },
+  {
+    "key": "100672094:68",
+    "source": "Red ↔ Blue",
+    "translation": "红 ↔ 蓝"
+  },
+  {
+    "key": "100672094:86",
+    "source": "Green ↔ Blue",
+    "translation": "绿 ↔ 蓝"
+  },
+  {
+    "key": "100672094:104",
+    "source": "Rotate R→G→B",
+    "translation": "循环 红→绿→蓝"
+  },
+  {
+    "key": "100672094:122",
+    "source": "Rotate B→G→R",
+    "translation": "循环 蓝→绿→红"
+  },
+  {
+    "key": "100672104:0",
+    "source": "Clarity",
+    "translation": "清晰度"
+  },
+  {
+    "key": "100672106:0",
+    "source": "Enhances midtone contrast for added depth and punch.",
+    "translation": "增强中间调对比度，使画面更有层次。"
+  },
+  {
+    "key": "100672107:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100672116:0",
+    "source": "Color Balance",
+    "translation": "色彩平衡"
+  },
+  {
+    "key": "100672118:0",
+    "source": "Adjusts color balance in shadows, midtones, and highlights.",
+    "translation": "调整阴影、中间调和高光的色彩平衡。"
+  },
+  {
+    "key": "100672119:14",
+    "source": "Shadows: Cyan-Red",
+    "translation": "阴影：青－红"
+  },
+  {
+    "key": "100672119:106",
+    "source": "Shadows: Magenta-Green",
+    "translation": "阴影：品红－绿"
+  },
+  {
+    "key": "100672119:198",
+    "source": "Shadows: Yellow-Blue",
+    "translation": "阴影：黄－蓝"
+  },
+  {
+    "key": "100672119:290",
+    "source": "Midtones: Cyan-Red",
+    "translation": "中间调：青－红"
+  },
+  {
+    "key": "100672119:382",
+    "source": "Midtones: Magenta-Green",
+    "translation": "中间调：品红－绿"
+  },
+  {
+    "key": "100672119:474",
+    "source": "Midtones: Yellow-Blue",
+    "translation": "中间调：黄－蓝"
+  },
+  {
+    "key": "100672119:566",
+    "source": "Highlights: Cyan-Red",
+    "translation": "高光：青－红"
+  },
+  {
+    "key": "100672119:658",
+    "source": "Highlights: Magenta-Green",
+    "translation": "高光：品红－绿"
+  },
+  {
+    "key": "100672119:750",
+    "source": "Highlights: Yellow-Blue",
+    "translation": "高光：黄－蓝"
+  },
+  {
+    "key": "100672154:0",
+    "source": "Colorize",
+    "translation": "着色"
+  },
+  {
+    "key": "100672156:0",
+    "source": "Colorizes the image.",
+    "translation": "为图片着色。"
+  },
+  {
+    "key": "100672157:13",
+    "source": "Color",
+    "translation": "颜色"
+  },
+  {
+    "key": "100672157:68",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100672169:0",
+    "source": "Color matrix",
+    "translation": "颜色矩阵"
+  },
+  {
+    "key": "100672171:0",
+    "source": "Applies a color matrix transformation.",
+    "translation": "应用颜色矩阵变换。"
+  },
+  {
+    "key": "100672238:0",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100672240:0",
+    "source": "Adjusts image contrast.",
+    "translation": "调整图片对比度。"
+  },
+  {
+    "key": "100672241:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100672250:0",
+    "source": "Cross process",
+    "translation": "交叉冲洗"
+  },
+  {
+    "key": "100672252:0",
+    "source": "Simulates film cross-processing with shifted colors and high contrast.",
+    "translation": "通过偏色与高对比度模拟胶片交叉冲洗。"
+  },
+  {
+    "key": "100672253:5",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100672262:0",
+    "source": "Dehaze",
+    "translation": "去雾"
+  },
+  {
+    "key": "100672264:0",
+    "source": "Removes or adds atmospheric haze.",
+    "translation": "去除或添加雾霾。"
+  },
+  {
+    "key": "100672265:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100672275:0",
+    "source": "Duotone / Gradient map",
+    "translation": "双色调／渐变映射"
+  },
+  {
+    "key": "100672277:0",
+    "source": "Maps grayscale tones to a custom multi-color gradient.",
+    "translation": "将灰度映射为自定义多色渐变。"
+  },
+  {
+    "key": "100672278:13",
+    "source": "Shadow color",
+    "translation": "阴影颜色"
+  },
+  {
+    "key": "100672278:74",
+    "source": "Midtone color",
+    "translation": "中间调颜色"
+  },
+  {
+    "key": "100672278:141",
+    "source": "Highlight color",
+    "translation": "高光颜色"
+  },
+  {
+    "key": "100672278:211",
+    "source": "Contrast",
+    "translation": "对比度"
+  },
+  {
+    "key": "100672278:303",
+    "source": "Gamma",
+    "translation": "伽马"
+  },
+  {
+    "key": "100672278:395",
+    "source": "Blend",
+    "translation": "混合"
+  },
+  {
+    "key": "100672304:0",
+    "source": "Exposure",
+    "translation": "曝光"
+  },
+  {
+    "key": "100672306:0",
+    "source": "Adjusts the exposure level.",
+    "translation": "调整曝光量。"
+  },
+  {
+    "key": "100672307:5",
+    "source": "Exposure",
+    "translation": "曝光"
+  },
+  {
+    "key": "100672319:0",
+    "source": "Film emulation",
+    "translation": "胶片模拟"
+  },
+  {
+    "key": "100672321:0",
+    "source": "Applies cinematic analog film looks with grain and fade.",
+    "translation": "通过颗粒和褪色模拟电影胶片外观。"
+  },
+  {
+    "key": "100672322:13",
+    "source": "Preset",
+    "translation": "预设"
+  },
+  {
+    "key": "100672322:58",
+    "source": "Classic",
+    "translation": "经典"
+  },
+  {
+    "key": "100672322:76",
+    "source": "Warm",
+    "translation": "暖色"
+  },
+  {
+    "key": "100672322:94",
+    "source": "Cool",
+    "translation": "冷色"
+  },
+  {
+    "key": "100672322:112",
+    "source": "Faded",
+    "translation": "褪色"
+  },
+  {
+    "key": "100672322:130",
+    "source": "Cross processed",
+    "translation": "交叉冲洗"
+  },
+  {
+    "key": "100672322:160",
+    "source": "Tone strength",
+    "translation": "色调强度"
+  },
+  {
+    "key": "100672322:252",
+    "source": "Grain amount",
+    "translation": "颗粒程度"
+  },
+  {
+    "key": "100672322:344",
+    "source": "Fade amount",
+    "translation": "褪色程度"
+  },
+  {
+    "key": "100672322:436",
+    "source": "Contrast amount",
+    "translation": "对比程度"
+  },
+  {
+    "key": "100672351:0",
+    "source": "Gamma",
+    "translation": "伽马"
+  },
+  {
+    "key": "100672353:0",
+    "source": "Adjusts the gamma level.",
+    "translation": "调整伽马值。"
+  },
+  {
+    "key": "100672354:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100672363:0",
+    "source": "Grayscale",
+    "translation": "灰度"
+  },
+  {
+    "key": "100672365:0",
+    "source": "Converts the image to grayscale.",
+    "translation": "将图片转换为灰度。"
+  },
+  {
+    "key": "100672366:5",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100672375:0",
+    "source": "Hue",
+    "translation": "色相"
+  },
+  {
+    "key": "100672377:0",
+    "source": "Adjusts the hue of the image.",
+    "translation": "调整图片色相。"
+  },
+  {
+    "key": "100672378:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100672387:0",
+    "source": "Invert",
+    "translation": "反转"
+  },
+  {
+    "key": "100672389:0",
+    "source": "Inverts image colors.",
+    "translation": "反转图片颜色。"
+  },
+  {
+    "key": "100672394:0",
+    "source": "Levels",
+    "translation": "级数"
+  },
+  {
+    "key": "100672396:0",
+    "source": "Adjusts image color levels.",
+    "translation": "调整图片色阶。"
+  },
+  {
+    "key": "100672397:13",
+    "source": "Input black",
+    "translation": "输入黑场"
+  },
+  {
+    "key": "100672397:77",
+    "source": "Input white",
+    "translation": "输入白场"
+  },
+  {
+    "key": "100672397:145",
+    "source": "Gamma",
+    "translation": "伽马"
+  },
+  {
+    "key": "100672397:237",
+    "source": "Output black",
+    "translation": "输出黑场"
+  },
+  {
+    "key": "100672397:301",
+    "source": "Output white",
+    "translation": "输出白场"
+  },
+  {
+    "key": "100672421:0",
+    "source": "Lomo",
+    "translation": "LOMO 风格"
+  },
+  {
+    "key": "100672423:0",
+    "source": "Applies a lomography look with high contrast, warm tones, and vignette.",
+    "translation": "通过高对比度、暖色调与暗角模拟 LOMO 风格。"
+  },
+  {
+    "key": "100672424:5",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100672433:0",
+    "source": "Polaroid",
+    "translation": "拍立得"
+  },
+  {
+    "key": "100672435:0",
+    "source": "Applies a Polaroid effect.",
+    "translation": "应用拍立得效果。"
+  },
+  {
+    "key": "100672440:0",
+    "source": "Posterize",
+    "translation": "色调分离"
+  },
+  {
+    "key": "100672442:0",
+    "source": "Reduces the number of colors to create a poster-like effect.",
+    "translation": "减少颜色数量，生成海报风格效果。"
+  },
+  {
+    "key": "100672443:5",
+    "source": "Levels",
+    "translation": "级数"
+  },
+  {
+    "key": "100672455:0",
+    "source": "Replace Color",
+    "translation": "替换颜色"
+  },
+  {
+    "key": "100672457:0",
+    "source": "Replaces a specific color.",
+    "translation": "替换指定颜色。"
+  },
+  {
+    "key": "100672458:13",
+    "source": "Target color",
+    "translation": "目标颜色"
+  },
+  {
+    "key": "100672458:68",
+    "source": "Replace color",
+    "translation": "替换为"
+  },
+  {
+    "key": "100672458:123",
+    "source": "Tolerance",
+    "translation": "容差"
+  },
+  {
+    "key": "100672475:0",
+    "source": "Saturation",
+    "translation": "饱和度"
+  },
+  {
+    "key": "100672477:0",
+    "source": "Adjusts the color saturation.",
+    "translation": "调整颜色饱和度。"
+  },
+  {
+    "key": "100672478:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100672487:0",
+    "source": "Sepia",
+    "translation": "怀旧褐色"
+  },
+  {
+    "key": "100672489:0",
+    "source": "Applies a sepia tone effect.",
+    "translation": "应用怀旧褐色调。"
+  },
+  {
+    "key": "100672490:5",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100672499:0",
+    "source": "Shadows / Highlights",
+    "translation": "阴影／高光"
+  },
+  {
+    "key": "100672501:0",
+    "source": "Adjusts shadows and highlights.",
+    "translation": "调整阴影与高光。"
+  },
+  {
+    "key": "100672502:13",
+    "source": "Shadows",
+    "translation": "阴影"
+  },
+  {
+    "key": "100672502:105",
+    "source": "Highlights",
+    "translation": "高光"
+  },
+  {
+    "key": "100672517:0",
+    "source": "Solarize",
+    "translation": "曝光反转"
+  },
+  {
+    "key": "100672519:0",
+    "source": "Applies a solarize effect.",
+    "translation": "应用曝光反转效果。"
+  },
+  {
+    "key": "100672520:5",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100672531:0",
+    "source": "Split Toning",
+    "translation": "分离色调"
+  },
+  {
+    "key": "100672533:0",
+    "source": "Tints shadows and highlights with different colors.",
+    "translation": "分别为阴影和高光着色。"
+  },
+  {
+    "key": "100672534:13",
+    "source": "Shadow Tint",
+    "translation": "阴影色调"
+  },
+  {
+    "key": "100672534:79",
+    "source": "Highlight Tint",
+    "translation": "高光色调"
+  },
+  {
+    "key": "100672534:151",
+    "source": "Strength",
+    "translation": "强度"
+  },
+  {
+    "key": "100672534:243",
+    "source": "Balance",
+    "translation": "平衡"
+  },
+  {
+    "key": "100672558:0",
+    "source": "Temperature / Tint",
+    "translation": "色温／色调"
+  },
+  {
+    "key": "100672560:0",
+    "source": "Adjusts the color temperature and tint.",
+    "translation": "调整色温与色调。"
+  },
+  {
+    "key": "100672561:13",
+    "source": "Temperature",
+    "translation": "色温"
+  },
+  {
+    "key": "100672561:105",
+    "source": "Tint",
+    "translation": "色调"
+  },
+  {
+    "key": "100672576:0",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100672578:0",
+    "source": "Applies a contrast threshold.",
+    "translation": "应用对比度阈值。"
+  },
+  {
+    "key": "100672579:5",
+    "source": "Threshold",
+    "translation": "阈值"
+  },
+  {
+    "key": "100672590:0",
+    "source": "Vibrance",
+    "translation": "自然饱和度"
+  },
+  {
+    "key": "100672592:0",
+    "source": "Adjusts the color vibrance.",
+    "translation": "调整自然饱和度。"
+  },
+  {
+    "key": "100672593:5",
+    "source": "Amount",
+    "translation": "程度"
+  },
+  {
+    "key": "100664924:14",
+    "source": "Dark",
+    "translation": "深色"
+  },
+  {
+    "key": "100664924:22",
+    "source": "Light",
+    "translation": "浅色"
+  }
+]

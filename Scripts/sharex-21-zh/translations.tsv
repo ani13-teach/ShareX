@@ -1,0 +1,333 @@
+ShareX - Background Remover	ShareX - 背景移除
+Image	图片
+No image selected	未选择图片
+Browse...	浏览...
+Models	模型
+Background removal model	背景移除模型
+Refresh models	刷新模型
+Open models folder	打开模型文件夹
+Open guide page...	打开使用指南...
+Device	设备
+Processing device	处理设备
+Remove Background	移除背景
+Select an image to preview it here.	选择图片后在此预览。
+Save	保存
+Save as...	另存为...
+Save image as	图片另存为
+Yes	是
+No	否
+Cancel	取消
+The file no longer exists.\n	文件已不存在。\n
+Failed to load image file.\n	无法加载图片文件。\n
+Achievement unlocked!	解锁成就！
+Applied 	已应用
+Background	背景
+Margin	外边距
+Padding	内边距
+Smart padding	智能留白
+Rounded Corner	圆角
+Shadow Radius	阴影半径
+Ratio	比例
+Auto	自动
+Edit gradient color 1	编辑渐变颜色 1
+Edit gradient color 2	编辑渐变颜色 2
+Edit background color	编辑背景颜色
+Browse background image...	浏览背景图片...
+Background image	背景图片
+Zoom (Ctrl + Wheel)	缩放（Ctrl + 滚轮）
+Cancel (Esc)	取消（Esc）
+Copy image to clipboard (Ctrl+C)	复制图片到剪贴板（Ctrl+C）
+Save image (Ctrl+S)	保存图片（Ctrl+S）
+Save image as... (Ctrl+Shift+S)	图片另存为...（Ctrl+Shift+S）
+Pin image to screen (Ctrl+P)	将图片固定到屏幕（Ctrl+P）
+Print image... (Ctrl+Shift+P)	打印图片...（Ctrl+Shift+P）
+Upload image (Ctrl+U)	上传图片（Ctrl+U）
+Select background image	选择背景图片
+Select image	选择图片
+Failed to load image from clipboard.	无法从剪贴板加载图片。
+Failed to load image from clipboard.\nClipboard does not contain an image.	无法从剪贴板加载图片。\n剪贴板中没有图片。
+The URL does not point to a valid image.	该网址未指向有效图片。
+Failed to download image: 	下载图片失败：
+Open image	打开图片
+Undo	撤销
+Redo	重做
+Delete	删除
+Delete all	全部删除
+Flatten	合并标注
+Cut	剪切
+Copy	复制
+Paste	粘贴
+Duplicate	创建副本
+Bring to front	置于顶层
+Bring forward	上移一层
+Send backward	下移一层
+Send to back	置于底层
+ShareX - Image Editor - 	ShareX - 图片编辑器 - 
+ShareX - Image Editor	ShareX - 图片编辑器
+No emojis match this search.	没有匹配的表情。
+Try a different keyword.	请尝试其他关键词。
+Loading emojis...	正在加载表情...
+The picker is ready. Emoji previews are loading in the background.	表情选择器已就绪，正在后台加载预览。
+ShareX - Image Comparer	ShareX - 图片对比
+Image 1	图片 1
+Choose...	选择...
+Image 2	图片 2
+Slider	滑动对比
+Diff View	差异视图
+Select Image 1 and Image 2 to show the comparison preview.	选择两张图片后显示对比预览。
+Insert image in the center	居中插入图片
+Keeps the current canvas size.	保持当前画布尺寸。
+Insert image below	在下方插入图片
+Expands the canvas downward before adding the image.	向下扩展画布后插入图片。
+Insert image on right side	在右侧插入图片
+Expands the canvas to the right before adding the image.	向右扩展画布后插入图片。
+New Image	新建图片
+Width:	宽度：
+Height:	高度：
+Background:	背景：
+pixels	像素
+Transparent	透明
+Solid color	纯色
+OK	确定
+Create new image...	新建图片...
+Open image file...	打开图片文件...
+Load image from clipboard	从剪贴板加载图片
+Load image from URL...	从网址加载图片...
+Load	加载
+Exit	退出
+Recent files	最近使用的文件
+No recent image files yet.	暂无最近使用的图片。
+Customize Toolbar	自定义工具栏
+Reset toolbar to default	恢复默认工具栏
+Click and press a shortcut. Backspace or Delete clears it.	点击后按下快捷键，按 Backspace 或 Delete 清除。
+Move up	上移
+Move down	下移
+Begin group	开始新分组
+Show / Hide	显示／隐藏
+Title	标题
+Apply	应用
+Select 	选择
+Label	标签
+Minimum	最小值
+Maximum	最大值
+Options	选项
+Increment	增量
+Background removed in 	背景已移除，用时
+ ms.	毫秒。
+Background removal failed.	背景移除失败。
+Image saved.\nFile path: 	图片已保存。\n文件路径：
+ emojis	个表情
+Browse emojis	浏览表情
+Search results • 	搜索结果 • 
+ matches	个匹配项
+Search emojis... (	搜索表情...（
+Select two images to compare.	选择两张图片进行对比。
+Similarity: -	相似度：-
+Similarity: 	相似度：
+ of 	／
+ pixels match.	个像素匹配。
+Image picker is unavailable.	图片选择器不可用。
+Select Image 	选择图片
+The selected file could not be loaded as an image.	所选文件无法作为图片加载。
+Failed to load image: 	加载图片失败：
+Insert image	插入图片
+Choose how to place the incoming image on the current canvas.	选择新图片在当前画布中的放置方式。
+Incoming image: 	待插入图片：
+Wallpaper background applied.	已应用桌面壁纸背景。
+Gradient	渐变
+Color	颜色
+Wallpaper	桌面壁纸
+Sunset Glow	落日余晖
+Ocean Breeze	海洋微风
+Skyline	天际线
+Peach Bloom	桃花
+Mint Fresh	清新薄荷
+Royal Blue	皇家蓝
+Warm Flame	暖焰
+Coral Candy	珊瑚糖果
+Mango	芒果
+Violet Dream	紫色梦境
+Ruby Fire	红宝石火焰
+Aqua Marine	海蓝
+Aurora Green	极光绿
+Citrus Pop	活力柑橘
+Arctic Sky	极地天空
+Cherry Rush	樱桃
+Lavender Sky	薰衣草天空
+Midnight City	午夜城市
+Deep Space	深空
+Lagoon	潟湖
+Rose Gold	玫瑰金
+Emerald Water	翡翠水色
+Lemon Lime	柠檬青柠
+Pink Haze	粉色薄雾
+Slate	石板灰
+Carbon Steel	碳钢
+Purple Bliss	紫色喜悦
+Ember	余烬
+Soft Lilac	淡丁香
+Blue Hour	蓝调时刻
+Golden Hour	黄金时刻
+Watermelon	西瓜
+Sea Foam	海沫
+Twilight Plum	暮光紫梅
+Candy Grape	葡萄糖果
+Fresh Mint	鲜薄荷
+Polar Night	极夜
+Tropical Sun	热带阳光
+Blue Raspberry	蓝树莓
+Rosewater	玫瑰水
+Copper Glow	铜色微光
+Aurora Violet	极光紫
+Apple Mint	苹果薄荷
+Sunrise Peach	日出蜜桃
+Iceberg	冰山
+Nightfall	夜幕
+Electric Cyan	电光青
+Velvet Rose	丝绒玫瑰
+Desert Sand	沙漠沙色
+Cosmic Fusion	宇宙交融
+Deep Ocean	深海
+Northern Lights	北极光
+Neon Glow	霓虹光
+Burning Orange	燃橙
+Mystic Purple	神秘紫
+Golden Sunset	金色落日
+Midnight Dark	午夜深色
+Cool Sky	清凉天空
+Purple Love	紫色恋曲
+Show toolbars	显示工具栏
+Hide toolbars	隐藏工具栏
+Run after capture tasks (Enter)	执行截图后任务（Enter）
+Continue (Enter)	继续（Enter）
+Exit Confirmation	退出确认
+There are unsaved changes.\n\nWould you like to save the changes before closing the image editor?	有尚未保存的修改。\n\n关闭图片编辑器前是否保存？
+No image	无图片
+Image printed.	图片已打印。
+Image pinned to screen.	图片已固定到屏幕。
+Inverted colors	已反转颜色
+Applied Black & White filter	已应用黑白滤镜
+Applied Sepia filter	已应用怀旧滤镜
+Applied Polaroid filter	已应用拍立得滤镜
+Applied Edge detect filter	已应用边缘检测滤镜
+Applied Emboss filter	已应用浮雕滤镜
+Applied Mean removal filter	已应用去均值滤镜
+Applied Smooth filter	已应用平滑滤镜
+Image opened.	图片已打开。
+New image created.	新图片已创建。
+Image cropped.	图片已裁剪。
+Image cut out.	图片区域已切除。
+Image inserted.	图片已插入。
+Image auto-cropped.	图片已自动裁剪。
+Image resized.	图片尺寸已调整。
+Canvas resized.	画布尺寸已调整。
+Image rotated 90 degrees clockwise.	图片已顺时针旋转 90 度。
+Image rotated 90 degrees counterclockwise.	图片已逆时针旋转 90 度。
+Image rotated 180 degrees.	图片已旋转 180 度。
+Image rotated by 	图片已旋转
+ degrees.	度。
+Image flipped horizontally.	图片已水平翻转。
+Image flipped vertically.	图片已垂直翻转。
+Image effect applied.	图片效果已应用。
+Image saved to file.	图片已保存到文件。
+\nFile path: 	\n文件路径：
+\nSize: 	\n大小：
+File	文件
+Select	选择
+Rectangle	矩形
+Ellipse	椭圆
+Line	直线
+Arrow	箭头
+Freehand	自由绘制
+Text	文字
+Cursor	鼠标指针
+Emoji	表情
+Speech Balloon	对话气泡
+Step	步骤编号
+Blur	模糊
+Pixelate	马赛克
+Magnify	放大镜
+Spotlight	聚光灯
+Smart Eraser	智能橡皮擦
+Highlight	高亮
+Crop	裁剪
+Cut Out	切除区域
+Image copied to clipboard.	图片已复制到剪贴板。
+Image is uploading.	正在上传图片。
+Start Screen	开始界面
+Please enter a valid HTTP or HTTPS URL.	请输入有效的 HTTP 或 HTTPS 网址。
+Hotkey	快捷键
+Invalid hotkey for 	快捷键无效：
+. Use formats like R, Ctrl+R, or Ctrl+Shift+R.	。请使用 R、Ctrl+R 或 Ctrl+Shift+R 等格式。
+ and 	和
+ use the same hotkey (	使用了相同的快捷键（
+\nFavorite image effects (Right click)	\n收藏的图片效果（右键）
+Image Effects	图片效果
+Left	左侧
+Center	居中
+Right	右侧
+Dash Dot	点划线
+Dash Dot Dot	双点划线
+App starting	正在启动
+Cross	十字
+Default	默认
+Hand	手形
+Help	帮助
+H split	水平拆分
+I-beam	文本选择
+No move 2D	禁止双向移动
+No move horiz	禁止水平移动
+No move vert	禁止垂直移动
+Pan east	向右平移
+Pan NE	向右上平移
+Pan north	向上平移
+Pan NW	向左上平移
+Pan SE	向右下平移
+Pan south	向下平移
+Pan SW	向左下平移
+Pan west	向左平移
+Size all	四向调整
+Size NESW	右上／左下调整
+Size NS	上下调整
+Size NWSE	左上／右下调整
+Size WE	左右调整
+Up arrow	向上箭头
+V split	垂直拆分
+Wait cursor	等待指针
+Undo (Ctrl+Z)	撤销（Ctrl+Z）
+Redo (Ctrl+Y)	重做（Ctrl+Y）
+Delete (Delete)	删除（Delete）
+Delete all (Shift+Delete)	全部删除（Shift+Delete）
+Border color	边框颜色
+Fill color	填充颜色
+Text color	文字颜色
+Thickness	粗细
+Border style	边框样式
+Corner radius	圆角半径
+Font family	字体
+Horizontal alignment	水平对齐
+Arrow style	箭头样式
+Cursor type	指针类型
+Font size	字号
+Toggle bold	切换粗体
+Toggle italic	切换斜体
+Step type	编号类型
+Starting number	起始编号
+Effect strength	效果强度
+Blur amount	模糊程度
+Toggle ellipse shape	切换椭圆形状
+Toggle tail	切换气泡尾部
+Toggle shadow\nShadow options (Right click)	切换阴影\n阴影选项（右键）
+Shadow	阴影
+Shadow color	阴影颜色
+Opacity	不透明度
+Offset X	水平偏移
+Offset Y	垂直偏移
+New...	新建...
+Open...	打开...
+Open recent	最近打开
+Accent color	强调色
+Top	顶部
+Bottom	底部
+Rotate	旋转
+Placement	位置

@@ -1,0 +1,517 @@
+Tile	平铺
+Auto crop image	自动裁剪图片
+Automatically crops the image using tolerance on edge pixels.	根据边缘像素的容差自动裁剪图片。
+Tolerance	容差
+Crop image	裁剪图片
+Crops the image.	裁剪图片。
+Width	宽度
+Height	高度
+Cylinder wrap	圆柱包裹
+Wraps the image around a cylindrical surface.	将图片包裹到圆柱表面。
+Orientation	方向
+Vertical	垂直
+Horizontal	水平
+Curvature	曲率
+Edge shading	边缘明暗
+Displacement map	置换贴图
+Displaces pixels using a map image.	根据贴图移动像素。
+Map file path	贴图文件路径
+Amount X	水平幅度
+Amount Y	垂直幅度
+Fisheye lens	鱼眼镜头
+Applies a fisheye lens distortion effect.	应用鱼眼镜头畸变效果。
+Strength	强度
+Radius percentage	半径百分比
+Center X percentage	中心水平位置百分比
+Center Y percentage	中心垂直位置百分比
+Flip horizontal	水平翻转
+Flips the image horizontally.	水平翻转图片。
+Flips the image horizontally or vertically.	水平或垂直翻转图片。
+Horizontally	水平
+Vertically	垂直
+Flip vertical	垂直翻转
+Flips the image vertically.	垂直翻转图片。
+Fold crease warp	折痕变形
+Simulates a folded paper crease distortion.	模拟纸张折痕变形。
+Fold count	折痕数量
+Fold depth	折痕深度
+Shadow strength	阴影强度
+Glass sphere	玻璃球
+Applies a spherical glass lens distortion at the center.	在中心应用球形玻璃透镜畸变。
+Radius %	半径 %
+Refraction	折射
+Kaleidoscope	万花筒
+Creates a kaleidoscope mirror pattern.	生成万花筒镜像图案。
+Segments	分段数
+Rotation	旋转
+Liquify push / smudge	液化推移／涂抹
+Pushes and smudges pixels in a direction.	沿指定方向推移并涂抹像素。
+Angle	角度
+Distance	距离
+Smudge	涂抹
+Mirror tiles	镜像平铺
+Tiles the image with alternating mirrored reflections.	将图片交替镜像后平铺。
+Columns	列数
+Rows	行数
+Mirror alternate columns	交替镜像列
+Mirror alternate rows	交替镜像行
+Page curl	卷页
+Simulates a page curl at a corner of the image.	模拟图片角落的卷页效果。
+Corner	角落
+Top left	左上
+Top right	右上
+Bottom right	右下
+Bottom left	左下
+Curl size	卷曲大小
+Curl depth	卷曲深度
+Back color	背面颜色
+Perspective warp	透视变形
+Applies a perspective warp transformation.	应用透视变形。
+Top left X	左上 X
+Top left Y	左上 Y
+Top right X	右上 X
+Top right Y	右上 Y
+Bottom right X	右下 X
+Bottom right Y	右下 Y
+Bottom left X	左下 X
+Bottom left Y	左下 Y
+Pinch / bulge	收缩／膨胀
+Applies a pinch or bulge distortion to the image.	对图片应用收缩或膨胀变形。
+Center X %	中心 X %
+Center Y %	中心 Y %
+Polar warp	极坐标变换
+Converts between Cartesian and polar coordinate systems.	在直角坐标与极坐标之间转换。
+Mode	模式
+Cartesian to polar	直角坐标转极坐标
+Polar to Cartesian	极坐标转直角坐标
+Radius scale	半径缩放
+Resize canvas	调整画布尺寸
+Resizes the canvas.	调整画布尺寸。
+Background color	背景颜色
+Resize image	调整图片尺寸
+Resizes the image.	调整图片尺寸。
+Maintain aspect ratio	保持宽高比
+Ripple refraction	涟漪折射
+Applies a ripple refraction distortion effect.	应用涟漪折射变形。
+Amplitude	振幅
+Wavelength	波长
+Phase	相位
+Rotate 180°	旋转 180°
+Rotates the image by 180 degrees.	将图片旋转 180 度。
+Rotate 90° counter clockwise	逆时针旋转 90°
+Rotates the image 90 degrees counter-clockwise.	将图片逆时针旋转 90 度。
+Rotate 90° clockwise	顺时针旋转 90°
+Rotates the image 90 degrees clockwise.	将图片顺时针旋转 90 度。
+Rotates the image by a custom angle.	按自定义角度旋转图片。
+Auto resize	自动调整尺寸
+Rounded Corners	圆角
+Rounds the corners of the image.	将图片边角处理为圆角。
+Scale	缩放
+Scales the image by width and height percentages.	按宽度和高度百分比缩放图片。
+Width %	宽度 %
+Height %	高度 %
+Skew	倾斜
+Skews the image horizontally and vertically.	沿水平和垂直方向倾斜图片。
+Symmetry	对称
+Creates bilateral symmetry by mirroring one half of the image.	镜像图片的一半，生成对称图像。
+Direction	方向
+Left → Right	左 → 右
+Right → Left	右 → 左
+Top → Bottom	上 → 下
+Bottom → Top	下 → 上
+Tile repeat	重复平铺
+Tiles the image into a grid of smaller copies.	将缩小后的图片按网格重复平铺。
+Tile Shuffle	打乱拼块
+Divides the image into a grid and randomly rearranges the tiles.	将图片分割成网格后随机重排。
+Gap	间隙
+Gap Color	间隙颜色
+Twirl	旋涡
+Applies a twirl distortion to the image.	对图片应用旋涡变形。
+Wave distortion	波浪变形
+Applies a sine wave distortion to the image.	对图片应用正弦波变形。
+Both	双向
+Add noise	添加噪点
+Adds random noise to the image.	向图片添加随机噪点。
+Amount	程度
+Anaglyph 3D	红蓝 3D
+Simulates a retro anaglyph 3D stereoscopic effect.	模拟复古双色 3D 立体效果。
+Red / Cyan	红／青
+Amber / Blue	琥珀／蓝
+Green / Magenta	绿／品红
+Separation X	水平分离
+Separation Y	垂直分离
+Ghost reduction	减少重影
+Anamorphic lens flare	宽银幕镜头光晕
+Adds cinematic horizontal lens flare streaks to bright areas.	在明亮区域添加电影风格的水平光晕。
+Intensity	强度
+Threshold	阈值
+Streak length	光条长度
+Warmth	暖色程度
+Ghosting	重影
+Anime speed lines	漫画速度线
+Overlays radial speed lines in a manga/anime style.	叠加漫画风格的放射状速度线。
+Density	密度
+Focus radius	焦点半径
+Center X	中心 X
+Center Y	中心 Y
+Contrast	对比度
+Art deco border	装饰艺术边框
+Adds a bold Art Deco border with geometric fan motifs, stepped lines, and metallic gold accents.	添加带几何扇形、阶梯线条和金属金点缀的装饰艺术边框。
+Border size	边框大小
+Fan spacing	扇形间距
+Fan rays	扇形射线数
+Inner stepped lines	内部阶梯线
+ASCII art	字符画
+Converts the image into ASCII character art.	将图片转换为 ASCII 字符画。
+Cell size	单元格大小
+Character set	字符集
+Invert	反转
+Dark background	深色背景
+Use source color	使用原图颜色
+Bevel	斜面
+Adds a beveled edge effect with highlights and shadows.	添加带高光和阴影的斜面效果。
+Size	大小
+Light angle	光照角度
+Highlight color	高光颜色
+Block glitch / Databending	色块故障艺术
+Simulates digital glitch artifacts with displaced color blocks.	通过错位色块模拟数字故障效果。
+Block count	色块数量
+Min block width	最小块宽
+Max block width	最大块宽
+Min block height	最小块高
+Max block height	最大块高
+Max displacement	最大位移
+Channel shift	通道偏移
+Noise amount	噪点程度
+Blood splash	血液飞溅
+Overlays procedural blood splash and drip effects.	叠加生成的血液飞溅与滴落效果。
+Splash amount	飞溅程度
+Drip length	滴落长度
+Spread	扩散
+Darkness	暗度
+Wet shine	湿润光泽
+Bloom	泛光
+Adds a soft glow bloom effect to bright areas.	向明亮区域添加柔和泛光。
+Soft knee	柔和过渡
+Radius	半径
+Blueprint drawing	蓝图
+Transforms the image into a blueprint-style drawing.	将图片转换为蓝图风格。
+Line strength	线条强度
+Detail	细节
+Grid intensity	网格强度
+Texture	纹理
+Glow	发光
+Applies a blur effect.	应用模糊效果。
+Border	边框
+Adds a border to the image.	为图片添加边框。
+Type	类型
+Outside	外侧
+Inside	内侧
+Dash style	虚线样式
+Solid	实线
+Dash	虚线
+Dot	点线
+Brick wall border	砖墙边框
+Adds a procedural brick wall texture border with mortar lines, shading, and color variation.	添加带灰缝、明暗和色差的砖墙纹理边框。
+Brick color	砖块颜色
+Mortar color	灰缝颜色
+Mortar thickness	灰缝粗细
+Color variation	颜色变化
+Bevel strength	斜面强度
+Candy Cane Border	拐杖糖边框
+Adds a candy cane striped border around the image.	为图片添加拐杖糖条纹边框。
+Border Width	边框宽度
+Stripe Width	条纹宽度
+Color A	颜色 A
+Color B	颜色 B
+Gloss	光泽
+Cartoon sticker cutout	卡通贴纸剪影
+Applies a cartoon sticker cutout effect with quantized colors and ink edges.	通过减少色阶和墨线边缘生成卡通贴纸效果。
+Color levels	色阶数
+Edge threshold	边缘阈值
+Ink strength	墨线强度
+Sticker border	贴纸边框
+Border strength	边框强度
+Celtic knot border	凯尔特结边框
+Adds an interweaving Celtic knot pattern border inspired by Insular art manuscripts.	添加源自岛屿艺术手稿的交织凯尔特结边框。
+Knot color	绳结颜色
+Strand width	绳股宽度
+Outline strands	绳股轮廓
+Inner line	内侧线条
+Chain link border	铁丝网边框
+Adds a metallic chain-link fence border with interlocking wire loops and highlights.	添加带交织金属环和高光的铁丝网边框。
+Wire color	金属丝颜色
+Wire width	金属丝宽度
+Wire highlight	金属丝高光
+Chalk Drawing	粉笔画
+Simulates a chalk drawing on a dark surface.	模拟深色表面上的粉笔画。
+Roughness	粗糙度
+Chalk Color	粉笔颜色
+Board Color	黑板颜色
+Chromatic aberration	色差
+Simulates lens chromatic aberration with RGB channel splitting.	通过分离 RGB 通道模拟镜头色差。
+Edge start	边缘起点
+Chrome metallic border	镀铬金属边框
+Adds a shiny chrome metallic border with realistic specular highlights and reflections.	添加带镜面高光与反射的镀铬金属边框。
+Tint color	染色颜色
+Reflectivity	反射率
+Outer line	外侧线条
+Circuit board border	电路板边框
+Adds a PCB circuit board border with copper traces, vias, and pads on a dark substrate.	添加带铜走线、过孔和焊盘的深色电路板边框。
+Board color	基板颜色
+Trace color	走线颜色
+Trace density	走线密度
+Trace glow	走线发光
+Claymation texture	黏土动画纹理
+Gives the image a sculpted claymation look with chunky quantization and relief texture.	通过块状色阶与浮雕纹理模拟黏土动画外观。
+Chunk size	块大小
+Smoothness	平滑度
+Relief	浮雕程度
+Saturation	饱和度
+Texture grain	纹理颗粒
+Clouds	云朵
+Overlays procedurally generated clouds onto the image.	向图片叠加生成的云朵。
+Coverage	覆盖率
+Height bias	高度偏移
+Softness	柔和度
+Sunlight	阳光
+Color depth	色深
+Reduces the number of bits per color channel.	减少每个颜色通道的位数。
+Bits per channel	每通道位数
+Color halftone	彩色半色调
+Simulates CMYK color halftone printing with rotated dot grids.	通过旋转网点模拟 CMYK 半色调印刷。
+Dot size	网点大小
+Color splash	局部保色
+Keeps one color and desaturates the rest of the image.	保留一种颜色，将其余区域去色。
+Target hue	目标色相
+Convolution matrix	卷积矩阵
+Applies a custom 3x3 convolution kernel to the image.	对图片应用自定义 3×3 卷积核。
+Factor	系数
+Offset	偏移
+Crimson border	绯红边框
+Adds a rich crimson/dark red border with an inner glow effect.	添加带内发光的绯红或深红边框。
+Glow strength	发光强度
+Crosshatch	交叉排线
+Renders the image as a crosshatch pen drawing.	将图片绘制为交叉排线钢笔画。
+Line spacing	线条间距
+Line thickness	线条粗细
+Layer count	层数
+CRT	显像管屏幕
+Simulates a CRT monitor with scanlines, RGB shift, noise, and vignette.	通过扫描线、RGB 偏移、噪点和暗角模拟显像管屏幕。
+Scanline strength	扫描线强度
+RGB shift	RGB 偏移
+Vignette strength	暗角强度
+Crystalize shards	晶体碎片
+Breaks the image into crystalline Voronoi shards with edge highlights.	将图片分割为带边缘高光的晶体碎片。
+Shard size	碎片大小
+Jitter	抖动
+Edge strength	边缘强度
+Shine	光泽
+Crystal prism	水晶棱镜
+Refracts and disperses light through crystal-like facets.	通过水晶切面模拟光线折射与色散。
+Facet size	切面大小
+Dispersion	色散
+Sparkle	闪光
+Cyanotype	蓝晒
+Simulates a cyanotype photographic printing process with blue-toned output.	模拟蓝色调的蓝晒摄影印相。
+Paper texture	纸张纹理
+Stain	污渍
+Grain	颗粒
+Vignette	暗角
+Datamosh smear	数据故障拖影
+Simulates digital datamoshing with smeared pixel blocks and channel splitting.	通过像素块拖影与通道分离模拟数据故障。
+Smear amount	拖影程度
+Corruption	损坏程度
+Block size	块大小
+Drift	漂移
+Channel split	通道分离
+Diamond pixelate	菱形马赛克
+Pixelates the image using diamond-shaped blocks.	使用菱形色块生成马赛克。
+Disposable camera	一次性胶片相机
+Simulates the look of a disposable film camera with flash, grain, and warmth.	通过闪光、颗粒和暖色模拟一次性胶片相机。
+Flash	闪光
+Dithering	抖色
+Applies dithering to reduce color depth with various methods and palettes.	使用不同算法和调色板进行抖色，降低色深。
+Method	方法
+Palette	调色板
+1-bit B&W	1 位黑白
+Web safe 216	216 色网页安全色
+Grayscale 4	4 级灰度
+Serpentine	蛇形扫描
+Dot Matrix	点阵打印
+Simulates a vintage dot matrix printer output.	模拟老式点阵打印机输出。
+Cell Size	单元格大小
+Dot Scale	点大小
+Dot Color	点颜色
+Paper Color	纸张颜色
+Double exposure	双重曝光
+Blends a blurred ghost of the image over itself to simulate double exposure.	将模糊重影叠加到原图上，模拟双重曝光。
+Blend amount	混合程度
+Ghost blur	重影模糊
+Highlight bias	高光偏移
+Dream glow	梦幻柔光
+Creates a dreamy soft glow by blending a blurred copy over the original.	将模糊副本与原图混合，生成梦幻柔光。
+Blur radius	模糊半径
+Blend opacity	混合不透明度
+Edge detect	边缘检测
+Detects visible edges in the image.	检测图片中的可见边缘。
+Edge feather	边缘羽化
+Softens the edges of non-transparent regions with a feathered alpha falloff.	通过透明度渐变柔化不透明区域的边缘。
+Emboss	浮雕
+Applies an emboss effect.	应用浮雕效果。
+Embroidery	刺绣
+Simulates a cross-stitch embroidery pattern.	模拟十字绣图案。
+Stitch Size	针脚大小
+Color Count	颜色数量
+Show Grid	显示网格
+Fabric Color	布料颜色
+Engraving	版画
+Simulates a line engraving effect like banknote illustrations.	模拟钞票插图风格的线刻版画。
+Line Spacing	线条间距
+Max Line Width	最大线宽
+Line Color	线条颜色
+Etched glass	蚀刻玻璃
+Simulates an etched glass surface with frost, engraving, and refraction effects.	模拟带磨砂、蚀刻和折射的玻璃表面。
+Frost	磨砂
+Engrave	蚀刻
+Background fade	背景淡化
+Fake Hair	仿真毛发
+Scatters realistic hair strands over the image to annoy your friends.	在图片上随机散布仿真毛发。
+Hair Count	毛发数量
+Length	长度
+Curliness	卷曲程度
+Hair Color	毛发颜色
+Film grain	胶片颗粒
+Adds organic film-like grain texture.	添加自然胶片颗粒纹理。
+Monochrome	单色
+Film strip frame	胶片边框
+Wraps the image in a cinema film strip frame with sprocket holes.	为图片添加带齿孔的电影胶片边框。
+Hole size	齿孔大小
+Frame color	边框颜色
+Side strips	侧边条
+Scratches	划痕
+Frosted glass + ice edges	磨砂玻璃与冰霜边缘
+Combines frosted glass distortion with icy edge highlights and cool tinting.	结合磨砂玻璃变形、冰霜边缘高光与冷色调。
+Distortion	变形
+Ice strength	冰霜强度
+Tint	色调
+Frosted glass	磨砂玻璃
+Simulates looking through frosted glass by randomizing nearby pixels.	通过随机移动邻近像素模拟磨砂玻璃。
+Frost ice border	冰霜边框
+Adds a frosted ice crystal border with rime buildup and icy blue highlights.	添加带霜晶与冰蓝高光的边框。
+Ice color	冰霜颜色
+Crystallization	结晶程度
+Transparency	透明度
+Ice sparkle	冰晶闪光
+Gaussian blur	高斯模糊
+Applies a Gaussian blur effect.	应用高斯模糊。
+Ghost trail	残影轨迹
+Creates fading ghost copies offset from the original image.	生成偏离原图并逐渐淡出的残影。
+Copies	副本数量
+Fade	淡出
+Glare	眩光
+Adds a bright glare/light flare at a specified position.	在指定位置添加明亮眩光。
+Position X (%)	水平位置（%）
+Position Y (%)	垂直位置（%）
+Ray count	光线数量
+Ray length	光线长度
+Glitch shift	故障偏移
+Randomly shifts horizontal bands of the image for a digital glitch look.	随机移动图片水平条带，模拟数字故障。
+Band count	条带数量
+Applies a glowing effect.	应用发光效果。
+Golden border	金色边框
+Adds a luxurious picture frame border to the image.	为图片添加华丽的相框边框。
+Inner border	内边框
+Outer border	外边框
+Gradient fade border	渐变边框
+Adds a multi-stop gradient border that smoothly fades between configurable colors.	添加在多种自定义颜色间平滑过渡的渐变边框。
+Outer color	外侧颜色
+Mid color	中间颜色
+Inner color	内侧颜色
+Mid-color position %	中间颜色位置 %
+Inner glow edge	内发光边缘
+Halation	胶片光晕
+Simulates film halation where bright areas bleed warm light into surrounding regions.	模拟胶片高亮区域向周围渗出暖光的光晕。
+Halftone	半色调
+Converts the image into a CMYK halftone dot pattern.	将图片转换为 CMYK 半色调网点图案。
+Dot softness	网点柔和度
+Source blend	原图混合
+Angle offset	角度偏移
+Heat haze refraction	热浪折射
+Simulates heat haze refraction with wavy distortion.	通过波浪变形模拟热浪折射。
+Frequency	频率
+Luminance influence	亮度影响
+Heat map	热力图
+Maps image luminance to a fire-like color gradient.	将图片亮度映射为火焰色渐变。
+Hexagonal pixelate	六边形马赛克
+Pixelates the image using hexagonal tiles.	使用六边形块生成马赛克。
+Hologram scan	全息扫描
+Applies a holographic scanline effect with glitch and glow.	应用带故障和发光的全息扫描线效果。
+Glitch amount	故障程度
+Chroma shift	色度偏移
+Glow amount	发光程度
+Holographic foil shimmer	全息箔闪光
+Overlays a rainbow holographic foil shimmer effect.	叠加彩虹全息箔闪光效果。
+Specular	镜面反射
+Infrared false color	红外伪彩
+Simulates infrared false color photography.	模拟红外伪彩摄影。
+Foliage shift	植被偏色
+Sky darkening	天空压暗
+Ink splatter + drips	墨水飞溅与滴落
+Adds ink splatter blobs and vertical drip marks.	添加墨点飞溅与垂直滴落痕迹。
+Ink amount	墨水量
+Paper fade	纸张淡化
+Inner shadow	内阴影
+Adds an inner shadow along the edges of opaque regions.	沿不透明区域边缘添加内阴影。
+JPEG artifact	JPEG 压缩失真
+Simulates JPEG compression artifacts with blocking and ringing.	模拟 JPEG 压缩产生的块状失真与振铃。
+Compression	压缩程度
+Chroma bleed	色彩渗出
+Ringing	振铃
+Lava molten border	熔岩边框
+Adds a volcanic border with dark cracked rock and glowing molten lava seams.	添加带深色裂岩与发光熔岩缝隙的火山边框。
+Rock color	岩石颜色
+Lava color	熔岩颜色
+Crack density	裂纹密度
+Glow intensity	发光强度
+Ember sparks	余烬火星
+Lens blur (bokeh)	镜头模糊（散景）
+Applies a disc-shaped lens blur with highlight boost.	应用圆盘形镜头模糊并增强高光。
+Highlight threshold	高光阈值
+Highlight boost	高光增强
+Light leak	漏光
+Adds a warm film light leak effect.	添加暖色胶片漏光效果。
+Position	位置
+Liquid glass	液态玻璃
+Distorts the image as if viewed through liquid glass.	模拟透过液态玻璃观看的变形效果。
+Flow scale	流动尺度
+Liquid mercury	液态水银
+Transforms the image into a reflective liquid mercury surface.	将图片转换为反光液态水银表面。
+Reflection	反射
+Ripple	涟漪
+Fluidity	流动性
+Depth	深度
+Luminance contour lines	亮度等高线
+Draws contour lines based on luminance quantization levels.	根据亮度分级绘制等高线。
+Levels	级数
+Line width	线宽
+Background strength	背景强度
+Line color	线条颜色
+Wraps the image in a macOS-style window frame with a title bar and traffic light buttons.	为图片添加带标题栏和三色按钮的 macOS 风格窗框。
+Dark mode	深色模式
+Shadow size	阴影大小
+Marble border	大理石边框
+Adds a procedural marble-veined texture border around the image.	为图片添加生成的大理石纹理边框。
+Base color	基础颜色
+Vein color	纹脉颜色
+Vein strength	纹脉强度
+Vein scale	纹脉尺度
+Inner bevel	内斜面
+Matrix digital rain	黑客帝国数字雨
+Overlays a Matrix-style digital rain effect using source luminance.	根据原图亮度叠加黑客帝国风格数字雨。
+Trail length	拖尾长度
+Rain offset	数字雨偏移
+Mean removal	去均值
+Removes the mean value from colors.	去除颜色均值，增强细节。
+Median filter	中值滤波
+Applies a median filter to reduce noise while preserving edges.	通过中值滤波减少噪点并保留边缘。

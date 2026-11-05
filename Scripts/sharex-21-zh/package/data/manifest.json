@@ -1,0 +1,43 @@
+{
+  "Version": "21.0.0",
+  "MainHash": "eae64fc357b3548b561b3c02820a552ac7264450971ba1e4c892c8455c9a7190",
+  "EditorHash": "619868ee685cf9920d2459c682122282e7f1fcd5a36561370ed6d769d2e4336c",
+  "CecilHash": "c41bdb9ffd3c5f6e17d2382c1012d73703e035e3f1100245fdd4e08c8dc6eb5b",
+  "EngineHash": "51fae02d8db295d917b4c1240aa5194863f4aeeeb8ec246aa6185988b1681a4c",
+  "EntriesHash": "24a97bc37b551d7ab26f58e97743d34d8efd2196038ef58b9cbabeffecaf1ce1",
+  "EntryCount": 1840,
+  "Resources": [
+    {
+      "Name": "ShareX.HelpersLib.resources.dll",
+      "Hash": "f8792da318aa0ca125c7033b9b6551bfa320fc7808d135e6aaf0a39d3dcd80ca"
+    },
+    {
+      "Name": "ShareX.HistoryLib.resources.dll",
+      "Hash": "010c39fbe49f726bee2178b63296fb5f93126523038737a92f11e04207cdcfce"
+    },
+    {
+      "Name": "ShareX.ImageEffectsLib.resources.dll",
+      "Hash": "e2d4f565e742b620162166d409bbe7b0a70faaca2ff2cefb05c8c384c420ac71"
+    },
+    {
+      "Name": "ShareX.IndexerLib.resources.dll",
+      "Hash": "648be4aa855d73d39635c8bbdd4b42e6885549b56136e1a7ab4f30e77c3f208b"
+    },
+    {
+      "Name": "ShareX.MediaLib.resources.dll",
+      "Hash": "b29892f806490a9e82fba4b20fe7163db9d65fe2c08be46abe821bd0e78e737a"
+    },
+    {
+      "Name": "ShareX.resources.dll",
+      "Hash": "c4234d86e41d0bf8b336d32c297256a18732e62dd0684166f09d42d81d03fa33"
+    },
+    {
+      "Name": "ShareX.ScreenCaptureLib.resources.dll",
+      "Hash": "4ba5942dbe103f8376743e1010c60a027b99af2288f9b7270a25cdadf2dcb210"
+    },
+    {
+      "Name": "ShareX.UploadersLib.resources.dll",
+      "Hash": "55773d2c36522a948eeac575c8b18f7b23728932fc3d118473818291d809c983"
+    }
+  ]
+}
