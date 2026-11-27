@@ -1,0 +1,19 @@
+ShareX Chinese localization tools
+
+Base application:
+  ShareX — https://github.com/ShareX/ShareX
+  Copyright (c) 2007-2026 ShareX Team
+  GPL-3.0; see LICENSE.txt and the original source headers.
+
+Bundled component:
+  Mono.Cecil 0.11.6
+  Path: Scripts/sharex-21-zh/package/data/Mono.Cecil.dll
+  Source: https://github.com/jbevain/cecil/tree/0.11.6
+  License: MIT
+  Full notice: Scripts/sharex-21-zh/package/data/Licenses/Mono.Cecil_license.txt
+  SHA-256: c41bdb9ffd3c5f6e17d2382c1012d73703e035e3f1100245fdd4e08c8dc6eb5b
+
+The package also preserves the ShareX license at:
+  Scripts/sharex-21-zh/package/data/Licenses/ShareX_license.txt
+
+Other application dependencies retain the notices under Licenses/.
